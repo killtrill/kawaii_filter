@@ -41,7 +41,7 @@ yahoo.co.jp##a:contains(/高校野球オンライン|週刊女性|女性自身|�
 !ネットサイトの記事を消す
 !芸能記事のサイト中心
 
-yahoo.co.jp##a:contains(/ママスタセレクト|ママデイズ|BuzzFeed|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|クラシル|ウォーカープラス|ウレぴあ総研|まいどなニュース| かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|anan|VOCE|ハルメク365|おがちゃん先生|GLOBE|中山少年|ファインシャルフィールド|ENCOUNT|たまひよ|オリコン|ヨガジャーナルオンライン|with online|mi-mollet|ESSE|eclat|Techinsight|JBpress/):remove()
+yahoo.co.jp##a:contains(/ママスタセレクト|ママデイズ|BuzzFeed|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|クラシル|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|anan|VOCE|ハルメク365|おがちゃん先生|GLOBE|中山少年|ファインシャルフィールド|ENCOUNT|たまひよ|オリコン|ヨガジャーナルオンライン|with online|mi-mollet|ESSE|eclat|Techinsight|JBpress/):remove()
 
 !YouTuberなどの記事を消す
 !重複単語は表記揺れ対策
