@@ -24,9 +24,9 @@ yahoo_kawaii_filter
 !この世からクラシルを消し去る
 !この2サイト運営元はdely株式会社です
 
-##a[href*="trilltrill"]
-##a[href*=“kurashiru”]
-##a[href*=“dely.jp”]
+##a[href*="trill"]
+##a[href*="kurashiru"]
+##a[href*="dely.jp"]
 
 !気分を害する単語を消す
 !TRILL系列のサイトで頻出する単語
