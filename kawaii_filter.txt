@@ -34,8 +34,8 @@
 
 !ママスタセレクトやBuzzFeedを消滅させる
 
-##a[data-cl-params*="mamasta"]
-##a[data-cl-params*="bfj"]
+!##a[data-cl-params*="mamasta"]
+!##a[data-cl-params*="bfj"]
 
 
 !ここまでSafari機能拡張なし
