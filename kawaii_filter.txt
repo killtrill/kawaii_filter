@@ -30,7 +30,7 @@
 !クラシルを消滅させる
 
 ##a[href*="trilltrill"]
-##a[href*=“kurashiru”]
+##a[href*="kurashiru"]
 
 !ママスタセレクトやBuzzFeedを消滅させる
 
