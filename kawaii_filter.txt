@@ -34,8 +34,8 @@
 
 !ママスタセレクトやBuzzFeedを消滅させる
 
-!##a[data-cl-params*="mamasta"]
-!##a[data-cl-params*="bfj"]
+##a[data-cl-params*="mamasta"]
+##a[data-cl-params*="bfj"]
 
 
 !ここまでSafari機能拡張なし
@@ -49,11 +49,11 @@ yahoo.co.jp##a:contains(/スカッと|モヤっと|バシッと|ズバッと|サ
 
 !週刊誌の記事を消す
 
-yahoo.co.jp##a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民/):remove()
+yahoo.co.jp##a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/):remove()
 
 !ネットサイトの記事を消す
 
-yahoo.co.jp##a:contains(/ママスタセレクト|BuzzFeed|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|うれピア総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricorico|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー/):remove()
+yahoo.co.jp##a:contains(/ママスタセレクト|BuzzFeed|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE/):remove()
 
 
 
