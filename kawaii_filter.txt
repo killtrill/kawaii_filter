@@ -23,19 +23,23 @@
 !その他かわいくないもの
 
 !作者　killtrill
+!Twitter @kawaii_filter
 
 !————————————————————-
 
 !TRILLを消滅させる
 !クラシルを消滅させる
 
-##a[href*="trilltrill"]
-##a[href*="kurashiru"]
+yahoo.co.jp##a[href*="trilltrill"]
+yahoo.co.jp##a[href*="kurashiru"]
 
-!ママスタセレクトやBuzzFeedを消滅させる
+!ママスタセレクト、バズフィード、アベマ、Ameba、ギズモードを消す
 
-##a[data-cl-params*="mamasta"]
-##a[data-cl-params*="bfj"]
+yahoo.co.jp##a[data-cl-params*="mamasta"]
+yahoo.co.jp##a[data-cl-params*="buzzfeed"]
+yahoo.co.jp##a[data-cl-params*="abema"]
+yahoo.co.jp##a[data-cl-params*="ameba"]
+yahoo.co.jp##a[data-cl-params*="giz"]
 
 
 !ここまでSafari機能拡張なし
@@ -56,7 +60,7 @@ yahoo.co.jp##a:contains(/スポニチアネックス|デイリースポーツ|�
 
 !ネットサイトの記事を消す
 
-yahoo.co.jp##a:contains(/ママスタセレクト|BuzzFeed|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド/):remove()
+yahoo.co.jp##a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド|月刊ゴルフ用品界|占いTV|フジテレビュー|mi-mollet|saita|夕刊フジ|MORE|Lmaga.jp|bizSPA|せいたろー|たまひよ|Impress Watch|コスモポリタン|なるフィッシュ|SOCCER DIGEST Web|精神科医しょう|ぽちゃぽちゃチャッキー|100均スリコ大好き|LITALICO発達ナビ/):remove()
 
 
 
