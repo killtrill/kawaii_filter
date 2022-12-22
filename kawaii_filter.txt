@@ -33,6 +33,10 @@
 yahoo.co.jp##a[href*="trilltrill"]
 yahoo.co.jp##a[href*="kurashiru"]
 
+!個人の記事を消す
+
+yahoo.co.jp##a[href*="creators"]
+
 !ママスタセレクト、バズフィード、アベマ、Ameba、ギズモードを消す
 
 yahoo.co.jp##a[data-cl-params*="mamasta"]
@@ -69,7 +73,7 @@ yahoo.co.jp##a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ラ�
 !全角は表記揺れ対策
 
 !YouTuber
-yahoo.co.jp##a:contains(/YouTuber|ＹｏｕＴｕｂｅｒ|ユーチューバー|ＹＯＵＴＵＢＥＲ|YOUTUBER|Yチューバー|Ｙチューバー|YTuber|ＹＴｕｂｅｒ|VTuber|ＶＴｕｂｅｒ|VTUBER|ＶＴＵＢＥＲ|Vチューバー|Ｖチューバー|TikToker|ＴｉｋＴｏｋｅｒ|ティックトッカー|Instagramer|Ｉｎｓｔａｇｒａｍｅｒ|インスタグラマー|インフルエンサー|にじさんじ/):remove()
+yahoo.co.jp##a:contains(/YouTuber|ＹｏｕＴｕｂｅｒ|ユーチューバー|ＹＯＵＴＵＢＥＲ|YOUTUBER|Yチューバー|Ｙチューバー|YTuber|ＹＴｕｂｅｒ|VTuber|ＶＴｕｂｅｒ|VTUBER|ＶＴＵＢＥＲ|Vチューバー|Ｖチューバー|TikToker|ＴｉｋＴｏｋｅｒ|ティックトッカー|Instagramer|Ｉｎｓｔａｇｒａｍｅｒ|インスタグラマー|インフルエンサー|にじさんじ|フォロワー/):remove()
 
 yahoo.co.jp##a:contains(/ゆたぼん|ゆたぽん|少年革命家|不登校|中村逞珂|中村幸也|東海オンエア|HIKAKIN|ＨＩＫＡＫＩＮ|セイキン/):remove()
 
