@@ -36,6 +36,7 @@ yahoo.co.jp##a[href*="kurashiru"]
 !個人の記事を消す
 
 yahoo.co.jp##a[href*="creators"]
+yahoo.co.jp##a[href*="byline"]
 
 !ママスタセレクト、バズフィード、アベマ、Ameba、ギズモードを消す
 
