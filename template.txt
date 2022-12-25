@@ -10,8 +10,11 @@
 !##aをつけると要素を除去できます
 ![href*=""]の""の中にサイトURLに含まれる文字列を挿入して使います。
 !TRILLはサイトへのリンクが貼ってあるため、このルールで除去できます。
+!先頭のyahoo.co.jpはルール適用先をYahooのみとするルールです。
+!全サイトで適用したい場合は、##aより前を消してください。
+!Yahoo以外のサイトで適用したい場合は、例えばamazon.co.jpなど編集してください。
 
-!yahoo.co.jp##a[href*="trilltrill"]
+yahoo.co.jp##a[href*="trilltrill"]
 
 !————————————————————-
 
@@ -20,7 +23,7 @@
 !Yahooニュース上で公開されている記事が消せないため、このルールで消します。
 !設定を探すのが難しいため、非推奨。
 
-!yahoo.co.jp##a[data-cl-params*="mamasta"]
+yahoo.co.jp##a[data-cl-params*="mamasta"]
 
 !————————————————————-
 
@@ -29,5 +32,5 @@
 !複数の単語を除去する場合、単語同士を|で区切ってください。
 !YouTuber、ＹｏｕＴｕｂｅｒ、ユーチューバーなど表記揺れに注意してください。
 
-!yahoo.co.jp##a:contains(/TRILL|liBae|ママスタセレクト|/):remove()
+yahoo.co.jp##a:contains(/TRILL|liBae|ママスタセレクト|/):remove()
 
