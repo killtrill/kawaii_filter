@@ -52,8 +52,9 @@ yahoo.co.jp##a[href*="byline"]
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
 
-!バズフィード
+!バズフィード　表記揺れかわいくない
 yahoo.co.jp##a[data-cl-params*="bfj"]
+yahoo.co.jp##a[data-cl-params*="buzzfeed"]
 
 !あるじゃん
 yahoo.co.jp##a[data-cl-params*="argent"]
