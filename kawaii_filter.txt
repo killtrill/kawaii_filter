@@ -39,87 +39,6 @@ yahoo.co.jp##a[href*="kurashiru"]
 yahoo.co.jp##a[href*="creators"]
 yahoo.co.jp##a[href*="byline"]
 
-!試験
-!ギズモード
-yahoo.co.jp##a[data-cl-params*="giz"]
-
-!ランキングー
-yahoo.co.jp##a[data-cl-params*="rankingoo"]
-
-!Techinsight
-yahoo.co.jp##a[data-cl-params*="techinq"]
-
-!プレシデントオンライン
-yahoo.co.jp##a[data-cl-params*="president"]
-
-!リアルサウンド
-yahoo.co.jp##a[data-cl-params*="realsound"]
-
-!クランクイン
-yahoo.co.jp##a[data-cl-params*="crankinn"]
-
-!幻冬舎ゴールドオンライン
-yahoo.co.jp##a[data-cl-params*="gonline"]
-
-!News Vision
-yahoo.co.jp##a[data-cl-params*="newsvision"]
-
-!ENCOUNT
-yahoo.co.jp##a[data-cl-params*="encount"]
-
-!Kstyle
-yahoo.co.jp##a[data-cl-params*="kstylens"]
-
-!ハフポスト
-yahoo.co.jp##a[data-cl-params*="huffpost"]
-
-!オリコン
-yahoo.co.jp##a[data-cl-params*="oric"]
-
-!THE ANSWER
-yahoo.co.jp##a[data-cl-params*="theanswer"]
-
-!cinemacafe.net
-yahoo.co.jp##a[data-cl-params*="cine"]
-
-!J-CASTニュース
-yahoo.co.jp##a[data-cl-params*="jct"]
-
-!MusicVoice
-yahoo.co.jp##a[data-cl-params*="musicv"]
-
-!インサイド
-yahoo.co.jp##a[data-cl-params*="isd"]
-
-!FORZA STYLE
-yahoo.co.jp##a[data-cl-params*="forza"]
-
-!Hint-Pot
-yahoo.co.jp##a[data-cl-params*="hintpot"]
-
-!E-TALENTBANK
-yahoo.co.jp##a[data-cl-params*="etalent"]
-
-!ファイナンシャルフィールド
-yahoo.co.jp##a[data-cl-params*="ffield"]
-
-!saita
-yahoo.co.jp##a[data-cl-params*="saita"]
-
-!レスポンス
-yahoo.co.jp##a[data-cl-params*="rps"]
-
-!くるまのニュース
-yahoo.co.jp##a[data-cl-params*="carview"]
-
-!ENGINE WEB
-yahoo.co.jp##a[data-cl-params*="engine"]
-
-!webオートバイ
-yahoo.co.jp##a[data-cl-params*="autoby"]
-
-!フジテレビュー
-yahoo.co.jp##a[data-cl-params*="fujitv"]
 
 !-------------------------------------------------------------------
 
@@ -141,8 +60,8 @@ yahoo.co.jp##a[data-cl-params*="abema"]
 !Ameba News
 yahoo.co.jp##a[data-cl-params*="ameba"]
 
-
-
+!ギズモード
+yahoo.co.jp##a[data-cl-params*="giz"]
 
 
 !ここまでSafari機能拡張なし
