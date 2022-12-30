@@ -46,7 +46,7 @@ yahoo.co.jp##a[href*="byline"]
 
 !-------------------------------------------------------------------
 
-!engineを入れるとばぐるらしい
+!engineを入れるとばぐるらしい->"rcengine"にひっかかる
 !ネット記事
 
 !ママスタセレクト
@@ -143,6 +143,9 @@ yahoo.co.jp##a[data-cl-params*="autoby"]
 !フジテレビュー
 yahoo.co.jp##a[data-cl-params*="fujitv"]
 
+!ELLEgirl
+yahoo.co.jp##a[data-cl-params*="ellegirl"]
+
 
 !-------------------------------------------------------------------
 
@@ -157,8 +160,22 @@ yahoo.co.jp##a[data-cl-params*="goal"]
 !SOCCER DIGEST Web
 yahoo.co.jp##a[data-cl-params*="sdigestw"]
 
+!サッカー集約
+yahoo.co.jp##a[data-cl-params*="soccer"]
 !FOOTBALL ZONE
-yahoo.co.jp##a[data-cl-params*="soccermzw"]
+!yahoo.co.jp##a[data-cl-params*="soccermzw"]
+!超サッカー
+!yahoo.co.jp##a[data-cl-params*="usoccer"]
+!高校サッカードットコム
+!yahoo.co.jp##a[data-cl-params*="kksoccer"]
+!サッカー批評web
+!yahoo.co.jp##a[data-cl-params*="soccerh"]
+
+!フットボールチャンネル
+yahoo.co.jp##a[data-cl-params*="footballc"]
+
+!ザワールドウェブ
+yahoo.co.jp##a[data-cl-params*="theworldw"]
 
 !テニスマガジン
 yahoo.co.jp##a[data-cl-params*="tennismagv"]
@@ -169,6 +186,8 @@ yahoo.co.jp##a[data-cl-params*="gdo"]
 !BASKET COUNT
 yahoo.co.jp##a[data-cl-params*="basket"]
 
+!netkeirin
+yahoo.co.jp##a[data-cl-params*="nkeirin"]
 
 !-------------------------------------------------------------------
 
