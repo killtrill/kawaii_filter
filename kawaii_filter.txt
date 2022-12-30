@@ -53,7 +53,10 @@ yahoo.co.jp##a[href*="byline"]
 yahoo.co.jp##a[data-cl-params*="mamasta"]
 
 !バズフィード
-yahoo.co.jp##a[data-cl-params*="buzzfeed"]
+yahoo.co.jp##a[data-cl-params*="bfj"]
+
+!あるじゃん
+yahoo.co.jp##a[data-cl-params*="argent"]
 
 !ABEMA TIMES
 yahoo.co.jp##a[data-cl-params*="abema"]
