@@ -138,7 +138,7 @@ yahoo.co.jp##a[data-cl-params*="engine"]
 yahoo.co.jp##a[data-cl-params*="autoby"]
 
 !フジテレビュー
-yahoo.co.jp##a[data-cl-params*="fujitv-view"]
+yahoo.co.jp##a[data-cl-params*="fujitv"]
 
 
 !-------------------------------------------------------------------
@@ -172,7 +172,7 @@ yahoo.co.jp##a[data-cl-params*="basket"]
 !アニメとか
 
 !ねとらぼ
-yahoo.co.jp##a[data-cl-params*="it_nlab"]
+yahoo.co.jp##a[data-cl-params*="nlab"]
 
 !MANTANWEB
 yahoo.co.jp##a[data-cl-params*="mantan"]
