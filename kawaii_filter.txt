@@ -39,6 +39,9 @@ yahoo.co.jp##a[href*="kurashiru"]
 yahoo.co.jp##a[href*="creators"]
 yahoo.co.jp##a[href*="byline"]
 
+!試験用　自動再生される動画
+yahoo.co.jp##a[href*="video"]
+
 
 !-------------------------------------------------------------------
 
