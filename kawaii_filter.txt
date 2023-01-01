@@ -61,6 +61,9 @@ yahoo.co.jp##a[data-cl-params*="mamasta"]
 yahoo.co.jp##a[data-cl-params*="bfj"]
 yahoo.co.jp##a[data-cl-params*="buzzfeed"]
 
+!ウレぴあ総研
+yahoo.co.jp##a[data-cl-params*="urepia"]
+
 !サンキュ
 yahoo.co.jp##a[data-cl-params*="thankyu"]
 
@@ -87,6 +90,9 @@ yahoo.co.jp##a[data-cl-params*="withonline"]
 
 !ウォーカープラス
 yahoo.co.jp##a[data-cl-params*="tkwalk"]
+
+!MOVIE WALKER PRESS
+yahoo.co.jp##a[data-cl-params*="mvwalk"]
 
 !まいどなニュース
 yahoo.co.jp##a[data-cl-params*="maidonans"]
@@ -126,6 +132,15 @@ yahoo.co.jp##a[data-cl-params*="anna"]
 
 !BCN
 yahoo.co.jp##a[data-cl-params*="bcn"]
+
+!25ansヴァンサンカン
+yahoo.co.jp##a[data-cl-params*="vingtcinq"]
+
+!25ansウエディング
+yahoo.co.jp##a[data-cl-params*="vingtcinqw"]
+
+!毎日キレイ
+yahoo.co.jp##a[data-cl-params*="maikirei"]
 
 !ABEMA TIMES
 yahoo.co.jp##a[data-cl-params*="abema"]
@@ -225,6 +240,13 @@ yahoo.co.jp##a[data-cl-params*="baila"]
 
 !JBpress
 yahoo.co.jp##a[data-cl-params*="jbpressz"]
+
+!映画ナタリー
+yahoo.co.jp##a[data-cl-params*="nataliee"]
+
+!音楽ナタリー
+yahoo.co.jp##a[data-cl-params*="natalien"]
+
 !-------------------------------------------------------------------
 
 !スポーツ
@@ -249,6 +271,9 @@ yahoo.co.jp##a[data-cl-params*="soccer"]
 !サッカー批評web
 !yahoo.co.jp##a[data-cl-params*="soccerh"]
 
+!ゲキサカ
+yahoo.co.jp##a[data-cl-params*="gekisaka"]
+
 !フットボールチャンネル
 yahoo.co.jp##a[data-cl-params*="footballc"]
 
@@ -264,6 +289,9 @@ yahoo.co.jp##a[data-cl-params*="gdo"]
 !BASKET COUNT
 yahoo.co.jp##a[data-cl-params*="basket"]
 
+!バスケットボールキング
+yahoo.co.jp##a[data-cl-params*="bballk"]
+
 !netkeirin
 yahoo.co.jp##a[data-cl-params*="nkeirin"]
 
@@ -272,6 +300,12 @@ yahoo.co.jp##a[data-cl-params*="tsurinews"]
 
 !BOATRACE
 yahoo.co.jp##a[data-cl-params*="spnaviow"]
+
+!RONSPO
+yahoo.co.jp##a[data-cl-params*="ronspo"]
+
+!イーファイト
+yahoo.co.jp##a[data-cl-params*="gbr"]
 
 !-------------------------------------------------------------------
 
@@ -294,6 +328,12 @@ yahoo.co.jp##a[data-cl-params*="gamepedia"]
 
 !おたくま経済新聞
 yahoo.co.jp##a[data-cl-params*="otakuma"]
+
+!デビュー
+yahoo.co.jp##a[data-cl-params*="devi"]
+
+!SPICE
+yahoo.co.jp##a[data-cl-params*="spice"]
 
 !-------------------------------------------------------------------
 
@@ -343,6 +383,9 @@ yahoo.co.jp##a[data-cl-params*="cnippou"]
 
 !聯合ニュース
 yahoo.co.jp##a[data-cl-params*="yonh"]
+
+!KOREAWAVE
+yahoo.co.jp##a[data-cl-params*="clc_korea"]
 
 !ViVi
 yahoo.co.jp##a[data-cl-params*="netvivi"]
