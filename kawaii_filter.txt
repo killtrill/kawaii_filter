@@ -61,8 +61,71 @@ yahoo.co.jp##a[data-cl-params*="mamasta"]
 yahoo.co.jp##a[data-cl-params*="bfj"]
 yahoo.co.jp##a[data-cl-params*="buzzfeed"]
 
+!サンキュ
+yahoo.co.jp##a[data-cl-params*="thankyu"]
+
 !あるじゃん
 yahoo.co.jp##a[data-cl-params*="argent"]
+
+!AllAbout
+yahoo.co.jp##a[data-cl-params*="nallabout"]
+
+!クーリエ・ジャポン
+yahoo.co.jp##a[data-cl-params*="courrier"]
+
+!Jタウンネット
+yahoo.co.jp##a[data-cl-params*="jtown"]
+
+!ソトコトオンライン
+yahoo.co.jp##a[data-cl-params*="sotokoto"]
+
+!オトナンサー
+yahoo.co.jp##a[data-cl-params*="otonans"]
+
+!withonline
+yahoo.co.jp##a[data-cl-params*="withonline"]
+
+!ウォーカープラス
+yahoo.co.jp##a[data-cl-params*="tkwalk"]
+
+!まいどなニュース
+yahoo.co.jp##a[data-cl-params*="maidonans"]
+
+!よろず～ニュース
+yahoo.co.jp##a[data-cl-params*="yorozuns"]
+
+!サライjp
+yahoo.co.jp##a[data-cl-params*="seraijp"]
+
+!webマガジンmimollet
+yahoo.co.jp##a[data-cl-params*="mimollet"]
+
+!magacol
+yahoo.co.jp##a[data-cl-params*="magacol"]
+
+!kufura
+yahoo.co.jp##a[data-cl-params*="kufura"]
+
+!ヨガジャーナルオンライン
+yahoo.co.jp##a[data-cl-params*="yogajol"]
+
+!Lmagajp
+yahoo.co.jp##a[data-cl-params*="lmaga"]
+
+!ハルメク365
+yahoo.co.jp##a[data-cl-params*="halmek"]
+
+!LIMO
+yahoo.co.jp##a[data-cl-params*="toushin"]
+
+!ライフハッカージャパン
+yahoo.co.jp##a[data-cl-params*="lifeh"]
+
+!anna
+yahoo.co.jp##a[data-cl-params*="anna"]
+
+!BCN
+yahoo.co.jp##a[data-cl-params*="bcn"]
 
 !ABEMA TIMES
 yahoo.co.jp##a[data-cl-params*="abema"]
@@ -160,7 +223,7 @@ yahoo.co.jp##a[data-cl-params*="piaeigat"]
 !BAILA
 yahoo.co.jp##a[data-cl-params*="baila"]
 
-!TSURINEWS
+!JBpress
 yahoo.co.jp##a[data-cl-params*="jbpressz"]
 !-------------------------------------------------------------------
 
@@ -207,6 +270,9 @@ yahoo.co.jp##a[data-cl-params*="nkeirin"]
 !TSURINEWS
 yahoo.co.jp##a[data-cl-params*="tsurinews"]
 
+!BOATRACE
+yahoo.co.jp##a[data-cl-params*="spnaviow"]
+
 !-------------------------------------------------------------------
 
 !アニメとか
@@ -222,6 +288,12 @@ yahoo.co.jp##a[data-cl-params*="futaman"]
 
 !マグミクス
 yahoo.co.jp##a[data-cl-params*="magmix"]
+
+!攻略大百科
+yahoo.co.jp##a[data-cl-params*="gamepedia"]
+
+!おたくま経済新聞
+yahoo.co.jp##a[data-cl-params*="otakuma"]
 
 !-------------------------------------------------------------------
 
@@ -241,6 +313,9 @@ yahoo.co.jp##a[data-cl-params*="jprime"]
 
 !週刊SPA
 yahoo.co.jp##a[data-cl-params*="sspa"]
+
+!bizSPA
+yahoo.co.jp##a[data-cl-params*="bizspa"]
 
 !週刊文春
 yahoo.co.jp##a[data-cl-params*="bunshun"]
@@ -265,6 +340,9 @@ yahoo.co.jp##a[data-cl-params*="chosun"]
 
 !中央日報
 yahoo.co.jp##a[data-cl-params*="cnippou"]
+
+!聯合ニュース
+yahoo.co.jp##a[data-cl-params*="yonh"]
 
 !ViVi
 yahoo.co.jp##a[data-cl-params*="netvivi"]
