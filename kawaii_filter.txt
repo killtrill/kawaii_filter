@@ -41,6 +41,8 @@ yahoo.co.jp##a[href*="byline"]
 
 !試験用　自動再生される動画
 yahoo.co.jp##a[href*="video"]
+!試験用　PR
+yahoo.co.jp##a[href*="toku"]
 
 
 !-------------------------------------------------------------------
@@ -149,7 +151,17 @@ yahoo.co.jp##a[data-cl-params*="fujitv"]
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
 
+!おとなの週末
+yahoo.co.jp##a[data-cl-params*="matomeshi"]
 
+!ぴあ
+yahoo.co.jp##a[data-cl-params*="piaeigat"]
+
+!BAILA
+yahoo.co.jp##a[data-cl-params*="baila"]
+
+!TSURINEWS
+yahoo.co.jp##a[data-cl-params*="jbpressz"]
 !-------------------------------------------------------------------
 
 !スポーツ
@@ -192,6 +204,9 @@ yahoo.co.jp##a[data-cl-params*="basket"]
 !netkeirin
 yahoo.co.jp##a[data-cl-params*="nkeirin"]
 
+!TSURINEWS
+yahoo.co.jp##a[data-cl-params*="tsurinews"]
+
 !-------------------------------------------------------------------
 
 !アニメとか
@@ -211,6 +226,9 @@ yahoo.co.jp##a[data-cl-params*="magmix"]
 !-------------------------------------------------------------------
 
 !週刊誌・ゴシップ紙
+
+!Wedge
+yahoo.co.jp##a[data-cl-params*="wedge"]
 
 !日刊ゲンダイ
 yahoo.co.jp##a[data-cl-params*="nkgendai"]
