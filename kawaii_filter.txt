@@ -41,8 +41,9 @@ yahoo.co.jp##a[href*="byline"]
 
 !試験用　自動再生される動画
 yahoo.co.jp##a[href*="video"]
-!試験用　PR
+!試験用　YahooショッピングPR
 yahoo.co.jp##a[href*="toku"]
+yahoo.co.jp##a[href*="commerce"]
 
 
 !-------------------------------------------------------------------
@@ -247,6 +248,9 @@ yahoo.co.jp##a[data-cl-params*="nataliee"]
 !音楽ナタリー
 yahoo.co.jp##a[data-cl-params*="natalien"]
 
+!SafariOnline
+yahoo.co.jp##a[data-cl-params*="safariweb"]
+
 !-------------------------------------------------------------------
 
 !スポーツ
@@ -392,6 +396,13 @@ yahoo.co.jp##a[data-cl-params*="netvivi"]
 
 !デイリー新潮
 yahoo.co.jp##a[data-cl-params*="shincho"]
+
+!ニューズウィーク
+yahoo.co.jp##a[data-cl-params*="newsweek"]
+
+!-------------------------------------------------------------------
+
+!スポーツ紙
 
 
 !ここまでSafari機能拡張なし
