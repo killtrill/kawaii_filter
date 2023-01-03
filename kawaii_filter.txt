@@ -232,6 +232,12 @@ yahoo.co.jp##a[data-cl-params*="nataliee"]
 !音楽ナタリー
 yahoo.co.jp##a[data-cl-params*="natalien"]
 
+!フィガロジャポン
+yahoo.co.jp##a[data-cl-params*="figaro"]
+
+!映画.com
+yahoo.co.jp##a[data-cl-params*="eiga"]
+
 !*******************************************
 
 !趣味系
@@ -262,6 +268,9 @@ yahoo.co.jp##a[data-cl-params*="safariweb"]
 
 !T JAPAN web
 yahoo.co.jp##a[data-cl-params*="tjapan"]
+
+!FASHIONSNAP.COM
+yahoo.co.jp##a[data-cl-params*="fashions"]
 
 !-------------------------------------------
 
@@ -332,6 +341,9 @@ yahoo.co.jp##a[data-cl-params*="basket"]
 !バスケットボールキング
 yahoo.co.jp##a[data-cl-params*="bballk"]
 
+!月刊バスケットボール
+yahoo.co.jp##a[data-cl-params*="nbpvbball"]
+
 !*******************************************
 
 !ゴルフ
@@ -385,12 +397,18 @@ yahoo.co.jp##a[data-cl-params*="ronspo"]
 !イーファイト
 yahoo.co.jp##a[data-cl-params*="gbr"]
 
+!バトルニュース
+yahoo.co.jp##a[data-cl-params*="battlen"]
+
 !*******************************************
 
 !その他
 
 !月刊バレーボール
 yahoo.co.jp##a[data-cl-params*="getsuv"]
+
+!ラグビーリパブリック
+yahoo.co.jp##a[data-cl-params*="ragbyrp"]
 
 !-------------------------------------------
 
