@@ -385,6 +385,13 @@ yahoo.co.jp##a[data-cl-params*="ronspo"]
 !イーファイト
 yahoo.co.jp##a[data-cl-params*="gbr"]
 
+!*******************************************
+
+!その他
+
+!月刊バレーボール
+yahoo.co.jp##a[data-cl-params*="getsuv"]
+
 !-------------------------------------------
 
 !アニメ系サイト
