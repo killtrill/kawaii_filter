@@ -407,8 +407,8 @@ yahoo.co.jp##a[data-cl-params*="battlen"]
 !月刊バレーボール
 yahoo.co.jp##a[data-cl-params*="getsuv"]
 
-!ラグビーリパブリック
-yahoo.co.jp##a[data-cl-params*="ragbyrp"]
+!ラグビーリパブリック（ラグビーマガジン）
+yahoo.co.jp##a[data-cl-params*="rugbyrp"]
 
 !-------------------------------------------
 
