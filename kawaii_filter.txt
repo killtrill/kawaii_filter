@@ -193,6 +193,9 @@ yahoo.co.jp##a[data-cl-params*="ellegirl"]
 
 !芸能
 
+!Yahoo!テレビGガイド
+yahoo.co.jp##a[data-cl-params*="tvdogatch]
+
 !ウォーカープラス
 yahoo.co.jp##a[data-cl-params*="tkwalk"]
 
@@ -271,6 +274,9 @@ yahoo.co.jp##a[data-cl-params*="tjapan"]
 
 !FASHIONSNAP.COM
 yahoo.co.jp##a[data-cl-params*="fashions"]
+
+!Book Bang
+yahoo.co.jp##a[data-cl-params*="bookbang"]
 
 !-------------------------------------------
 
@@ -371,12 +377,18 @@ yahoo.co.jp##a[data-cl-params*="tennismagv"]
 !Tennis Classic
 yahoo.co.jp##a[data-cl-params*="tennisc"]
 
+!tennis365.net
+yahoo.co.jp##a[data-cl-params*="tennisnet"]
+
 !*******************************************
 
 !公営ギャンブル
 
 !netkeiba
 yahoo.co.jp##a[data-cl-params*="kiba"]
+
+!競馬のおはなし
+yahoo.co.jp##a[data-cl-params*="keibana"]
 
 !netkeirin
 yahoo.co.jp##a[data-cl-params*="nkeirin"]
@@ -410,6 +422,9 @@ yahoo.co.jp##a[data-cl-params*="getsuv"]
 !ラグビーリパブリック（ラグビーマガジン）
 yahoo.co.jp##a[data-cl-params*="rugbyrp"]
 
+!mmotorsport.com
+yahoo.co.jp##a[data-cl-params*="msportcom"]
+
 !-------------------------------------------
 
 !アニメ系サイト
@@ -439,6 +454,9 @@ yahoo.co.jp##a[data-cl-params*="devi"]
 
 !SPICE
 yahoo.co.jp##a[data-cl-params*="spice"]
+
+!KAI-YOU.net
+yahoo.co.jp##a[data-cl-params*="kaiyou"]
 
 !-------------------------------------------
 
@@ -512,6 +530,9 @@ yahoo.co.jp##a[data-cl-params*="clc_korea"]
 !ニューズウィーク
 yahoo.co.jp##a[data-cl-params*="newsweek"]
 
+!PHPオンライン衆知
+yahoo.co.jp##a[data-cl-params*="php_s"]
+
 !-------------------------------------------
 
 !スポーツ紙
@@ -539,7 +560,7 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 yahoo.co.jp#$?#a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/) { remove: true; }
 
 !試使用
-yahoo.co.jp#$?#a:contains(/スポニチアネックス|デイリースポーツ|スポーツ報知/) { remove: true; }
+yahoo.co.jp#$?#a:contains(/スポニチアネックス|デイリースポーツ|スポーツ報知|PR|ＰＲ/) { remove: true; }
 
 !ネットサイトの記事を消す
 
