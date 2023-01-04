@@ -194,7 +194,7 @@ yahoo.co.jp##a[data-cl-params*="ellegirl"]
 !芸能
 
 !Yahoo!テレビGガイド
-yahoo.co.jp##a[data-cl-params*="tvdogatch]
+yahoo.co.jp##a[data-cl-params*="tvdogatch"]
 
 !ウォーカープラス
 yahoo.co.jp##a[data-cl-params*="tkwalk"]
