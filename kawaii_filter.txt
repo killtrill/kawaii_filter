@@ -531,7 +531,7 @@ yahoo.co.jp##a[data-cl-params*="clc_korea"]
 yahoo.co.jp##a[data-cl-params*="newsweek"]
 
 !PHPオンライン衆知
-yahoo.co.jp##a[data-cl-params*="php_s"]
+!yahoo.co.jp##a[data-cl-params*="php_s"]
 
 !-------------------------------------------
 
