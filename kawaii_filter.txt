@@ -47,6 +47,7 @@ yahoo.co.jp##a[href*="toku"]
 yahoo.co.jp##a[href*="commerce"]
 yahoo.co.jp##a[href*="promotion"]
 yahoo.co.jp##a[data-cl-params*="takarabako"]
+yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 
 
 !-------------------------------------------
