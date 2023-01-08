@@ -266,6 +266,9 @@ yahoo.co.jp##a[data-cl-params*="carview"]
 !webオートバイ
 yahoo.co.jp##a[data-cl-params*="autoby"]
 
+!andGP
+yahoo.co.jp##a[data-cl-params*="andgp"]
+
 !おとなの週末
 yahoo.co.jp##a[data-cl-params*="matomeshi"]
 
@@ -289,6 +292,15 @@ yahoo.co.jp##a[data-cl-params*="fashions"]
 
 !Book Bang
 yahoo.co.jp##a[data-cl-params*="bookbang"]
+
+!MonoMax Web
+yahoo.co.jp##a[data-cl-params*="monomax"]
+
+!GOETHE
+yahoo.co.jp##a[data-cl-params*="goethe"]
+
+!OCEANS
+yahoo.co.jp##a[data-cl-params*="oceans"]
 
 !-------------------------------------------
 
@@ -564,6 +576,8 @@ yahoo.co.jp##a[data-cl-params*="php_s"]
 
 !スポーツ紙
 
+!-------------------------------------------
+
 !東スポ
 yahoo.co.jp##a[data-cl-params*="tospoweb"]
 
@@ -573,7 +587,9 @@ yahoo.co.jp##a[data-cl-params*="chuspo"]
 !-------------------------------------------
 
 !ここまでSafari機能拡張なし
+
 !-------------------------------------------
+
 !ここからSafari機能拡張あり
 
 !気分を害する単語を消す
