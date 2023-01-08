@@ -189,6 +189,12 @@ yahoo.co.jp##a[data-cl-params*="saita"]
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
 
+!リセマム
+yahoo.co.jp##a[data-cl-params*="resemom"]
+
+!弁護士ドットコムニュース
+yahoo.co.jp##a[data-cl-params*="bengocom"]
+
 !*******************************************
 
 !芸能
@@ -240,6 +246,9 @@ yahoo.co.jp##a[data-cl-params*="figaro"]
 
 !映画.com
 yahoo.co.jp##a[data-cl-params*="eiga"]
+
+!エンタメネクスト
+yahoo.co.jp##a[data-cl-params*="entame"]
 
 !*******************************************
 
@@ -477,6 +486,12 @@ yahoo.co.jp##a[data-cl-params*="jisin"]
 !ViVi
 yahoo.co.jp##a[data-cl-params*="netvivi"]
 
+!ESSEonline
+yahoo.co.jp##a[data-cl-params*="-esse"]
+
+!CanCam.jp
+yahoo.co.jp##a[data-cl-params*="cancam"]
+
 !*******************************************
 
 !ゴシップ誌
@@ -508,6 +523,9 @@ yahoo.co.jp##a[data-cl-params*="hnrm"]
 !デイリー新潮
 yahoo.co.jp##a[data-cl-params*="shincho"]
 
+!ザイFX
+yahoo.co.jp##a[data-cl-params*="zaifxf"]
+
 !*******************************************
 
 !未分類
@@ -531,7 +549,7 @@ yahoo.co.jp##a[data-cl-params*="clc_korea"]
 yahoo.co.jp##a[data-cl-params*="newsweek"]
 
 !PHPオンライン衆知
-!yahoo.co.jp##a[data-cl-params*="php_s"]
+yahoo.co.jp##a[data-cl-params*="php_s"]
 
 !-------------------------------------------
 
