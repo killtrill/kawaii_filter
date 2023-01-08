@@ -45,6 +45,8 @@ yahoo.co.jp##a[href*="video"]
 !試験用　YahooショッピングPR
 yahoo.co.jp##a[href*="toku"]
 yahoo.co.jp##a[href*="commerce"]
+yahoo.co.jp##a[href*="promotion"]
+yahoo.co.jp##a[data-cl-params*="takarabako"]
 
 
 !-------------------------------------------
@@ -421,6 +423,9 @@ yahoo.co.jp##a[data-cl-params*="gbr"]
 !バトルニュース
 yahoo.co.jp##a[data-cl-params*="battlen"]
 
+!ゴング格闘技
+yahoo.co.jp##a[data-cl-params*="gkakutogi"]
+
 !*******************************************
 
 !その他
@@ -433,6 +438,9 @@ yahoo.co.jp##a[data-cl-params*="rugbyrp"]
 
 !mmotorsport.com
 yahoo.co.jp##a[data-cl-params*="msportcom"]
+
+!月刊陸上競技
+yahoo.co.jp##a[data-cl-params*="getsuriku"]
 
 !-------------------------------------------
 
