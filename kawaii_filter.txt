@@ -198,6 +198,9 @@ yahoo.co.jp##a[data-cl-params*="resemom"]
 !弁護士ドットコムニュース
 yahoo.co.jp##a[data-cl-params*="bengocom"]
 
+!LEON.JP
+yahoo.co.jp##a[data-cl-params*="leon"]
+
 !*******************************************
 
 !芸能
@@ -257,11 +260,20 @@ yahoo.co.jp##a[data-cl-params*="entame"]
 
 !自動車・バイク
 
+!VAGUE
+yahoo.co.jp##a[data-cl-params*="vague"]
+
 !レスポンス
 yahoo.co.jp##a[data-cl-params*="rps"]
 
+!WEB CARTOP
+yahoo.co.jp##a[data-cl-params*="wcartop"]
+
 !くるまのニュース
 yahoo.co.jp##a[data-cl-params*="carview"]
+
+!バイクのニュース
+yahoo.co.jp##a[data-cl-params*="bikeno"]
 
 !andGP
 yahoo.co.jp##a[data-cl-params*="andgp"]
@@ -315,6 +327,18 @@ yahoo.co.jp##a[data-cl-params*="matomeshi"]
 
 !ぴあ
 yahoo.co.jp##a[data-cl-params*="piaeigat"]
+
+!食楽web
+yahoo.co.jp##a[data-cl-params*="syokuraku"]
+
+!マイナビニュース
+yahoo.co.jp##a[data-cl-params*="mynavin"]
+
+!食べログマガジン
+yahoo.co.jp##a[data-cl-params*="tabelog"]
+
+!ニッポンごはん旅
+yahoo.co.jp##a[data-cl-params*="gohantabi"]
 
 !-------------------------------------------
 
@@ -395,6 +419,9 @@ yahoo.co.jp##a[data-cl-params*="nbpvbball"]
 !ゴルフダイジェストオンライン
 yahoo.co.jp##a[data-cl-params*="gdo"]
 
+!みんなのゴルフダイジェスト
+yahoo.co.jp##a[data-cl-params*="minnagolf"]
+
 !ゴルフ情報ALBA.net
 yahoo.co.jp##a[data-cl-params*="alba"]
 
@@ -458,6 +485,9 @@ yahoo.co.jp##a[data-cl-params*="battlen"]
 
 !ゴング格闘技
 yahoo.co.jp##a[data-cl-params*="gkakutogi"]
+
+!BBM Sports
+yahoo.co.jp##a[data-cl-params*="bbmv"]
 
 !*******************************************
 
@@ -586,6 +616,9 @@ yahoo.co.jp##a[data-cl-params*="cnippou"]
 !聯合ニュース
 yahoo.co.jp##a[data-cl-params*="yonh"]
 
+!ハンギョレ新聞
+yahoo.co.jp##a[data-cl-params*="hankyoreh"]
+
 !KOREAWAVE
 yahoo.co.jp##a[data-cl-params*="clc_korea"]
 
@@ -626,7 +659,7 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 yahoo.co.jp#$?#a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/) { remove: true; }
 
 !試使用
-yahoo.co.jp#$?#a:contains(/スポニチアネックス|デイリースポーツ|スポーツ報知|PR|ＰＲ/) { remove: true; }
+yahoo.co.jp#$?#a:contains(/スポニチアネックス|デイリースポーツ|スポーツ報知|PR|ＰＲ|あなたにおすすめの商品|ピックアップ|リアルタイム検索で話題のキーワード|ビジネスで活用するなら/) { remove: true; }
 
 !ネットサイトの記事を消す
 
