@@ -201,6 +201,13 @@ yahoo.co.jp##a[data-cl-params*="bengocom"]
 !LEON.JP
 yahoo.co.jp##a[data-cl-params*="leon"]
 
+!PenOnile
+yahoo.co.jp##a[data-cl-params*="penonline"]
+
+!OTONASALON
+yahoo.co.jp##a[data-cl-params*="otonas"]
+
+
 !*******************************************
 
 !芸能
@@ -285,6 +292,9 @@ yahoo.co.jp##a[data-cl-params*="autoby"]
 
 !ファッション
 
+!FASHIONBOX
+yahoo.co.jp##a[data-cl-params*="fbox"]
+
 !BAILA
 yahoo.co.jp##a[data-cl-params*="baila"]
 
@@ -339,6 +349,12 @@ yahoo.co.jp##a[data-cl-params*="tabelog"]
 
 !ニッポンごはん旅
 yahoo.co.jp##a[data-cl-params*="gohantabi"]
+
+!BOOKSTAND
+yahoo.co.jp##a[data-cl-params*="webhon"]
+
+!360life
+yahoo.co.jp##a[data-cl-params*="360life"]
 
 !-------------------------------------------
 
@@ -434,6 +450,9 @@ yahoo.co.jp##a[data-cl-params*="egolf"]
 
 !TSURINEWS
 yahoo.co.jp##a[data-cl-params*="tsurinews"]
+
+!ruamaga
+yahoo.co.jp##a[data-cl-params*="tsuriplus"]
 
 !*******************************************
 
