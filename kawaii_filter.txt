@@ -263,9 +263,18 @@ yahoo.co.jp##a[data-cl-params*="eiga"]
 !エンタメネクスト
 yahoo.co.jp##a[data-cl-params*="entame"]
 
+!THE FIRST TIME
+yahoo.co.jp##a[data-cl-params*="mnet"]
+
 !*******************************************
 
 !自動車・バイク
+
+!AUTOCAR JAPAN
+yahoo.co.jp##a[data-cl-params*="autocar"]
+
+!Auto Messe Web
+yahoo.co.jp##a[data-cl-params*="amweb"]
 
 !VAGUE
 yahoo.co.jp##a[data-cl-params*="vague"]
