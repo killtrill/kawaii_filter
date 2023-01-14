@@ -270,6 +270,9 @@ yahoo.co.jp##a[data-cl-params*="entame"]
 !THE FIRST TIME
 yahoo.co.jp##a[data-cl-params*="mnet"]
 
+!Marisol
+yahoo.co.jp##a[data-cl-params*="marisol"]
+
 !*******************************************
 
 !自動車・バイク
@@ -288,6 +291,12 @@ yahoo.co.jp##a[data-cl-params*="rps"]
 
 !WEB CARTOP
 yahoo.co.jp##a[data-cl-params*="wcartop"]
+
+!GQJAPAN
+yahoo.co.jp##a[data-cl-params*="gqjapan"]
+
+!MotorFan
+yahoo.co.jp##a[data-cl-params*="motorfan"]
 
 !くるまのニュース
 yahoo.co.jp##a[data-cl-params*="carview"]
@@ -349,6 +358,9 @@ yahoo.co.jp##a[data-cl-params*="watchnavib"]
 !WWDJAPAN.com
 yahoo.co.jp##a[data-cl-params*="wwdjapan"]
 
+!FITNESS LOVE
+yahoo.co.jp##a[data-cl-params*="fitlove"]
+
 
 !*******************************************
 
@@ -368,6 +380,9 @@ yahoo.co.jp##a[data-cl-params*="mynavin"]
 
 !食べログマガジン
 yahoo.co.jp##a[data-cl-params*="tabelog"]
+
+!クックパッドニュース
+yahoo.co.jp##a[data-cl-params*="cookpadn"]
 
 !ニッポンごはん旅
 yahoo.co.jp##a[data-cl-params*="gohantabi"]
