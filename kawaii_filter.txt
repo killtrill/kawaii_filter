@@ -210,6 +210,11 @@ yahoo.co.jp##a[data-cl-params*="otonas"]
 !セブツー
 yahoo.co.jp##a[data-cl-params*="seventietow72"]
 
+!Hello Coaching
+yahoo.co.jp##a[data-cl-params*="coacha"]
+
+!HONZ
+yahoo.co.jp##a[data-cl-params*="hhonz"]
 
 
 !*******************************************
@@ -273,6 +278,27 @@ yahoo.co.jp##a[data-cl-params*="mnet"]
 !Marisol
 yahoo.co.jp##a[data-cl-params*="marisol"]
 
+!2.5ジゲン
+yahoo.co.jp##a[data-cl-params*="ntgjigen"]
+
+!BARKS
+yahoo.co.jp##a[data-cl-params*="bark"]
+
+!Bezzy
+yahoo.co.jp##a[data-cl-params*="bezzy"]
+
+!CINRA
+yahoo.co.jp##a[data-cl-params*="cinranetb"]
+
+!otocoto
+yahoo.co.jp##a[data-cl-params*="otocoto"]
+
+!RollingStone
+yahoo.co.jp##a[data-cl-params*="rolling"]
+
+!SCawaii
+yahoo.co.jp##a[data-cl-params*="scawaii"]
+
 !*******************************************
 
 !自動車・バイク
@@ -297,6 +323,30 @@ yahoo.co.jp##a[data-cl-params*="gqjapan"]
 
 !MotorFan
 yahoo.co.jp##a[data-cl-params*="motorfan"]
+
+!TopNews
+yahoo.co.jp##a[data-cl-params*="fliv"]
+
+!ベストカーWeb
+yahoo.co.jp##a[data-cl-params*="bestcar"]
+
+!Nosweb.jp
+yahoo.co.jp##a[data-cl-params*="nosweb"]
+
+!webモーターマガジン
+yahoo.co.jp##a[data-cl-params*="mmagazine"]
+
+!Auto Bild JAPAN web
+yahoo.co.jp##a[data-cl-params*="autobild"]
+
+!Merkmal
+yahoo.co.jp##a[data-cl-params*="merkmal"]
+
+!Octane
+yahoo.co.jp##a[data-cl-params*="octane"]
+
+!のりものニュース
+yahoo.co.jp##a[data-cl-params*="norimono"]
 
 !くるまのニュース
 yahoo.co.jp##a[data-cl-params*="carview"]
@@ -355,11 +405,28 @@ yahoo.co.jp##a[data-cl-params*="webuomo"]
 !WATCHNAVI Salon
 yahoo.co.jp##a[data-cl-params*="watchnavib"]
 
+!Fav-Log by ITmedia
+yahoo.co.jp##a[data-cl-params*="favlog"]
+
 !WWDJAPAN.com
 yahoo.co.jp##a[data-cl-params*="wwdjapan"]
 
 !FITNESS LOVE
 yahoo.co.jp##a[data-cl-params*="fitlove"]
+
+!FASHION TECH NEWS
+yahoo.co.jp##a[data-cl-params*="fashiontn"]
+
+!GISELe
+yahoo.co.jp##a[data-cl-params*="gisele"]
+
+!NONNO
+yahoo.co.jp##a[data-cl-params*="nonno"]
+!MENS NONNO
+!yahoo.co.jp##a[data-cl-params*="mensnonno"]
+
+!OurAge
+yahoo.co.jp##a[data-cl-params*="ourage"]
 
 
 !*******************************************
@@ -417,6 +484,8 @@ yahoo.co.jp##a[data-cl-params*="soccer"]
 !yahoo.co.jp##a[data-cl-params*="kksoccer"]
 !サッカー批評web
 !yahoo.co.jp##a[data-cl-params*="soccerh"]
+!サッカーキング
+!byahoo.co.jp##a[data-cl-params*="soccerk"]
 
 !ゲキサカ
 yahoo.co.jp##a[data-cl-params*="gekisaka"]
@@ -426,6 +495,15 @@ yahoo.co.jp##a[data-cl-params*="footballc"]
 
 !ザワールドウェブ
 yahoo.co.jp##a[data-cl-params*="theworldw"]
+
+!footballista
+yahoo.co.jp##a[data-cl-params*="fballista"]
+
+!REALSPORTS
+yahoo.co.jp##a[data-cl-params*="realspo"]
+
+!SAL
+yahoo.co.jp##a[data-cl-params*="fsal"]
 
 !*******************************************
 
@@ -451,6 +529,12 @@ yahoo.co.jp##a[data-cl-params*="thedigest"]
 
 !Number Web
 yahoo.co.jp##a[data-cl-params*="number"]
+
+!baseball Geeks
+yahoo.co.jp##a[data-cl-params*="geeksv"]
+
+!BBM Sports
+yahoo.co.jp##a[data-cl-params*="bbmv"]
 
 !*******************************************
 
@@ -517,6 +601,9 @@ yahoo.co.jp##a[data-cl-params*="keibana"]
 !優馬
 yahoo.co.jp##a[data-cl-params*="umakeiba"]
 
+!SPAIA
+yahoo.co.jp##a[data-cl-params*="spaia"]
+
 !netkeirin
 yahoo.co.jp##a[data-cl-params*="nkeirin"]
 
@@ -560,6 +647,12 @@ yahoo.co.jp##a[data-cl-params*="msportcom"]
 
 !月刊陸上競技
 yahoo.co.jp##a[data-cl-params*="getsuriku"]
+
+!FINEPLAY
+yahoo.co.jp##a[data-cl-params*="fineplayv"]
+
+!Rallys
+yahoo.co.jp##a[data-cl-params*="rallysv"]
 
 !-------------------------------------------
 
@@ -684,8 +777,11 @@ yahoo.co.jp##a[data-cl-params*="clc_korea"]
 !ニューズウィーク
 yahoo.co.jp##a[data-cl-params*="newsweek"]
 
-!PHPオンライン衆知
+!PHPオンライン
 yahoo.co.jp##a[data-cl-params*="php_s"]
+yahoo.co.jp##a[data-cl-params*="php_t"]
+yahoo.co.jp##a[data-cl-params*="phpfamily"]
+
 
 !-------------------------------------------
 
