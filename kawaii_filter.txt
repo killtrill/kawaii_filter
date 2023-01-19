@@ -208,7 +208,7 @@ yahoo.co.jp##a[data-cl-params*="penonline"]
 yahoo.co.jp##a[data-cl-params*="otonas"]
 
 !セブツー
-yahoo.co.jp##a[data-cl-params*="seventietow72"]
+yahoo.co.jp##a[data-cl-params*="seventietwo72"]
 
 !Hello Coaching
 yahoo.co.jp##a[data-cl-params*="coacha"]
@@ -216,6 +216,20 @@ yahoo.co.jp##a[data-cl-params*="coacha"]
 !HONZ
 yahoo.co.jp##a[data-cl-params*="hhonz"]
 
+!WIRED デヴァイスって書き方が嫌い
+yahoo.co.jp##a[data-cl-params*="wired"]
+
+!クウネルサロン
+yahoo.co.jp##a[data-cl-params*="kunel"]
+
+!ダイヤモンド不動産
+yahoo.co.jp##a[data-cl-params*="diamondf"]
+
+!ダイヤモンドZAI
+yahoo.co.jp##a[data-cl-params*="dzai"]
+
+!創
+yahoo.co.jp##a[data-cl-params*="tsukuru"]
 
 !*******************************************
 
@@ -364,6 +378,9 @@ yahoo.co.jp##a[data-cl-params*="autoby"]
 !yahoo.co.jp##a[data-cl-params*="rcg"]
 yahoo.co.jp#$?#a:contains(/オートスポーツweb/) { remove: true; }
 
+!モーサイ
+yahoo.co.jp##a[data-cl-params*="mcyclist"]
+
 
 !*******************************************
 
@@ -428,6 +445,9 @@ yahoo.co.jp##a[data-cl-params*="nonno"]
 !OurAge
 yahoo.co.jp##a[data-cl-params*="ourage"]
 
+!VOGUEGIRL
+yahoo.co.jp##a[data-cl-params*="voguegirl"]
+
 
 !*******************************************
 
@@ -485,7 +505,7 @@ yahoo.co.jp##a[data-cl-params*="soccer"]
 !サッカー批評web
 !yahoo.co.jp##a[data-cl-params*="soccerh"]
 !サッカーキング
-!byahoo.co.jp##a[data-cl-params*="soccerk"]
+!yahoo.co.jp##a[data-cl-params*="soccerk"]
 
 !ゲキサカ
 yahoo.co.jp##a[data-cl-params*="gekisaka"]
@@ -533,9 +553,6 @@ yahoo.co.jp##a[data-cl-params*="number"]
 !baseball Geeks
 yahoo.co.jp##a[data-cl-params*="geeksv"]
 
-!BBM Sports
-yahoo.co.jp##a[data-cl-params*="bbmv"]
-
 !*******************************************
 
 !バスケット
@@ -546,8 +563,14 @@ yahoo.co.jp##a[data-cl-params*="basket"]
 !バスケットボールキング
 yahoo.co.jp##a[data-cl-params*="bballk"]
 
+!バスケットボールスピリッツ
+yahoo.co.jp##a[data-cl-params*="bbspirits"]
+
 !月刊バスケットボール
 yahoo.co.jp##a[data-cl-params*="nbpvbball"]
+
+!THE PLAYERS TRIBUNE
+yahoo.co.jp##a[data-cl-params*="tptjb"]
 
 !*******************************************
 
@@ -639,6 +662,9 @@ yahoo.co.jp##a[data-cl-params*="bbmv"]
 !月刊バレーボール
 yahoo.co.jp##a[data-cl-params*="getsuv"]
 
+!バレーボールNEXt
+yahoo.co.jp##a[data-cl-params*="vbnext"]
+
 !ラグビーリパブリック（ラグビーマガジン）
 yahoo.co.jp##a[data-cl-params*="rugbyrp"]
 
@@ -653,6 +679,18 @@ yahoo.co.jp##a[data-cl-params*="fineplayv"]
 
 !Rallys
 yahoo.co.jp##a[data-cl-params*="rallysv"]
+
+!VICTORY
+yahoo.co.jp##a[data-cl-params*="victory"]
+
+!卓球王国
+yahoo.co.jp##a[data-cl-params*="worldtt"]
+
+!バドスピ バトミントン・マガジン
+yahoo.co.jp##a[data-cl-params*="badspi"]
+
+!ワールドジェットスポーツマガジン
+yahoo.co.jp##a[data-cl-params*="wjsm"]
 
 !-------------------------------------------
 
@@ -689,6 +727,15 @@ yahoo.co.jp##a[data-cl-params*="kaiyou"]
 
 !アニメージュ
 yahoo.co.jp##a[data-cl-params*="animage"]
+
+!超アニメディア
+yahoo.co.jp##a[data-cl-params*="choani"]
+
+!電ファミニコゲーマー
+yahoo.co.jp##a[data-cl-params*="denfami"]
+
+!ファミ通.com
+yahoo.co.jp##a[data-cl-params*="famitsu"]
 
 !-------------------------------------------
 
@@ -801,7 +848,7 @@ yahoo.co.jp##a[data-cl-params*="chuspo"]
 yahoo.co.jp##a[data-cl-params*="nksports"]
 
 !サンケイスポーツ
-!yahoo.co.jp##a[data-cl-params*="sanspo"]
+yahoo.co.jp##a[data-cl-params*="sanspo"]
 
 !-------------------------------------------
 
