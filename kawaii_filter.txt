@@ -313,6 +313,9 @@ yahoo.co.jp##a[data-cl-params*="rolling"]
 !SCawaii
 yahoo.co.jp##a[data-cl-params*="scawaii"]
 
+!TOKYO HEADLINE web
+yahoo.co.jp##a[data-cl-params*="theadline"]
+
 !*******************************************
 
 !自動車・バイク
@@ -377,9 +380,11 @@ yahoo.co.jp##a[data-cl-params*="andgp"]
 !webオートバイ
 yahoo.co.jp##a[data-cl-params*="autoby"]
 
-!オートスポーツweb(rcgでブロックすると他所に影響）
-!yahoo.co.jp##a[data-cl-params*="rcg"]
-yahoo.co.jp#$?#a:contains(/オートスポーツweb/) { remove: true; }
+!オートスポーツweb
+yahoo.co.jp##a[data-cl-params*="-rcg"]
+
+!ENGINE web
+yahoo.co.jp##a[data-cl-params*="-engine"]
 
 !モーサイ
 yahoo.co.jp##a[data-cl-params*="mcyclist"]
@@ -593,6 +598,9 @@ yahoo.co.jp##a[data-cl-params*="alba"]
 
 !eGOLF
 yahoo.co.jp##a[data-cl-params*="egolf"]
+
+!mycaddie
+yahoo.co.jp##a[data-cl-params*="-ism"]
 
 !*******************************************
 
@@ -810,6 +818,9 @@ yahoo.co.jp##a[data-cl-params*="shincho"]
 
 !ザイFX
 yahoo.co.jp##a[data-cl-params*="zaifxf"]
+
+!株探ニュース
+yahoo.co.jp##a[data-cl-params*="stkms"]
 
 !PHILE WEB
 yahoo.co.jp##a[data-cl-params*="phileweb"]
