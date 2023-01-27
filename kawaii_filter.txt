@@ -310,6 +310,9 @@ yahoo.co.jp##a[data-cl-params*="scawaii"]
 !TOKYO HEADLINE web
 yahoo.co.jp##a[data-cl-params*="theadline"]
 
+!gooランキング
+yahoo.co.jp##a[data-cl-params*="granking"]
+
 !*******************************************
 
 !自動車・バイク
@@ -540,6 +543,9 @@ yahoo.co.jp##a[data-cl-params*="baseball"]
 !週刊ベースボールONLINE
 !yahoo.co.jp##a[data-cl-params*="baseballo"]
 
+!高校野球オンライン
+yahoo.co.jp##a[data-cl-params*="hbnippon"]
+
 !SPAIA
 yahoo.co.jp##a[data-cl-params*="spaia"]
 
@@ -560,6 +566,12 @@ yahoo.co.jp##a[data-cl-params*="fyears"]
 
 !センバツLIVE
 yahoo.co.jp##a[data-cl-params*="senbatsuf"]
+
+!FULLCOUNT
+yahoo.co.jp##a[data-cl-params*="fullcount"]
+
+!AERA dot
+yahoo.co.jp##a[data-cl-params*="sasahi"]
 
 !*******************************************
 
@@ -754,6 +766,12 @@ yahoo.co.jp##a[data-cl-params*="denfami"]
 !ファミ通.com
 yahoo.co.jp##a[data-cl-params*="famitsu"]
 
+!アニメアニメ
+yahoo.co.jp##a[data-cl-params*="anmanmv"]
+
+!Impress watch
+yahoo.co.jp##a[data-cl-params*="impress"]
+
 !-------------------------------------------
 
 !週刊誌・ゴシップ紙
@@ -789,6 +807,9 @@ yahoo.co.jp##a[data-cl-params*="webym"]
 !日刊ゲンダイ
 yahoo.co.jp##a[data-cl-params*="nkgendai"]
 
+!現代ビジネス
+yahoo.co.jp##a[data-cl-params*="gendaibiz"]
+
 !smartFLASH
 yahoo.co.jp##a[data-cl-params*="flash"]
 
@@ -815,6 +836,9 @@ yahoo.co.jp##a[data-cl-params*="shincho"]
 
 !PHILE WEB
 yahoo.co.jp##a[data-cl-params*="phileweb"]
+
+!夕刊フジ
+yahoo.co.jp##a[data-cl-params*="-ykf"]
 
 !*******************************************
 
