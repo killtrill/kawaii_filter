@@ -222,12 +222,6 @@ yahoo.co.jp##a[data-cl-params*="wired"]
 !クウネルサロン
 yahoo.co.jp##a[data-cl-params*="kunel"]
 
-!ダイヤモンド不動産
-yahoo.co.jp##a[data-cl-params*="diamondf"]
-
-!ダイヤモンドZAI
-yahoo.co.jp##a[data-cl-params*="dzai"]
-
 !創
 yahoo.co.jp##a[data-cl-params*="tsukuru"]
 
@@ -564,6 +558,9 @@ yahoo.co.jp##a[data-cl-params*="geeksv"]
 !4years
 yahoo.co.jp##a[data-cl-params*="fyears"]
 
+!センバツLIVE
+yahoo.co.jp##a[data-cl-params*="senbatsuf"]
+
 !*******************************************
 
 !バスケット
@@ -816,14 +813,33 @@ yahoo.co.jp##a[data-cl-params*="hnrm"]
 !デイリー新潮
 yahoo.co.jp##a[data-cl-params*="shincho"]
 
-!ザイFX
-yahoo.co.jp##a[data-cl-params*="zaifxf"]
+!PHILE WEB
+yahoo.co.jp##a[data-cl-params*="phileweb"]
+
+!*******************************************
+
+!株FX
+
+!MONEYPLUS
+yahoo.co.jp##a[data-cl-params*="moneyplus"]
 
 !株探ニュース
 yahoo.co.jp##a[data-cl-params*="stkms"]
 
-!PHILE WEB
-yahoo.co.jp##a[data-cl-params*="phileweb"]
+!みんかぶ
+yahoo.co.jp##a[data-cl-params*="minkabu"]
+
+!ダイヤモンドZAI
+yahoo.co.jp##a[data-cl-params*="dzai"]
+
+!ザイFX
+yahoo.co.jp##a[data-cl-params*="zaifxf"]
+
+!ダイヤモンド不動産
+yahoo.co.jp##a[data-cl-params*="diamondf"]
+
+!ダイヤモンドZAI
+yahoo.co.jp##a[data-cl-params*="dzai"]
 
 !*******************************************
 
@@ -906,12 +922,12 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 
 !週刊誌の記事を消す
 
-yahoo.co.jp#$?#a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/) { remove: true; }
+!yahoo.co.jp#$?#a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/) { remove: true; }
 
 
 !ネットサイトの記事を消す
 
-yahoo.co.jp#$?#a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド|月刊ゴルフ用品界|占いTV|フジテレビュー|mi-mollet|saita|夕刊フジ|MORE|Lmaga\.jp|bizSPA|せいたろー|たまひよ|Impress Watch|コスモポリタン|なるフィッシュ|SOCCER DIGEST Web|精神科医しょう|ぽちゃぽちゃチャッキー|100均スリコ大好き|LITALICO発達ナビ|mer|onnela|リビング書店|CDジャーナル|TOKYO FM|こそだてまっぷ|中山少年|All About|kurataba|charmmy|オーヴォ|macaroni|QJWeb|シネマトゥデイ|おがちゃん先生|とまとママ|ミワカモ|kufura|＠ＤＩＭＥ|@DIME|おだんご主婦|マハロアロハ|BRAVO MOUNTAIN|しょうこちゃん|mybest|LEE|レスポンス|タビカツリチャンネル|AERA dot\.|SPUR\.JP|CREA WEB|レスポンス|歴史人|C CHANNEL|東京バーゲンマニア|トリリンガルのトミ|ロケットニュース24|モラハラ|ELLE DIGITAL|Ｓｉｔａｋｋｅ|ヨガジャーナルオンライン|Yogo Journal Online|発達障害|ADHD|ＡＤＨＤ|ASD|ＡＳＤ|gooランキング|MANTANWEB|よろず～ニュース|なかまぁる|くるまのニュース|BOATRACE|アニメ！アニメ！|マネーポストWEB|イーファイト/) { remove: true; }
+!yahoo.co.jp#$?#a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド|月刊ゴルフ用品界|占いTV|フジテレビュー|mi-mollet|saita|夕刊フジ|MORE|Lmaga\.jp|bizSPA|せいたろー|たまひよ|Impress Watch|コスモポリタン|なるフィッシュ|SOCCER DIGEST Web|精神科医しょう|ぽちゃぽちゃチャッキー|100均スリコ大好き|LITALICO発達ナビ|mer|onnela|リビング書店|CDジャーナル|TOKYO FM|こそだてまっぷ|中山少年|All About|kurataba|charmmy|オーヴォ|macaroni|QJWeb|シネマトゥデイ|おがちゃん先生|とまとママ|ミワカモ|kufura|＠ＤＩＭＥ|@DIME|おだんご主婦|マハロアロハ|BRAVO MOUNTAIN|しょうこちゃん|mybest|LEE|レスポンス|タビカツリチャンネル|AERA dot\.|SPUR\.JP|CREA WEB|レスポンス|歴史人|C CHANNEL|東京バーゲンマニア|トリリンガルのトミ|ロケットニュース24|モラハラ|ELLE DIGITAL|Ｓｉｔａｋｋｅ|ヨガジャーナルオンライン|Yogo Journal Online|発達障害|ADHD|ＡＤＨＤ|ASD|ＡＳＤ|gooランキング|MANTANWEB|よろず～ニュース|なかまぁる|くるまのニュース|BOATRACE|アニメ！アニメ！|マネーポストWEB|イーファイト/) { remove: true; }
 
 
 
@@ -920,12 +936,12 @@ yahoo.co.jp#$?#a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ラ
 !全角は表記揺れ対策
 
 !YouTuber
-yahoo.co.jp#$?#a:contains(/YouTuber|ＹｏｕＴｕｂｅｒ|ユーチューバー|ＹＯＵＴＵＢＥＲ|[YＹVＶ]チューバー|[YV]Tuber|[ＹＶ]Ｔｕｂｅｒ|ＶＴＵＢＥＲ|TikToker|ＴｉｋＴｏｋｅｒ|ティックトッカー|Instagramer|Ｉｎｓｔａｇｒａｍｅｒ|インスタグラマー|インフルエンサー|にじさんじ|フォロワー/i) { remove: true; }
+!yahoo.co.jp#$?#a:contains(/YouTuber|ＹｏｕＴｕｂｅｒ|ユーチューバー|ＹＯＵＴＵＢＥＲ|[YＹVＶ]チューバー|[YV]Tuber|[ＹＶ]Ｔｕｂｅｒ|ＶＴＵＢＥＲ|TikToker|ＴｉｋＴｏｋｅｒ|ティックトッカー|Instagramer|Ｉｎｓｔａｇｒａｍｅｒ|インスタグラマー|インフルエンサー|にじさんじ|フォロワー/i) { remove: true; }
 
-yahoo.co.jp#$?#a:contains(/ゆた[ぼぽ]ん|少年革命家|不登校|中村逞珂|中村幸也|東海オンエア|HIKAKIN|ＨＩＫＡＫＩＮ|セイキン|カジサック/) { remove: true; }
+!yahoo.co.jp#$?#a:contains(/ゆた[ぼぽ]ん|少年革命家|不登校|中村逞珂|中村幸也|東海オンエア|HIKAKIN|ＨＩＫＡＫＩＮ|セイキン|カジサック/) { remove: true; }
 
 !その他・芸能系
-yahoo.co.jp#$?#a:contains(/お笑い|芸人|中川翔子|しょこたん|M-1|Ｍ－１|ダウンタウン|浜田雅彦|はまちゃん|浜ちゃん|松本人志|松っちゃん|人志松本|山田邦子|DaiGo|ＤａｉＧｏ|メンタリスト|交際|熱愛|純愛|通い愛|密会|電撃結?婚|スピード結?婚|デキ婚|できちゃった婚|スクープ|路チュー|激写|[再離]婚|不倫|浮気|工藤静香|木村家|フワちゃん|ショット|キングコング|梶原|東原亜希|ファン|風水|占い|運気|金運/) { remove: true; }
+!yahoo.co.jp#$?#a:contains(/お笑い|芸人|中川翔子|しょこたん|M-1|Ｍ－１|ダウンタウン|浜田雅彦|はまちゃん|浜ちゃん|松本人志|松っちゃん|人志松本|山田邦子|DaiGo|ＤａｉＧｏ|メンタリスト|交際|熱愛|純愛|通い愛|密会|電撃結?婚|スピード結?婚|デキ婚|できちゃった婚|スクープ|路チュー|激写|[再離]婚|不倫|浮気|工藤静香|木村家|フワちゃん|ショット|キングコング|梶原|東原亜希|ファン|風水|占い|運気|金運/) { remove: true; }
 
 
 
