@@ -491,6 +491,10 @@ yahoo.co.jp##a[data-cl-params*="-pia"]
 !たまひよオンライン
 yahoo.co.jp##a[data-cl-params*="tamahiyo"]
 
+!歴史人
+yahoo.co.jp##a[data-cl-params*="rekishin"]
+
+
 !-------------------------------------------
 
 !スポーツ系サイト
