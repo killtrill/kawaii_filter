@@ -245,6 +245,9 @@ yahoo.co.jp##a[data-cl-params*="charmmy"]
 !CHANTO WEB
 yahoo.co.jp##a[data-cl-params*="chanto"]
 
+!telling.
+yahoo.co.jp##a[data-cl-params*="telling"]
+
 !*******************************************
 
 !芸能
@@ -888,6 +891,9 @@ yahoo.co.jp##a[data-cl-params*="fujinjp"]
 
 !レタスクラブ
 yahoo.co.jp##a[data-cl-params*="lettucec"]
+
+!Pretty Online
+yahoo.co.jp##a[data-cl-params*="lm-prettyonline"]
 
 !*******************************************
 
