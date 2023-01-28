@@ -111,8 +111,10 @@ yahoo.co.jp##a[data-cl-params*="yorozuns"]
 !サライjp
 yahoo.co.jp##a[data-cl-params*="seraijp"]
 
-!webマガジンmimollet
+!webマガジンmi-mollet
 yahoo.co.jp##a[data-cl-params*="mimollet"]
+!webマガジンmimollet ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/mi-mollet/) { remove: true; }
 
 !magacol
 yahoo.co.jp##a[data-cl-params*="magacol"]
@@ -227,6 +229,11 @@ yahoo.co.jp##a[data-cl-params*="tsukuru"]
 
 !ウィメンズヘルス
 yahoo.co.jp##a[data-cl-params*="womensh"]
+
+!東京バーゲンマニア
+yahoo.co.jp##a[data-cl-params*="tkybgmnv"]
+!東京バーゲンマニア　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/東京バーゲンマニア/) { remove: true; }
 
 !*******************************************
 
@@ -758,6 +765,8 @@ yahoo.co.jp##a[data-cl-params*="spnavido"]
 
 !ねとらぼ
 yahoo.co.jp##a[data-cl-params*="nlab"]
+!ねとらぼ　ダイジェスト表示削除
+yahoo.co.jp#$?#a:contains(/ねとらぼ/) { remove: true; }
 
 !MANTANWEB
 yahoo.co.jp##a[data-cl-params*="mantan"]
@@ -850,6 +859,8 @@ yahoo.co.jp##a[data-cl-params*="flash"]
 
 !週刊SPA
 yahoo.co.jp##a[data-cl-params*="sspa"]
+!週刊SPA　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/週刊SPA/) { remove: true; }
 
 !bizSPA
 yahoo.co.jp##a[data-cl-params*="bizspa"]
@@ -887,6 +898,8 @@ yahoo.co.jp##a[data-cl-params*="stkms"]
 
 !みんかぶ
 yahoo.co.jp##a[data-cl-params*="minkabu"]
+!みんかぶ　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/みんかぶマガジン/) { remove: true; }
 
 !ダイヤモンドZAI
 yahoo.co.jp##a[data-cl-params*="dzai"]
@@ -986,12 +999,7 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 
 !ネットサイトの記事を消す
 
-yahoo.co.jp#$?#a:contains(/東京バーゲンマニア|みんかぶマガジン|mi-mollet/) { remove: true; }
-
-
 !yahoo.co.jp#$?#a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド|月刊ゴルフ用品界|占いTV|フジテレビュー|mi-mollet|saita|夕刊フジ|MORE|Lmaga\.jp|bizSPA|せいたろー|たまひよ|Impress Watch|コスモポリタン|なるフィッシュ|SOCCER DIGEST Web|精神科医しょう|ぽちゃぽちゃチャッキー|100均スリコ大好き|LITALICO発達ナビ|mer|onnela|リビング書店|CDジャーナル|TOKYO FM|こそだてまっぷ|中山少年|All About|kurataba|charmmy|オーヴォ|macaroni|QJWeb|シネマトゥデイ|おがちゃん先生|とまとママ|ミワカモ|kufura|＠ＤＩＭＥ|@DIME|おだんご主婦|マハロアロハ|BRAVO MOUNTAIN|しょうこちゃん|mybest|LEE|レスポンス|タビカツリチャンネル|AERA dot\.|SPUR\.JP|CREA WEB|レスポンス|歴史人|C CHANNEL|東京バーゲンマニア|トリリンガルのトミ|ロケットニュース24|モラハラ|ELLE DIGITAL|Ｓｉｔａｋｋｅ|ヨガジャーナルオンライン|Yogo Journal Online|発達障害|ADHD|ＡＤＨＤ|ASD|ＡＳＤ|gooランキング|MANTANWEB|よろず～ニュース|なかまぁる|くるまのニュース|BOATRACE|アニメ！アニメ！|マネーポストWEB|イーファイト/) { remove: true; }
-
-
 
 
 !YouTuberなどの記事を消す
