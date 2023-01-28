@@ -104,6 +104,8 @@ yahoo.co.jp##a[data-cl-params*="withonline"]
 
 !まいどなニュース
 yahoo.co.jp##a[data-cl-params*="maidonans"]
+!webマガジンmimollet ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/まいどなニュース/) { remove: true; }
 
 !よろず～ニュース
 yahoo.co.jp##a[data-cl-params*="yorozuns"]
