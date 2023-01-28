@@ -260,6 +260,9 @@ yahoo.co.jp##a[data-cl-params*="kstylens"]
 !オリコン
 yahoo.co.jp##a[data-cl-params*="oric"]
 
+!CDJournal
+yahoo.co.jp##a[data-cl-params*="-cdj"]
+
 !cinemacafe.net
 yahoo.co.jp##a[data-cl-params*="cine"]
 
@@ -283,6 +286,9 @@ yahoo.co.jp##a[data-cl-params*="natalien"]
 
 !お笑いナタリー
 yahoo.co.jp##a[data-cl-params*="natalieo"]
+
+!ステージナタリー
+yahoo.co.jp##a[data-cl-params*="natalies"]
 
 !フィガロジャポン
 yahoo.co.jp##a[data-cl-params*="figaro"]
@@ -309,7 +315,7 @@ yahoo.co.jp##a[data-cl-params*="bark"]
 yahoo.co.jp##a[data-cl-params*="bezzy"]
 
 !CINRA
-yahoo.co.jp##a[data-cl-params*="cinranetb"]
+yahoo.co.jp##a[data-cl-params*="cinranet"]
 
 !otocoto
 yahoo.co.jp##a[data-cl-params*="otocoto"]
@@ -337,6 +343,9 @@ yahoo.co.jp##a[data-cl-params*="cosmopoli"]
 
 !海外ドラマNAVI
 yahoo.co.jp##a[data-cl-params*="dramanavi"]
+
+!BillboardJAPAN
+yahoo.co.jp##a[data-cl-params*="-exp"]
 
 !*******************************************
 
@@ -493,6 +502,9 @@ yahoo.co.jp##a[data-cl-params*="piaeigat"]
 !食楽web
 yahoo.co.jp##a[data-cl-params*="syokuraku"]
 
+!メシ通
+yahoo.co.jp##a[data-cl-params*="mesitsu"]
+
 !マイナビニュース
 yahoo.co.jp##a[data-cl-params*="mynavin"]
 
@@ -519,6 +531,12 @@ yahoo.co.jp##a[data-cl-params*="tamahiyo"]
 
 !歴史人
 yahoo.co.jp##a[data-cl-params*="rekishin"]
+
+!BRAVO MOUNTAIN
+yahoo.co.jp##a[data-cl-params*="bravom"]
+
+!Casa BRUTUS.com
+yahoo.co.jp##a[data-cl-params*="casabrutus"]
 
 
 !-------------------------------------------
@@ -674,6 +692,9 @@ yahoo.co.jp##a[data-cl-params*="tennisnet"]
 
 !公営ギャンブル
 
+!東スポ競馬
+yahoo.co.jp##a[data-cl-params*="tspkeiba"]
+
 !netkeiba
 yahoo.co.jp##a[data-cl-params*="kiba"]
 
@@ -757,6 +778,9 @@ yahoo.co.jp##a[data-cl-params*="wjsm"]
 !スポーツナビ
 yahoo.co.jp##a[data-cl-params*="spnavido"]
 
+!DAZN News
+yahoo.co.jp##a[data-cl-params*="-dazn"]
+
 !-------------------------------------------
 
 !アニメ系サイト
@@ -823,6 +847,9 @@ yahoo.co.jp##a[data-cl-params*="nataliec"]
 
 !女性週刊誌
 
+!ananweb
+yahoo.co.jp##a[data-cl-params*="ananweb"]
+
 !週刊女性プライム
 yahoo.co.jp##a[data-cl-params*="jprime"]
 
@@ -837,6 +864,18 @@ yahoo.co.jp##a[data-cl-params*="-esse"]
 
 !CanCam.jp
 yahoo.co.jp##a[data-cl-params*="cancam"]
+
+!女子SPA
+yahoo.co.jp##a[data-cl-params*="jspa"]
+
+!婦人画報
+yahoo.co.jp##a[data-cl-params*="fujingaho"]
+
+!婦人公論.jp
+yahoo.co.jp##a[data-cl-params*="fujinjp"]
+
+!レタスクラブ
+yahoo.co.jp##a[data-cl-params*="lettucec"]
 
 !*******************************************
 
@@ -865,7 +904,7 @@ yahoo.co.jp#$?#a:contains(/週刊SPA/) { remove: true; }
 !bizSPA
 yahoo.co.jp##a[data-cl-params*="bizspa"]
 
-!週刊文春
+!週刊文春オンライン
 yahoo.co.jp##a[data-cl-params*="bunshun"]
 
 !FRIDAY
@@ -886,9 +925,13 @@ yahoo.co.jp##a[data-cl-params*="phileweb"]
 !夕刊フジ
 yahoo.co.jp##a[data-cl-params*="-ykf"]
 
+!週プレNEWS
+yahoo.co.jp##a[data-cl-params*="playboyz"]
+
+
 !*******************************************
 
-!株FX
+!株FX暗号通貨
 
 !MONEYPLUS
 yahoo.co.jp##a[data-cl-params*="moneyplus"]
@@ -904,14 +947,23 @@ yahoo.co.jp#$?#a:contains(/みんかぶマガジン/) { remove: true; }
 !ダイヤモンドZAI
 yahoo.co.jp##a[data-cl-params*="dzai"]
 
+!DAIAMOND SIGNAL
+yahoo.co.jp##a[data-cl-params*="dsignal"]
+
 !ザイFX
 yahoo.co.jp##a[data-cl-params*="zaifxf"]
 
 !ダイヤモンド不動産
 yahoo.co.jp##a[data-cl-params*="diamondf"]
 
-!ダイヤモンドZAI
-yahoo.co.jp##a[data-cl-params*="dzai"]
+!マネーの達人
+yahoo.co.jp##a[data-cl-params*="manetatsun"]
+
+!マネーポストWEB
+yahoo.co.jp##a[data-cl-params*="moneypost"]
+
+!CoinDesk JAPAN
+yahoo.co.jp##a[data-cl-params*="coindesk"]
 
 !*******************************************
 
