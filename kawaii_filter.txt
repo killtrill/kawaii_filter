@@ -235,6 +235,12 @@ yahoo.co.jp##a[data-cl-params*="tkybgmnv"]
 !東京バーゲンマニア　ダイジェスト表示削除用
 yahoo.co.jp#$?#a:contains(/東京バーゲンマニア/) { remove: true; }
 
+!charmmy
+yahoo.co.jp##a[data-cl-params*="charmmy"]
+
+!CHANTO WEB
+yahoo.co.jp##a[data-cl-params*="chanto"]
+
 !*******************************************
 
 !芸能
