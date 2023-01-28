@@ -157,6 +157,8 @@ yahoo.co.jp##a[data-cl-params*="rankingoo"]
 
 !Techinsight
 yahoo.co.jp##a[data-cl-params*="techinq"]
+!Techinsight ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/Techinsight/) { remove: true; }
 
 !プレシデントオンライン
 yahoo.co.jp##a[data-cl-params*="president"]
@@ -399,8 +401,10 @@ yahoo.co.jp##a[data-cl-params*="merkmal"]
 !Octane
 yahoo.co.jp##a[data-cl-params*="octane"]
 
-!のりものニュース
+!乗りものニュース
 yahoo.co.jp##a[data-cl-params*="norimono"]
+!乗りものニュース ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/乗りものニュース/) { remove: true; }
 
 !くるまのニュース(2つある?)
 yahoo.co.jp##a[data-cl-params*="carview"]
