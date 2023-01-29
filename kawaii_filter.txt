@@ -611,13 +611,15 @@ yahoo.co.jp##a[data-cl-params*="soccer"]
 
 !ゲキサカ
 yahoo.co.jp##a[data-cl-params*="gekisaka"]
+!ゲキサカ ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/ゲキサカ/) { remove: true; }
 
 !フットボールチャンネル
 yahoo.co.jp##a[data-cl-params*="footballc"]
 
 !ザワールドウェブ
 yahoo.co.jp##a[data-cl-params*="theworldw"]
-!乗りものニュース ダイジェスト表示削除用
+!theWORLD ダイジェスト表示削除用
 yahoo.co.jp#$?#a:contains(/theWORLD/) { remove: true; }
 
 !footballista
