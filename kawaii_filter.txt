@@ -508,6 +508,12 @@ yahoo.co.jp##a[data-cl-params*="ourage"]
 !VOGUEGIRL
 yahoo.co.jp##a[data-cl-params*="voguegirl"]
 
+!Web eclat
+yahoo.co.jp##a[data-cl-params*="-eclat"]
+
+!VOCE
+yahoo.co.jp##a[data-cl-params*="voce"]
+
 
 !*******************************************
 
@@ -687,6 +693,9 @@ yahoo.co.jp##a[data-cl-params*="egolf"]
 
 !mycaddie
 yahoo.co.jp##a[data-cl-params*="-ism"]
+
+!ゴルフネットワーク
+yahoo.co.jp##a[data-cl-params*="golfnw"]
 
 !*******************************************
 
