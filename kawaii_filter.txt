@@ -579,6 +579,11 @@ yahoo.co.jp##a[data-cl-params*="bravom"]
 !Casa BRUTUS.com
 yahoo.co.jp##a[data-cl-params*="casabrutus"]
 
+!Aviation Wire
+yahoo.co.jp##a[data-cl-params*="awire"]
+
+!sorae 宇宙へのポータルサイト
+yahoo.co.jp##a[data-cl-params*="sorae_jp"]
 
 !-------------------------------------------
 
@@ -686,6 +691,9 @@ yahoo.co.jp##a[data-cl-params*="nbpvbball"]
 
 !THE PLAYERS TRIBUNE
 yahoo.co.jp##a[data-cl-params*="tptjb"]
+
+!NBA Rakuten
+yahoo.co.jp##a[data-cl-params*="nrakuten"]
 
 !*******************************************
 
@@ -977,6 +985,12 @@ yahoo.co.jp##a[data-cl-params*="-ykf"]
 
 !週プレNEWS
 yahoo.co.jp##a[data-cl-params*="playboyz"]
+
+!WEBザテレビジョン
+yahoo.co.jp##a[data-cl-params*="the_tv"]
+
+!東洋経済オンライン
+yahoo.co.jp##a[data-cl-params*="-toyo"]
 
 
 !*******************************************
