@@ -14,14 +14,9 @@
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
 !ブロックする要素
-!TRILL、クラシル
-!ママスタセレクト
-!BuzzFeed Japan
-!!liBaeやコーデスナップの頻出単語
-!ゴシップ誌、かわいくない記事
-!YouTuber、VTuber、インスタグラマー、TikToker
-!その他かわいくないもの
-!新聞社・テレビなどは表示する方針です。
+!2023.1.30
+!TRILL、liBae、Coordisnap、BuzzFeedなど
+!新聞、テレビ局等以外の記事提供元はブロックできるルールを追加
 
 !作者　killtrill
 !Twitter @kawaii_filter
