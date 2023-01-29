@@ -173,6 +173,8 @@ yahoo.co.jp##a[data-cl-params*="newsvision"]
 
 !ENCOUNT
 yahoo.co.jp##a[data-cl-params*="encount"]
+!ENCOUNT ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/ENCOUNT/) { remove: true; }
 
 !ハフポスト
 yahoo.co.jp##a[data-cl-params*="huffpost"]
@@ -360,6 +362,9 @@ yahoo.co.jp##a[data-cl-params*="dramanavi"]
 !BillboardJAPAN
 yahoo.co.jp##a[data-cl-params*="-exp"]
 
+!withnews
+yahoo.co.jp##a[data-cl-params*="withnews"]
+
 !*******************************************
 
 !自動車・バイク
@@ -537,6 +542,9 @@ yahoo.co.jp##a[data-cl-params*="webhon"]
 
 !360life
 yahoo.co.jp##a[data-cl-params*="360life"]
+
+!@DIME
+yahoo.co.jp##a[data-cl-params*="-dime"]
 
 !チケットぴあ
 yahoo.co.jp##a[data-cl-params*="-pia"]
@@ -982,6 +990,9 @@ yahoo.co.jp##a[data-cl-params*="moneypost"]
 
 !CoinDesk JAPAN
 yahoo.co.jp##a[data-cl-params*="coindesk"]
+
+!MORE
+yahoo.co.jp##a[data-cl-params*="dmore"]
 
 !*******************************************
 
