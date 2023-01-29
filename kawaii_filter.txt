@@ -200,6 +200,9 @@ yahoo.co.jp##a[data-cl-params*="saita"]
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
 
+!ELLE DIGITAL
+yahoo.co.jp##a[data-cl-params*="elleonline"]
+
 !リセマム
 yahoo.co.jp##a[data-cl-params*="resemom"]
 
@@ -249,6 +252,9 @@ yahoo.co.jp##a[data-cl-params*="chanto"]
 
 !telling.
 yahoo.co.jp##a[data-cl-params*="telling"]
+
+!GINGER
+yahoo.co.jp##a[data-cl-params*="gingerweb"]
 
 !*******************************************
 
@@ -365,6 +371,12 @@ yahoo.co.jp##a[data-cl-params*="-exp"]
 !withnews
 yahoo.co.jp##a[data-cl-params*="withnews"]
 
+!GINZA
+yahoo.co.jp##a[data-cl-params*="ginza"]
+
+!HOMINIS
+yahoo.co.jp##a[data-cl-params*="hominis"]
+
 !*******************************************
 
 !自動車・バイク
@@ -480,7 +492,7 @@ yahoo.co.jp##a[data-cl-params*="oceans"]
 yahoo.co.jp##a[data-cl-params*="webuomo"]
 
 !WATCHNAVI Salon
-yahoo.co.jp##a[data-cl-params*="watchnavib"]
+yahoo.co.jp##a[data-cl-params*="watchnavi"]
 
 !Fav-Log by ITmedia
 yahoo.co.jp##a[data-cl-params*="favlog"]
@@ -911,6 +923,9 @@ yahoo.co.jp##a[data-cl-params*="lettucec"]
 
 !Pretty Online
 yahoo.co.jp##a[data-cl-params*="lm-prettyonline"]
+
+!MAQUIA ONLINE
+yahoo.co.jp##a[data-cl-params*="maquia"]
 
 !*******************************************
 
