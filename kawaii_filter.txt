@@ -251,6 +251,45 @@ yahoo.co.jp##a[data-cl-params*="telling"]
 !GINGER
 yahoo.co.jp##a[data-cl-params*="gingerweb"]
 
+!ITmedia ビジネスオンライン
+yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
+yahoo.co.jp#$?#a:contains(/ITmedia ビジネスオンライン/) { remove: true; }
+
+!ITmedia Mobile
+yahoo.co.jp##a[data-cl-params*="zdn_m"]
+
+!ITmedia NEWS
+yahoo.co.jp##a[data-cl-params*="zdn_n"]
+
+!ITmedia PC USER
+yahoo.co.jp##a[data-cl-params*="zdn_pc"]
+
+!ITmedia エンタープライズ
+yahoo.co.jp##a[data-cl-params*="zdn_ep"]
+
+!ITmedia マーケティング
+yahoo.co.jp##a[data-cl-params*="biz_it_mk"]
+
+!スマートジャパン
+yahoo.co.jp##a[data-cl-params*="biz_it_sj"]
+
+!コクハク
+yahoo.co.jp##a[data-cl-params*="kokuhaku"]
+!コクハク　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/コクハク/) { remove: true; }
+
+!sharescafe ONLINE
+yahoo.co.jp##a[data-cl-params*="scafe"]
+
+!新R25
+yahoo.co.jp##a[data-cl-params*="srnijugo"]
+
+!ソーシャル・イノベーション・ニュース
+yahoo.co.jp##a[data-cl-params*="socialinv"]
+
+!なかまぁる
+yahoo.co.jp##a[data-cl-params*="nakamaaru"]
+
 !*******************************************
 
 !芸能
@@ -374,6 +413,9 @@ yahoo.co.jp##a[data-cl-params*="ginza"]
 !HOMINIS
 yahoo.co.jp##a[data-cl-params*="hominis"]
 
+!QJ web　クイック・ジャパンウェブ
+yahoo.co.jp##a[data-cl-params*="qjweb"]
+
 !*******************************************
 
 !自動車・バイク
@@ -392,6 +434,8 @@ yahoo.co.jp##a[data-cl-params*="rps"]
 
 !WEB CARTOP
 yahoo.co.jp##a[data-cl-params*="wcartop"]
+!WEB CARTOP ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/WEB CARTOP/) { remove: true; }
 
 !GQJAPAN
 yahoo.co.jp##a[data-cl-params*="gqjapan"]
@@ -449,6 +493,9 @@ yahoo.co.jp##a[data-cl-params*="-engine"]
 
 !モーサイ
 yahoo.co.jp##a[data-cl-params*="mcyclist"]
+
+!ドライバーWeb
+yahoo.co.jp##a[data-cl-params*="driverweb"]
 
 
 !*******************************************
@@ -522,6 +569,9 @@ yahoo.co.jp##a[data-cl-params*="-eclat"]
 
 !VOCE
 yahoo.co.jp##a[data-cl-params*="voce"]
+
+!MEN'S CLUB
+yahoo.co.jp##a[data-cl-params*="mensplus"]
 
 
 !*******************************************
@@ -617,7 +667,7 @@ yahoo.co.jp#$?#a:contains(/ゲキサカ/) { remove: true; }
 !フットボールチャンネル
 yahoo.co.jp##a[data-cl-params*="footballc"]
 
-!ザワールドウェブ
+!theWORLD　ザワールドウェブ
 yahoo.co.jp##a[data-cl-params*="theworldw"]
 !theWORLD ダイジェスト表示削除用
 yahoo.co.jp#$?#a:contains(/theWORLD/) { remove: true; }
@@ -691,7 +741,7 @@ yahoo.co.jp##a[data-cl-params*="bbspirits"]
 yahoo.co.jp##a[data-cl-params*="nbpvbball"]
 
 !THE PLAYERS TRIBUNE
-yahoo.co.jp##a[data-cl-params*="tptjb"]
+yahoo.co.jp##a[data-cl-params*="tptj"]
 
 !NBA Rakuten
 yahoo.co.jp##a[data-cl-params*="nrakuten"]
@@ -834,6 +884,15 @@ yahoo.co.jp##a[data-cl-params*="spnavido"]
 !DAZN News
 yahoo.co.jp##a[data-cl-params*="-dazn"]
 
+!カンパラプレス
+yahoo.co.jp##a[data-cl-params*="kanpara"]
+
+!スポチュニティコラム
+yahoo.co.jp##a[data-cl-params*="spport"]
+
+!スポーティングニュース
+yahoo.co.jp##a[data-cl-params*="sporting"]
+
 !-------------------------------------------
 
 !アニメ系サイト
@@ -890,6 +949,12 @@ yahoo.co.jp##a[data-cl-params*="impress"]
 !コミックナタリー
 yahoo.co.jp##a[data-cl-params*="nataliec"]
 
+!IGN JAPAN
+yahoo.co.jp##a[data-cl-params*="ignjapan"]
+
+!YahooテレビGガイド(アニメ)
+yahoo.co.jp##a[data-cl-params*="animeanime"]
+
 !-------------------------------------------
 
 !週刊誌・ゴシップ紙
@@ -935,6 +1000,13 @@ yahoo.co.jp##a[data-cl-params*="lm-prettyonline"]
 
 !MAQUIA ONLINE
 yahoo.co.jp##a[data-cl-params*="maquia"]
+
+!CREA WEB
+yahoo.co.jp##a[data-cl-params*="creaweb"]
+
+!クロワッサンONLINE
+yahoo.co.jp##a[data-cl-params*="crssntv"]
+
 
 !*******************************************
 
@@ -1028,6 +1100,8 @@ yahoo.co.jp##a[data-cl-params*="manetatsun"]
 
 !マネーポストWEB
 yahoo.co.jp##a[data-cl-params*="moneypost"]
+!マネーポストWEB ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/マネーポストWEB/) { remove: true; }
 
 !CoinDesk JAPAN
 yahoo.co.jp##a[data-cl-params*="coindesk"]
@@ -1065,6 +1139,8 @@ yahoo.co.jp##a[data-cl-params*="php_s"]
 yahoo.co.jp##a[data-cl-params*="php_t"]
 yahoo.co.jp##a[data-cl-params*="phpfamily"]
 
+!ネットショップ担当者フォーラム
+yahoo.co.jp##a[data-cl-params*="netshop"]
 
 !-------------------------------------------
 
@@ -1074,24 +1150,38 @@ yahoo.co.jp##a[data-cl-params*="phpfamily"]
 
 !東スポ
 yahoo.co.jp##a[data-cl-params*="tospoweb"]
+!東スポ ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/東スポWEB/) { remove: true; }
 
 !中日スポーツ
 yahoo.co.jp##a[data-cl-params*="chuspo"]
+!中日スポーツ　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/中日スポーツ/) { remove: true; }
 
 !スポニチアネックス
 yahoo.co.jp##a[data-cl-params*="spnannex"]
+!スポニチアネックス ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/スポニチアネックス/) { remove: true; }
 
 !スポーツ報知
 yahoo.co.jp##a[data-cl-params*="sph"]
+!スポーツ報知 ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/スポーツ報知/) { remove: true; }
 
 !デイリースポーツ
 yahoo.co.jp##a[data-cl-params*="dal"]
+!デイリースポーツ ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/デイリースポーツ/) { remove: true; }
 
 !日刊スポーツ
 yahoo.co.jp##a[data-cl-params*="nksports"]
+!日刊スポーツ ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/日刊スポーツ/) { remove: true; }
 
 !サンケイスポーツ
 yahoo.co.jp##a[data-cl-params*="sanspo"]
+!サンケイスポーツ ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(/サンケイスポーツ/) { remove: true; }
 
 !西日本スポーツ
 yahoo.co.jp##a[data-cl-params*="nishispo"]
