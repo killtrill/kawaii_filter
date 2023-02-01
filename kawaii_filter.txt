@@ -167,12 +167,18 @@ yahoo.co.jp#$?#a:contains(ヨガジャーナルオンライン) { remove: true; 
 
 !Lmagajp
 yahoo.co.jp##a[data-cl-params*="lmaga"]
+!Lmaga.jp 抹消
+yahoo.co.jp#$?#a:contains(Lmaga.jp) { remove: true; }
 
 !ハルメク365
 yahoo.co.jp##a[data-cl-params*="halmek"]
+!ハルメク365 抹消
+yahoo.co.jp#$?#a:contains(ハルメク365) { remove: true; }
 
 !LIMO
 yahoo.co.jp##a[data-cl-params*="toushin"]
+!LIMO 抹消
+yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
 
 !ライフハッカー・ジャパン
 yahoo.co.jp##a[data-cl-params*="lifeh"]
@@ -184,15 +190,21 @@ yahoo.co.jp##a[data-cl-params*="anna"]
 
 !BCN
 yahoo.co.jp##a[data-cl-params*="bcn"]
+!BCN 抹消
+yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
 
 !25ansヴァンサンカン
 yahoo.co.jp##a[data-cl-params*="vingtcinq"]
+!25ans 抹消
+yahoo.co.jp#$?#a:contains(25ans) { remove: true; }
 
 !25ansウエディング
 yahoo.co.jp##a[data-cl-params*="vingtcinqw"]
 
 !毎日キレイ
 yahoo.co.jp##a[data-cl-params*="maikirei"]
+!毎日キレイ 抹消
+yahoo.co.jp#$?#a:contains(毎日キレイ) { remove: true; }
 
 !ランキングー
 yahoo.co.jp##a[data-cl-params*="rankingoo"]
@@ -201,14 +213,18 @@ yahoo.co.jp#$?#a:contains(ランキングー！) { remove: true; }
 
 !Techinsight
 yahoo.co.jp##a[data-cl-params*="techinq"]
-!Techinsight ダイジェスト表示削除用
+!Techinsight 抹消
 yahoo.co.jp#$?#a:contains(Techinsight) { remove: true; }
 
-!プレシデントオンライン
+!プレジデントオンライン
 yahoo.co.jp##a[data-cl-params*="president"]
+!プレジデントオンライン 抹消
+yahoo.co.jp#$?#a:contains(プレジデントオンライン) { remove: true; }
 
 !幻冬舎ゴールドオンライン
 yahoo.co.jp##a[data-cl-params*="gonline"]
+!幻冬舎ゴールドオンライン 抹消
+yahoo.co.jp#$?#a:contains(幻冬舎ゴールドオンライン) { remove: true; }
 
 !News Vision
 yahoo.co.jp##a[data-cl-params*="newsvision"]
@@ -353,12 +369,16 @@ yahoo.co.jp##a[data-cl-params*="kkrgd"]
 !男の隠れ家デジタル　ダイジェスト表示削除用
 yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
 
+!ニュースソクラ
+yahoo.co.jp##a[data-cl-params*="socra"]
+
 !*******************************************
 
 !芸能
 
 !Yahoo!テレビGガイド
 yahoo.co.jp##a[data-cl-params*="tvdogatch"]
+yahoo.co.jp##a[data-cl-params*="tvguide"]
 
 !ウォーカープラス
 yahoo.co.jp##a[data-cl-params*="tkwalk"]
@@ -975,6 +995,9 @@ yahoo.co.jp##a[data-cl-params*="elevenspo"]
 !ラブすぽ
 yahoo.co.jp##a[data-cl-params*="tl-love-spo"]
 
+!CoCoKARA NEXT
+yahoo.co.jp##a[data-cl-params*="cocokara"]
+
 
 !-------------------------------------------
 
@@ -1218,8 +1241,10 @@ yahoo.co.jp##a[data-cl-params*="hankyoreh"]
 !KOREAWAVE
 yahoo.co.jp##a[data-cl-params*="clc_korea"]
 
-!ニューズウィーク
+!ニューズウィーク日本版
 yahoo.co.jp##a[data-cl-params*="newsweek"]
+!ニューズウィーク日本版　抹消
+yahoo.co.jp#$?#a:contains(ニューズウィーク日本版) { remove: true; }
 
 !PHPオンライン
 yahoo.co.jp##a[data-cl-params*="php_s"]
