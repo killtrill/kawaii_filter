@@ -87,55 +87,83 @@ yahoo.co.jp#$?#a:contains(BUSINESS INSIDER JAPAN) { remove: true; }
 
 !ウレぴあ総研
 yahoo.co.jp##a[data-cl-params*="urepia"]
+!ウレぴあ総研 抹消
+yahoo.co.jp#$?#a:contains(ウレぴあ総研) { remove: true; }
 
-!サンキュ
+!サンキュ！
 yahoo.co.jp##a[data-cl-params*="thankyu"]
+!サンキュ！ 抹消
+yahoo.co.jp#$?#a:contains(サンキュ！) { remove: true; }
 
 !あるじゃん
 yahoo.co.jp##a[data-cl-params*="argent"]
+!あるじゃん 抹消
+yahoo.co.jp#$?#a:contains(あるじゃん) { remove: true; }
 
 !AllAbout
 yahoo.co.jp##a[data-cl-params*="nallabout"]
+!All About 抹消
+yahoo.co.jp#$?#a:contains(All About) { remove: true; }
 
 !クーリエ・ジャポン
 yahoo.co.jp##a[data-cl-params*="courrier"]
+!クーリエ・ジャポン 抹消
+yahoo.co.jp#$?#a:contains(クーリエ・ジャポン) { remove: true; }
 
-!Jタウンネット
+!Ｊタウンネット
 yahoo.co.jp##a[data-cl-params*="jtown"]
+!Ｊタウンネット 抹消
+yahoo.co.jp#$?#a:contains(Ｊタウンネット) { remove: true; }
 
 !ソトコトオンライン
 yahoo.co.jp##a[data-cl-params*="sotokoto"]
+!ソトコトオンライン 抹消
+yahoo.co.jp#$?#a:contains(ソトコトオンライン) { remove: true; }
 
 !オトナンサー
 yahoo.co.jp##a[data-cl-params*="otonans"]
+!オトナンサー 抹消
+yahoo.co.jp#$?#a:contains(オトナンサー) { remove: true; }
 
 !withonline
 yahoo.co.jp##a[data-cl-params*="withonline"]
+!withonline 抹消
+yahoo.co.jp#$?#a:contains(with online) { remove: true; }
 
 !まいどなニュース
 yahoo.co.jp##a[data-cl-params*="maidonans"]
-!まいどなニュース ダイジェスト表示削除用
+!まいどなニュース 抹消
 yahoo.co.jp#$?#a:contains(まいどなニュース) { remove: true; }
 
 !よろず～ニュース
 yahoo.co.jp##a[data-cl-params*="yorozuns"]
+!よろず～ニュース 抹消
+yahoo.co.jp#$?#a:contains(よろず～ニュース) { remove: true; }
 
-!サライjp
+!サライ.jp
 yahoo.co.jp##a[data-cl-params*="seraijp"]
+!サライ.jp 抹消
+yahoo.co.jp#$?#a:contains(サライ.jp) { remove: true; }
 
 !webマガジンmi-mollet
 yahoo.co.jp##a[data-cl-params*="mimollet"]
-!webマガジンmimollet ダイジェスト表示削除用
+!webマガジンmimollet 抹消
 yahoo.co.jp#$?#a:contains(mi-mollet) { remove: true; }
 
 !magacol
 yahoo.co.jp##a[data-cl-params*="magacol"]
+!magacol 抹消
+yahoo.co.jp#$?#a:contains(magacol) { remove: true; }
 
 !kufura
 yahoo.co.jp##a[data-cl-params*="kufura"]
+!kufura 抹消
+yahoo.co.jp#$?#a:contains(kufura) { remove: true; }
 
 !ヨガジャーナルオンライン
 yahoo.co.jp##a[data-cl-params*="yogajol"]
+!ヨガジャーナルオンライン 抹消
+yahoo.co.jp#$?#a:contains(ヨガジャーナルオンライン) { remove: true; }
 
 !Lmagajp
 yahoo.co.jp##a[data-cl-params*="lmaga"]
@@ -146,8 +174,10 @@ yahoo.co.jp##a[data-cl-params*="halmek"]
 !LIMO
 yahoo.co.jp##a[data-cl-params*="toushin"]
 
-!ライフハッカージャパン
+!ライフハッカー・ジャパン
 yahoo.co.jp##a[data-cl-params*="lifeh"]
+!ライフハッカー・ジャパン 抹消
+yahoo.co.jp#$?#a:contains(ライフハッカー・ジャパン) { remove: true; }
 
 !anna
 yahoo.co.jp##a[data-cl-params*="anna"]
@@ -166,6 +196,8 @@ yahoo.co.jp##a[data-cl-params*="maikirei"]
 
 !ランキングー
 yahoo.co.jp##a[data-cl-params*="rankingoo"]
+!ランキングー 抹消
+yahoo.co.jp#$?#a:contains(ランキングー！) { remove: true; }
 
 !Techinsight
 yahoo.co.jp##a[data-cl-params*="techinq"]
@@ -188,6 +220,8 @@ yahoo.co.jp#$?#a:contains(ENCOUNT) { remove: true; }
 
 !ハフポスト
 yahoo.co.jp##a[data-cl-params*="huffpost"]
+!ハフポスト 抹消
+yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
 
 !THE ANSWER
 yahoo.co.jp##a[data-cl-params*="theanswer"]
@@ -239,6 +273,8 @@ yahoo.co.jp##a[data-cl-params*="hhonz"]
 
 !WIRED デヴァイスって書き方が嫌い
 yahoo.co.jp##a[data-cl-params*="wired"]
+!WIRED 抹消
+yahoo.co.jp#$?#a:contains(WIRED) { remove: true; }
 
 !クウネルサロン
 yahoo.co.jp##a[data-cl-params*="kunel"]
@@ -259,6 +295,8 @@ yahoo.co.jp##a[data-cl-params*="charmmy"]
 
 !CHANTO WEB
 yahoo.co.jp##a[data-cl-params*="chanto"]
+!CHANTO WEB 抹消
+yahoo.co.jp#$?#a:contains(CHANTO WEB) { remove: true; }
 
 !telling.
 yahoo.co.jp##a[data-cl-params*="telling"]
@@ -304,6 +342,16 @@ yahoo.co.jp##a[data-cl-params*="socialinv"]
 
 !なかまぁる
 yahoo.co.jp##a[data-cl-params*="nakamaaru"]
+
+!mymo
+yahoo.co.jp##a[data-cl-params*="mymo"]
+!mymo　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(mymo) { remove: true; }
+
+!男の隠れ家デジタル
+yahoo.co.jp##a[data-cl-params*="kkrgd"]
+!男の隠れ家デジタル　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
 
 !*******************************************
 
@@ -358,6 +406,8 @@ yahoo.co.jp##a[data-cl-params*="natalien"]
 
 !お笑いナタリー
 yahoo.co.jp##a[data-cl-params*="natalieo"]
+!お笑いナタリー ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(お笑いナタリー) { remove: true; }
 
 !ステージナタリー
 yahoo.co.jp##a[data-cl-params*="natalies"]
@@ -432,6 +482,10 @@ yahoo.co.jp##a[data-cl-params*="hominis"]
 
 !QJ web　クイック・ジャパンウェブ
 yahoo.co.jp##a[data-cl-params*="qjweb"]
+
+!TV LIFE web
+yahoo.co.jp##a[data-cl-params*="tvlife"]
+
 
 !*******************************************
 
@@ -915,6 +969,13 @@ yahoo.co.jp##a[data-cl-params*="spport"]
 !スポーティングニュース
 yahoo.co.jp##a[data-cl-params*="sporting"]
 
+!イレブンスポーツ
+yahoo.co.jp##a[data-cl-params*="elevenspo"]
+
+!ラブすぽ
+yahoo.co.jp##a[data-cl-params*="tl-love-spo"]
+
+
 !-------------------------------------------
 
 !アニメ系サイト
@@ -1139,6 +1200,8 @@ yahoo.co.jp##a[data-cl-params*="dmore"]
 
 !Wedge
 yahoo.co.jp##a[data-cl-params*="wedge"]
+!時代の末端を行く雑誌Wedge
+yahoo.co.jp#$?#a:contains(Wedge) { remove: true; }
 
 !朝鮮日報
 yahoo.co.jp##a[data-cl-params*="chosun"]
