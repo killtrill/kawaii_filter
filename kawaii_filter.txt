@@ -41,8 +41,10 @@ yahoo.co.jp##a[href*="video"]
 yahoo.co.jp##a[href*="toku"]
 yahoo.co.jp##a[href*="commerce"]
 yahoo.co.jp##a[href*="promotion"]
+yahoo.co.jp##a[href*="tkbkpc"]
 yahoo.co.jp##a[data-cl-params*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
+yahoo.co.jp##a[data-cl-params*="promo"]
 
 
 !-------------------------------------------
@@ -371,6 +373,12 @@ yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
 
 !ニュースソクラ
 yahoo.co.jp##a[data-cl-params*="socra"]
+
+!オンネラ
+yahoo.co.jp##a[data-cl-params*="onnela"]
+
+!macaroni
+yahoo.co.jp##a[data-cl-params*="tl-macaro-ni"]
 
 !*******************************************
 
@@ -722,6 +730,9 @@ yahoo.co.jp##a[data-cl-params*="awire"]
 
 !sorae 宇宙へのポータルサイト
 yahoo.co.jp##a[data-cl-params*="sorae_jp"]
+
+!CAPA CAMERA WEB
+yahoo.co.jp##a[data-cl-params*="-capa"]
 
 !-------------------------------------------
 
