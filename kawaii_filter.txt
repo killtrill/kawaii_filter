@@ -514,6 +514,8 @@ yahoo.co.jp##a[data-cl-params*="qjweb"]
 !TV LIFE web
 yahoo.co.jp##a[data-cl-params*="tvlife"]
 
+!Pop'n'Roll
+yahoo.co.jp##a[data-cl-params*="popnroll"]
 
 !*******************************************
 
@@ -527,6 +529,8 @@ yahoo.co.jp##a[data-cl-params*="amweb"]
 
 !VAGUE
 yahoo.co.jp##a[data-cl-params*="vague"]
+!VAGUE ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(VAGUE) { remove: true; }
 
 !レスポンス
 yahoo.co.jp##a[data-cl-params*="rps"]
@@ -571,9 +575,13 @@ yahoo.co.jp#$?#a:contains(乗りものニュース) { remove: true; }
 !くるまのニュース(2つある?)
 yahoo.co.jp##a[data-cl-params*="carview"]
 yahoo.co.jp##a[data-cl-params*="kurumans"]
+!くるまのニュース ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(くるまのニュース) { remove: true; }
 
 !バイクのニュース
 yahoo.co.jp##a[data-cl-params*="bikeno"]
+!バイクのニュース ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(バイクのニュース) { remove: true; }
 
 !webCG
 yahoo.co.jp##a[data-cl-params*="webcg"]
@@ -672,6 +680,8 @@ yahoo.co.jp##a[data-cl-params*="voce"]
 !MEN'S CLUB
 yahoo.co.jp##a[data-cl-params*="mensplus"]
 
+!SPUR.jp
+yahoo.co.jp##a[data-cl-params*="spur"]
 
 !*******************************************
 
@@ -733,6 +743,9 @@ yahoo.co.jp##a[data-cl-params*="sorae_jp"]
 
 !CAPA CAMERA WEB
 yahoo.co.jp##a[data-cl-params*="-capa"]
+
+!価格.comマガジン
+yahoo.co.jp##a[data-cl-params*="kakakumag"]
 
 !-------------------------------------------
 
@@ -1085,8 +1098,10 @@ yahoo.co.jp##a[data-cl-params*="animeanime"]
 !ananweb
 yahoo.co.jp##a[data-cl-params*="ananweb"]
 
-!週刊女性プライム
+!週刊女性PRIME
 yahoo.co.jp##a[data-cl-params*="jprime"]
+!週刊女性PRIME　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(週刊女性PRIME) { remove: true; }
 
 !女性自身
 yahoo.co.jp##a[data-cl-params*="jisin"]
