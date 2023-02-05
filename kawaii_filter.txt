@@ -945,18 +945,28 @@ yahoo.co.jp##a[data-cl-params*="macour"]
 
 !RONSPO
 yahoo.co.jp##a[data-cl-params*="ronspo"]
+!RONSPO　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(RONSPO) { remove: true; }
 
 !イーファイト
 yahoo.co.jp##a[data-cl-params*="gbr"]
+!イーファイト　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(イーファイト) { remove: true; }
 
-!バトルニュース
+!バトル・ニュース
 yahoo.co.jp##a[data-cl-params*="battlen"]
+!バトル・ニュース　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(バトル・ニュース) { remove: true; }
 
 !ゴング格闘技
 yahoo.co.jp##a[data-cl-params*="gkakutogi"]
+!ゴング格闘技　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(ゴング格闘技) { remove: true; }
 
 !BBM Sports
 yahoo.co.jp##a[data-cl-params*="bbmv"]
+!BBM Sports　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(BBM Sports) { remove: true; }
 
 !*******************************************
 
