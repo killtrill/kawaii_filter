@@ -243,6 +243,8 @@ yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
 
 !THE ANSWER
 yahoo.co.jp##a[data-cl-params*="theanswer"]
+!THE ANSWER ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(THE ANSWER) { remove: true; }
 
 !J-CASTニュース
 yahoo.co.jp##a[data-cl-params*="jct"] 
@@ -516,6 +518,13 @@ yahoo.co.jp##a[data-cl-params*="tvlife"]
 
 !Pop'n'Roll
 yahoo.co.jp##a[data-cl-params*="popnroll"]
+
+!OKMusic
+yahoo.co.jp##a[data-cl-params*="-okm"]
+
+!音楽と人
+yahoo.co.jp##a[data-cl-params*="ongakuto"]
+
 
 !*******************************************
 
