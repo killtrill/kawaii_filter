@@ -260,6 +260,8 @@ yahoo.co.jp##a[data-cl-params*="ffield"]
 
 !saita
 yahoo.co.jp##a[data-cl-params*="saita"]
+!saita ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(saita) { remove: true; }
 
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
@@ -1124,6 +1126,8 @@ yahoo.co.jp#$?#a:contains(週刊女性PRIME) { remove: true; }
 
 !女性自身
 yahoo.co.jp##a[data-cl-params*="jisin"]
+!女性自身　ダイジェスト表示削除用
+yahoo.co.jp#$?#a:contains(女性自身) { remove: true; }
 
 !ViVi
 yahoo.co.jp##a[data-cl-params*="netvivi"]
