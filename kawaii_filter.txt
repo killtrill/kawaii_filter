@@ -1,6 +1,8 @@
 
-!Ynews♡かわいい♡フィルター
-!ynews_kawaii_filter
+! Title: kawaii_filter
+! Version: 20230206
+
+! かわいいフィルター
 
 !Yahooトップを♡かわいく♡するフィルターです
 
@@ -46,6 +48,9 @@ yahoo.co.jp##a[data-cl-params*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 yahoo.co.jp##a[data-cl-params*="promo"]
 
+!first-all-digest
+yahoo.co.jp##ul[class="Autopi_StreamAutopi__list__7Njfe"]
+
 
 !-------------------------------------------
 
@@ -59,133 +64,133 @@ yahoo.co.jp##a[data-cl-params*="promo"]
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
 !ママスタセレクト　抹消
-yahoo.co.jp#$?#a:contains(ママスタセレクト) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ママスタセレクト) { remove: true; }
 
 !バズフィード　表記揺れかわいくない
 yahoo.co.jp##a[data-cl-params*="bfj"]
 yahoo.co.jp##a[data-cl-params*="buzzfeed"]
 !バズフィード　抹消
-yahoo.co.jp#$?#a:contains(BuzzFeed Japan) { remove: true; }
+!yahoo.co.jp#$?#a:contains(BuzzFeed Japan) { remove: true; }
 
 !ABEMA TIMES
 yahoo.co.jp##a[data-cl-params*="abema"]
 !ABEMA 抹消
-yahoo.co.jp#$?#a:contains(ABEMA) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ABEMA) { remove: true; }
 
 !Ameba News
 yahoo.co.jp##a[data-cl-params*="ameba"]
 !Ameba 抹消
-yahoo.co.jp#$?#a:contains(Ameba) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Ameba) { remove: true; }
 
 !ギズモード
 yahoo.co.jp##a[data-cl-params*="giz"]
 !ギズモード　抹消
-yahoo.co.jp#$?#a:contains(ギズモード) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ギズモード) { remove: true; }
 
 !BUSINESS INSIDER JAPAN
 yahoo.co.jp##a[data-cl-params*="binsider"]
 !BUSINESS INSIDER JAPAN ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(BUSINESS INSIDER JAPAN) { remove: true; }
+!yahoo.co.jp#$?#a:contains(BUSINESS INSIDER JAPAN) { remove: true; }
 
 !ウレぴあ総研
 yahoo.co.jp##a[data-cl-params*="urepia"]
 !ウレぴあ総研 抹消
-yahoo.co.jp#$?#a:contains(ウレぴあ総研) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ウレぴあ総研) { remove: true; }
 
 !サンキュ！
 yahoo.co.jp##a[data-cl-params*="thankyu"]
 !サンキュ！ 抹消
-yahoo.co.jp#$?#a:contains(サンキュ！) { remove: true; }
+!yahoo.co.jp#$?#a:contains(サンキュ！) { remove: true; }
 
 !あるじゃん
 yahoo.co.jp##a[data-cl-params*="argent"]
 !あるじゃん 抹消
-yahoo.co.jp#$?#a:contains(あるじゃん) { remove: true; }
+!yahoo.co.jp#$?#a:contains(あるじゃん) { remove: true; }
 
 !AllAbout
 yahoo.co.jp##a[data-cl-params*="nallabout"]
 !All About 抹消
-yahoo.co.jp#$?#a:contains(All About) { remove: true; }
+!yahoo.co.jp#$?#a:contains(All About) { remove: true; }
 
 !クーリエ・ジャポン
 yahoo.co.jp##a[data-cl-params*="courrier"]
 !クーリエ・ジャポン 抹消
-yahoo.co.jp#$?#a:contains(クーリエ・ジャポン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(クーリエ・ジャポン) { remove: true; }
 
 !Ｊタウンネット
 yahoo.co.jp##a[data-cl-params*="jtown"]
 !Ｊタウンネット 抹消
-yahoo.co.jp#$?#a:contains(Ｊタウンネット) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Ｊタウンネット) { remove: true; }
 
 !ソトコトオンライン
 yahoo.co.jp##a[data-cl-params*="sotokoto"]
 !ソトコトオンライン 抹消
-yahoo.co.jp#$?#a:contains(ソトコトオンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ソトコトオンライン) { remove: true; }
 
 !オトナンサー
 yahoo.co.jp##a[data-cl-params*="otonans"]
 !オトナンサー 抹消
-yahoo.co.jp#$?#a:contains(オトナンサー) { remove: true; }
+!yahoo.co.jp#$?#a:contains(オトナンサー) { remove: true; }
 
 !withonline
 yahoo.co.jp##a[data-cl-params*="withonline"]
 !withonline 抹消
-yahoo.co.jp#$?#a:contains(with online) { remove: true; }
+!yahoo.co.jp#$?#a:contains(with online) { remove: true; }
 
 !まいどなニュース
 yahoo.co.jp##a[data-cl-params*="maidonans"]
 !まいどなニュース 抹消
-yahoo.co.jp#$?#a:contains(まいどなニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(まいどなニュース) { remove: true; }
 
 !よろず～ニュース
 yahoo.co.jp##a[data-cl-params*="yorozuns"]
 !よろず～ニュース 抹消
-yahoo.co.jp#$?#a:contains(よろず～ニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(よろず～ニュース) { remove: true; }
 
 !サライ.jp
 yahoo.co.jp##a[data-cl-params*="seraijp"]
 !サライ.jp 抹消
-yahoo.co.jp#$?#a:contains(サライ.jp) { remove: true; }
+!yahoo.co.jp#$?#a:contains(サライ.jp) { remove: true; }
 
 !webマガジンmi-mollet
 yahoo.co.jp##a[data-cl-params*="mimollet"]
 !webマガジンmimollet 抹消
-yahoo.co.jp#$?#a:contains(mi-mollet) { remove: true; }
+!yahoo.co.jp#$?#a:contains(mi-mollet) { remove: true; }
 
 !magacol
 yahoo.co.jp##a[data-cl-params*="magacol"]
 !magacol 抹消
-yahoo.co.jp#$?#a:contains(magacol) { remove: true; }
+!yahoo.co.jp#$?#a:contains(magacol) { remove: true; }
 
 !kufura
 yahoo.co.jp##a[data-cl-params*="kufura"]
 !kufura 抹消
-yahoo.co.jp#$?#a:contains(kufura) { remove: true; }
+!yahoo.co.jp#$?#a:contains(kufura) { remove: true; }
 
 !ヨガジャーナルオンライン
 yahoo.co.jp##a[data-cl-params*="yogajol"]
 !ヨガジャーナルオンライン 抹消
-yahoo.co.jp#$?#a:contains(ヨガジャーナルオンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ヨガジャーナルオンライン) { remove: true; }
 
 !Lmagajp
 yahoo.co.jp##a[data-cl-params*="lmaga"]
 !Lmaga.jp 抹消
-yahoo.co.jp#$?#a:contains(Lmaga.jp) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Lmaga.jp) { remove: true; }
 
 !ハルメク365
 yahoo.co.jp##a[data-cl-params*="halmek"]
 !ハルメク365 抹消
-yahoo.co.jp#$?#a:contains(ハルメク365) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ハルメク365) { remove: true; }
 
 !LIMO
 yahoo.co.jp##a[data-cl-params*="toushin"]
 !LIMO 抹消
-yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
+!yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
 
 !ライフハッカー・ジャパン
 yahoo.co.jp##a[data-cl-params*="lifeh"]
 !ライフハッカー・ジャパン 抹消
-yahoo.co.jp#$?#a:contains(ライフハッカー・ジャパン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ライフハッカー・ジャパン) { remove: true; }
 
 !anna
 yahoo.co.jp##a[data-cl-params*="anna"]
@@ -193,40 +198,40 @@ yahoo.co.jp##a[data-cl-params*="anna"]
 !BCN
 yahoo.co.jp##a[data-cl-params*="bcn"]
 !BCN 抹消
-yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
+!yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
 
 !25ansヴァンサンカン
 yahoo.co.jp##a[data-cl-params*="vingtcinq"]
 !25ans 抹消
-yahoo.co.jp#$?#a:contains(25ans) { remove: true; }
+!yahoo.co.jp#$?#a:contains(25ans) { remove: true; }
 
 !25ansウエディング
-yahoo.co.jp##a[data-cl-params*="vingtcinqw"]
+!yahoo.co.jp##a[data-cl-params*="vingtcinqw"]
 
 !毎日キレイ
 yahoo.co.jp##a[data-cl-params*="maikirei"]
 !毎日キレイ 抹消
-yahoo.co.jp#$?#a:contains(毎日キレイ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(毎日キレイ) { remove: true; }
 
 !ランキングー
 yahoo.co.jp##a[data-cl-params*="rankingoo"]
 !ランキングー 抹消
-yahoo.co.jp#$?#a:contains(ランキングー！) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ランキングー！) { remove: true; }
 
 !Techinsight
 yahoo.co.jp##a[data-cl-params*="techinq"]
 !Techinsight 抹消
-yahoo.co.jp#$?#a:contains(Techinsight) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Techinsight) { remove: true; }
 
 !プレジデントオンライン
 yahoo.co.jp##a[data-cl-params*="president"]
 !プレジデントオンライン 抹消
-yahoo.co.jp#$?#a:contains(プレジデントオンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(プレジデントオンライン) { remove: true; }
 
 !幻冬舎ゴールドオンライン
 yahoo.co.jp##a[data-cl-params*="gonline"]
 !幻冬舎ゴールドオンライン 抹消
-yahoo.co.jp#$?#a:contains(幻冬舎ゴールドオンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(幻冬舎ゴールドオンライン) { remove: true; }
 
 !News Vision
 yahoo.co.jp##a[data-cl-params*="newsvision"]
@@ -234,17 +239,17 @@ yahoo.co.jp##a[data-cl-params*="newsvision"]
 !ENCOUNT
 yahoo.co.jp##a[data-cl-params*="encount"]
 !ENCOUNT ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(ENCOUNT) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ENCOUNT) { remove: true; }
 
 !ハフポスト
 yahoo.co.jp##a[data-cl-params*="huffpost"]
 !ハフポスト 抹消
-yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
 
 !THE ANSWER
 yahoo.co.jp##a[data-cl-params*="theanswer"]
 !THE ANSWER ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(THE ANSWER) { remove: true; }
+!yahoo.co.jp#$?#a:contains(THE ANSWER) { remove: true; }
 
 !J-CASTニュース
 yahoo.co.jp##a[data-cl-params*="jct"] 
@@ -261,7 +266,7 @@ yahoo.co.jp##a[data-cl-params*="ffield"]
 !saita
 yahoo.co.jp##a[data-cl-params*="saita"]
 !saita ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(saita) { remove: true; }
+!yahoo.co.jp#$?#a:contains(saita) { remove: true; }
 
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
@@ -296,7 +301,7 @@ yahoo.co.jp##a[data-cl-params*="hhonz"]
 !WIRED デヴァイスって書き方が嫌い
 yahoo.co.jp##a[data-cl-params*="wired"]
 !WIRED 抹消
-yahoo.co.jp#$?#a:contains(WIRED) { remove: true; }
+!yahoo.co.jp#$?#a:contains(WIRED) { remove: true; }
 
 !クウネルサロン
 yahoo.co.jp##a[data-cl-params*="kunel"]
@@ -310,7 +315,7 @@ yahoo.co.jp##a[data-cl-params*="womensh"]
 !東京バーゲンマニア
 yahoo.co.jp##a[data-cl-params*="tkybgmnv"]
 !東京バーゲンマニア　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(東京バーゲンマニア) { remove: true; }
+!yahoo.co.jp#$?#a:contains(東京バーゲンマニア) { remove: true; }
 
 !charmmy
 yahoo.co.jp##a[data-cl-params*="charmmy"]
@@ -318,7 +323,7 @@ yahoo.co.jp##a[data-cl-params*="charmmy"]
 !CHANTO WEB
 yahoo.co.jp##a[data-cl-params*="chanto"]
 !CHANTO WEB 抹消
-yahoo.co.jp#$?#a:contains(CHANTO WEB) { remove: true; }
+!yahoo.co.jp#$?#a:contains(CHANTO WEB) { remove: true; }
 
 !telling.
 yahoo.co.jp##a[data-cl-params*="telling"]
@@ -328,7 +333,7 @@ yahoo.co.jp##a[data-cl-params*="gingerweb"]
 
 !ITmedia ビジネスオンライン
 yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
-yahoo.co.jp#$?#a:contains(ITmedia ビジネスオンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ITmedia ビジネスオンライン) { remove: true; }
 
 !ITmedia Mobile
 yahoo.co.jp##a[data-cl-params*="zdn_m"]
@@ -351,7 +356,7 @@ yahoo.co.jp##a[data-cl-params*="biz_it_sj"]
 !コクハク
 yahoo.co.jp##a[data-cl-params*="kokuhaku"]
 !コクハク　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(コクハク) { remove: true; }
+!yahoo.co.jp#$?#a:contains(コクハク) { remove: true; }
 
 !sharescafe ONLINE
 yahoo.co.jp##a[data-cl-params*="scafe"]
@@ -368,12 +373,12 @@ yahoo.co.jp##a[data-cl-params*="nakamaaru"]
 !mymo
 yahoo.co.jp##a[data-cl-params*="mymo"]
 !mymo　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(mymo) { remove: true; }
+!yahoo.co.jp#$?#a:contains(mymo) { remove: true; }
 
 !男の隠れ家デジタル
 yahoo.co.jp##a[data-cl-params*="kkrgd"]
 !男の隠れ家デジタル　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
+!yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
 
 !ニュースソクラ
 yahoo.co.jp##a[data-cl-params*="socra"]
@@ -410,7 +415,7 @@ yahoo.co.jp##a[data-cl-params*="kstylens"]
 !オリコン
 yahoo.co.jp##a[data-cl-params*="oric"]
 !オリコン ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(オリコン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(オリコン) { remove: true; }
 
 !CDJournal
 yahoo.co.jp##a[data-cl-params*="-cdj"]
@@ -439,7 +444,7 @@ yahoo.co.jp##a[data-cl-params*="natalien"]
 !お笑いナタリー
 yahoo.co.jp##a[data-cl-params*="natalieo"]
 !お笑いナタリー ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(お笑いナタリー) { remove: true; }
+!yahoo.co.jp#$?#a:contains(お笑いナタリー) { remove: true; }
 
 !ステージナタリー
 yahoo.co.jp##a[data-cl-params*="natalies"]
@@ -492,7 +497,7 @@ yahoo.co.jp##a[data-cl-params*="bazaar"]
 !シネマトゥデイ
 yahoo.co.jp##a[data-cl-params*="-flix"]
 !シネマトゥデイ　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(シネマトゥデイ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(シネマトゥデイ) { remove: true; }
 
 !コスモポリタン
 yahoo.co.jp##a[data-cl-params*="cosmopoli"]
@@ -541,7 +546,7 @@ yahoo.co.jp##a[data-cl-params*="amweb"]
 !VAGUE
 yahoo.co.jp##a[data-cl-params*="vague"]
 !VAGUE ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(VAGUE) { remove: true; }
+!yahoo.co.jp#$?#a:contains(VAGUE) { remove: true; }
 
 !レスポンス
 yahoo.co.jp##a[data-cl-params*="rps"]
@@ -549,7 +554,7 @@ yahoo.co.jp##a[data-cl-params*="rps"]
 !WEB CARTOP
 yahoo.co.jp##a[data-cl-params*="wcartop"]
 !WEB CARTOP ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(WEB CARTOP) { remove: true; }
+!yahoo.co.jp#$?#a:contains(WEB CARTOP) { remove: true; }
 
 !GQJAPAN
 yahoo.co.jp##a[data-cl-params*="gqjapan"]
@@ -581,18 +586,18 @@ yahoo.co.jp##a[data-cl-params*="octane"]
 !乗りものニュース
 yahoo.co.jp##a[data-cl-params*="norimono"]
 !乗りものニュース ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(乗りものニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(乗りものニュース) { remove: true; }
 
 !くるまのニュース(2つある?)
 yahoo.co.jp##a[data-cl-params*="carview"]
 yahoo.co.jp##a[data-cl-params*="kurumans"]
 !くるまのニュース ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(くるまのニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(くるまのニュース) { remove: true; }
 
 !バイクのニュース
 yahoo.co.jp##a[data-cl-params*="bikeno"]
 !バイクのニュース ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(バイクのニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(バイクのニュース) { remove: true; }
 
 !webCG
 yahoo.co.jp##a[data-cl-params*="webcg"]
@@ -788,7 +793,7 @@ yahoo.co.jp##a[data-cl-params*="soccer"]
 !ゲキサカ
 yahoo.co.jp##a[data-cl-params*="gekisaka"]
 !ゲキサカ ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(ゲキサカ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ゲキサカ) { remove: true; }
 
 !フットボールチャンネル
 yahoo.co.jp##a[data-cl-params*="footballc"]
@@ -796,7 +801,7 @@ yahoo.co.jp##a[data-cl-params*="footballc"]
 !theWORLD　ザワールドウェブ
 yahoo.co.jp##a[data-cl-params*="theworldw"]
 !theWORLD ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(theWORLD) { remove: true; }
+!yahoo.co.jp#$?#a:contains(theWORLD) { remove: true; }
 
 !footballista
 yahoo.co.jp##a[data-cl-params*="fballista"]
@@ -835,7 +840,7 @@ yahoo.co.jp##a[data-cl-params*="thedigest"]
 !Number Web
 yahoo.co.jp##a[data-cl-params*="number"]
 !Number Web ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(Number Web) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Number Web) { remove: true; }
 
 !baseball Geeks
 yahoo.co.jp##a[data-cl-params*="geeksv"]
@@ -852,7 +857,7 @@ yahoo.co.jp##a[data-cl-params*="fullcount"]
 !AERA dot
 yahoo.co.jp##a[data-cl-params*="sasahi"]
 !AERA dot ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(AERA dot.) { remove: true; }
+!yahoo.co.jp#$?#a:contains(AERA dot.) { remove: true; }
 
 
 !*******************************************
@@ -957,27 +962,27 @@ yahoo.co.jp##a[data-cl-params*="macour"]
 !RONSPO
 yahoo.co.jp##a[data-cl-params*="ronspo"]
 !RONSPO　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(RONSPO) { remove: true; }
+!yahoo.co.jp#$?#a:contains(RONSPO) { remove: true; }
 
 !イーファイト
 yahoo.co.jp##a[data-cl-params*="gbr"]
 !イーファイト　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(イーファイト) { remove: true; }
+!yahoo.co.jp#$?#a:contains(イーファイト) { remove: true; }
 
 !バトル・ニュース
 yahoo.co.jp##a[data-cl-params*="battlen"]
 !バトル・ニュース　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(バトル・ニュース) { remove: true; }
+!yahoo.co.jp#$?#a:contains(バトル・ニュース) { remove: true; }
 
 !ゴング格闘技
 yahoo.co.jp##a[data-cl-params*="gkakutogi"]
 !ゴング格闘技　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(ゴング格闘技) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ゴング格闘技) { remove: true; }
 
 !BBM Sports
 yahoo.co.jp##a[data-cl-params*="bbmv"]
 !BBM Sports　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(BBM Sports) { remove: true; }
+!yahoo.co.jp#$?#a:contains(BBM Sports) { remove: true; }
 
 !*******************************************
 
@@ -1053,7 +1058,7 @@ yahoo.co.jp##a[data-cl-params*="cocokara"]
 !ねとらぼ
 yahoo.co.jp##a[data-cl-params*="nlab"]
 !ねとらぼ　ダイジェスト表示削除
-yahoo.co.jp#$?#a:contains(ねとらぼ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ねとらぼ) { remove: true; }
 
 !MANTANWEB
 yahoo.co.jp##a[data-cl-params*="mantan"]
@@ -1122,12 +1127,12 @@ yahoo.co.jp##a[data-cl-params*="ananweb"]
 !週刊女性PRIME
 yahoo.co.jp##a[data-cl-params*="jprime"]
 !週刊女性PRIME　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(週刊女性PRIME) { remove: true; }
+!yahoo.co.jp#$?#a:contains(週刊女性PRIME) { remove: true; }
 
 !女性自身
 yahoo.co.jp##a[data-cl-params*="jisin"]
 !女性自身　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(女性自身) { remove: true; }
+!yahoo.co.jp#$?#a:contains(女性自身) { remove: true; }
 
 !ViVi
 yahoo.co.jp##a[data-cl-params*="netvivi"]
@@ -1185,12 +1190,12 @@ yahoo.co.jp##a[data-cl-params*="flash"]
 !週刊SPA
 yahoo.co.jp##a[data-cl-params*="sspa"]
 !週刊SPA　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(週刊SPA) { remove: true; }
+!yahoo.co.jp#$?#a:contains(週刊SPA) { remove: true; }
 
 !bizSPA
 yahoo.co.jp##a[data-cl-params*="bizspa"]
 !bizSPA　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(bizSPA) { remove: true; }
+!yahoo.co.jp#$?#a:contains(bizSPA) { remove: true; }
 
 !週刊文春オンライン
 yahoo.co.jp##a[data-cl-params*="bunshun"]
@@ -1222,7 +1227,7 @@ yahoo.co.jp##a[data-cl-params*="the_tv"]
 !東洋経済オンライン
 yahoo.co.jp##a[data-cl-params*="-toyo"]
 !東洋経済オンライン　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(東洋経済オンライン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(東洋経済オンライン) { remove: true; }
 
 
 !*******************************************
@@ -1238,7 +1243,7 @@ yahoo.co.jp##a[data-cl-params*="stkms"]
 !みんかぶ
 yahoo.co.jp##a[data-cl-params*="minkabu"]
 !みんかぶ　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(みんかぶマガジン) { remove: true; }
+!yahoo.co.jp#$?#a:contains(みんかぶマガジン) { remove: true; }
 
 !ダイヤモンドZAI
 yahoo.co.jp##a[data-cl-params*="dzai"]
@@ -1258,7 +1263,7 @@ yahoo.co.jp##a[data-cl-params*="manetatsun"]
 !マネーポストWEB
 yahoo.co.jp##a[data-cl-params*="moneypost"]
 !マネーポストWEB ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(マネーポストWEB) { remove: true; }
+!yahoo.co.jp#$?#a:contains(マネーポストWEB) { remove: true; }
 
 !CoinDesk JAPAN
 yahoo.co.jp##a[data-cl-params*="coindesk"]
@@ -1273,7 +1278,7 @@ yahoo.co.jp##a[data-cl-params*="dmore"]
 !Wedge
 yahoo.co.jp##a[data-cl-params*="wedge"]
 !時代の末端を行く雑誌Wedge
-yahoo.co.jp#$?#a:contains(Wedge) { remove: true; }
+!yahoo.co.jp#$?#a:contains(Wedge) { remove: true; }
 
 !朝鮮日報
 yahoo.co.jp##a[data-cl-params*="chosun"]
@@ -1293,7 +1298,7 @@ yahoo.co.jp##a[data-cl-params*="clc_korea"]
 !ニューズウィーク日本版
 yahoo.co.jp##a[data-cl-params*="newsweek"]
 !ニューズウィーク日本版　抹消
-yahoo.co.jp#$?#a:contains(ニューズウィーク日本版) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ニューズウィーク日本版) { remove: true; }
 
 !PHPオンライン
 yahoo.co.jp##a[data-cl-params*="php_s"]
@@ -1312,37 +1317,37 @@ yahoo.co.jp##a[data-cl-params*="netshop"]
 !東スポ
 yahoo.co.jp##a[data-cl-params*="tospoweb"]
 !東スポ ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(東スポWEB) { remove: true; }
+!yahoo.co.jp#$?#a:contains(東スポWEB) { remove: true; }
 
 !中日スポーツ
 yahoo.co.jp##a[data-cl-params*="chuspo"]
 !中日スポーツ　ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(中日スポーツ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(中日スポーツ) { remove: true; }
 
 !スポニチアネックス
 yahoo.co.jp##a[data-cl-params*="spnannex"]
 !スポニチアネックス ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(スポニチアネックス) { remove: true; }
+!yahoo.co.jp#$?#a:contains(スポニチアネックス) { remove: true; }
 
 !スポーツ報知
 yahoo.co.jp##a[data-cl-params*="sph"]
 !スポーツ報知 ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(スポーツ報知) { remove: true; }
+!yahoo.co.jp#$?#a:contains(スポーツ報知) { remove: true; }
 
 !デイリースポーツ
 yahoo.co.jp##a[data-cl-params*="dal"]
 !デイリースポーツ ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(デイリースポーツ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(デイリースポーツ) { remove: true; }
 
 !日刊スポーツ
 yahoo.co.jp##a[data-cl-params*="nksports"]
 !日刊スポーツ ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(日刊スポーツ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(日刊スポーツ) { remove: true; }
 
 !サンケイスポーツ
 yahoo.co.jp##a[data-cl-params*="sanspo"]
 !サンケイスポーツ ダイジェスト表示削除用
-yahoo.co.jp#$?#a:contains(サンケイスポーツ) { remove: true; }
+!yahoo.co.jp#$?#a:contains(サンケイスポーツ) { remove: true; }
 
 !西日本スポーツ
 yahoo.co.jp##a[data-cl-params*="nishispo"]
