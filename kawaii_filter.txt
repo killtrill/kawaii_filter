@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230206
+! Version: 20230208
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -391,6 +391,9 @@ yahoo.co.jp##a[data-cl-params*="onnela"]
 
 !macaroni
 yahoo.co.jp##a[data-cl-params*="tl-macaro-ni"]
+
+!Reライフ.net
+yahoo.co.jp##a[data-cl-params*="relifenet"]
 
 !*******************************************
 
@@ -1113,6 +1116,10 @@ yahoo.co.jp##a[data-cl-params*="ignjapan"]
 
 !YahooテレビGガイド(アニメ)
 yahoo.co.jp##a[data-cl-params*="animeanime"]
+
+!Game Spark
+yahoo.co.jp##a[data-cl-params*="gamespav"]
+
 
 !-------------------------------------------
 
