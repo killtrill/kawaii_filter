@@ -1,0 +1,194 @@
+! Title : old rule
+! Version 20230211
+! Homepage: https://github.com/killtrill/kawaii_filter
+
+! 使わなくなったルールを整理
+
+!ママスタセレクト　抹消
+!yahoo.co.jp#$?#a:contains(ママスタセレクト) { remove: true; }
+!バズフィード　抹消
+!yahoo.co.jp#$?#a:contains(BuzzFeed Japan) { remove: true; }
+!ABEMA 抹消
+!yahoo.co.jp#$?#a:contains(ABEMA) { remove: true; }
+!Ameba 抹消
+!yahoo.co.jp#$?#a:contains(Ameba) { remove: true; }
+!ギズモード　抹消
+!yahoo.co.jp#$?#a:contains(ギズモード) { remove: true; }
+!BUSINESS INSIDER JAPAN ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(BUSINESS INSIDER JAPAN) { remove: true; }
+!ウレぴあ総研 抹消
+!yahoo.co.jp#$?#a:contains(ウレぴあ総研) { remove: true; }
+!サンキュ！ 抹消
+!yahoo.co.jp#$?#a:contains(サンキュ！) { remove: true; }
+!あるじゃん 抹消
+!yahoo.co.jp#$?#a:contains(あるじゃん) { remove: true; }
+!All About 抹消
+!yahoo.co.jp#$?#a:contains(All About) { remove: true; }
+!クーリエ・ジャポン 抹消
+!yahoo.co.jp#$?#a:contains(クーリエ・ジャポン) { remove: true; }
+!Ｊタウンネット 抹消
+!yahoo.co.jp#$?#a:contains(Ｊタウンネット) { remove: true; }
+!ソトコトオンライン 抹消
+!yahoo.co.jp#$?#a:contains(ソトコトオンライン) { remove: true; }
+!オトナンサー 抹消
+!yahoo.co.jp#$?#a:contains(オトナンサー) { remove: true; }
+!withonline 抹消
+!yahoo.co.jp#$?#a:contains(with online) { remove: true; }
+!まいどなニュース 抹消
+!yahoo.co.jp#$?#a:contains(まいどなニュース) { remove: true; }
+!よろず～ニュース 抹消
+!yahoo.co.jp#$?#a:contains(よろず～ニュース) { remove: true; }
+!サライ.jp 抹消
+!yahoo.co.jp#$?#a:contains(サライ.jp) { remove: true; }
+!webマガジンmimollet 抹消
+!yahoo.co.jp#$?#a:contains(mi-mollet) { remove: true; }
+!magacol 抹消
+!yahoo.co.jp#$?#a:contains(magacol) { remove: true; }
+!kufura 抹消
+!yahoo.co.jp#$?#a:contains(kufura) { remove: true; }
+!ヨガジャーナルオンライン 抹消
+!yahoo.co.jp#$?#a:contains(ヨガジャーナルオンライン) { remove: true; }
+!Lmaga.jp 抹消
+!yahoo.co.jp#$?#a:contains(Lmaga.jp) { remove: true; }
+!ハルメク365 抹消
+!yahoo.co.jp#$?#a:contains(ハルメク365) { remove: true; }
+!LIMO 抹消
+!yahoo.co.jp#$?#a:contains(LIMO) { remove: true; }
+!ライフハッカー・ジャパン 抹消
+!yahoo.co.jp#$?#a:contains(ライフハッカー・ジャパン) { remove: true; }
+!BCN 抹消
+!yahoo.co.jp#$?#a:contains(BCN) { remove: true; }
+!25ans 抹消
+!yahoo.co.jp#$?#a:contains(25ans) { remove: true; }
+!毎日キレイ 抹消
+!yahoo.co.jp#$?#a:contains(毎日キレイ) { remove: true; }
+!ランキングー 抹消
+!yahoo.co.jp#$?#a:contains(ランキングー！) { remove: true; }
+!Techinsight 抹消
+!yahoo.co.jp#$?#a:contains(Techinsight) { remove: true; }
+!プレジデントオンライン 抹消
+!yahoo.co.jp#$?#a:contains(プレジデントオンライン) { remove: true; }
+!幻冬舎ゴールドオンライン 抹消
+!yahoo.co.jp#$?#a:contains(幻冬舎ゴールドオンライン) { remove: true; }
+!ENCOUNT ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(ENCOUNT) { remove: true; }
+!ハフポスト 抹消
+!yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
+!THE ANSWER ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(THE ANSWER) { remove: true; } 
+!WIRED 抹消
+!yahoo.co.jp#$?#a:contains(WIRED) { remove: true; }
+!東京バーゲンマニア　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(東京バーゲンマニア) { remove: true; }
+!CHANTO WEB 抹消
+!yahoo.co.jp#$?#a:contains(CHANTO WEB) { remove: true; }
+!yahoo.co.jp#$?#a:contains(ITmedia ビジネスオンライン) { remove: true; }
+!コクハク　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(コクハク) { remove: true; }
+!mymo　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(mymo) { remove: true; }
+!男の隠れ家デジタル　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(男の隠れ家デジタル) { remove: true; }
+
+!オリコン ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(オリコン) { remove: true; }
+!お笑いナタリー ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(お笑いナタリー) { remove: true; }
+!シネマトゥデイ　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(シネマトゥデイ) { remove: true; }
+
+!VAGUE ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(VAGUE) { remove: true; }
+!WEB CARTOP ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(WEB CARTOP) { remove: true; }
+!乗りものニュース ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(乗りものニュース) { remove: true; }
+!くるまのニュース ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(くるまのニュース) { remove: true; }
+!バイクのニュース ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(バイクのニュース) { remove: true; }
+
+!ゲキサカ ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(ゲキサカ) { remove: true; }
+!theWORLD ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(theWORLD) { remove: true; }
+
+!Number Web ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(Number Web) { remove: true; }
+!AERA dot ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(AERA dot.) { remove: true; }
+
+!RONSPO　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(RONSPO) { remove: true; }
+!イーファイト　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(イーファイト) { remove: true; }
+!バトル・ニュース　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(バトル・ニュース) { remove: true; }
+!ゴング格闘技　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(ゴング格闘技) { remove: true; }
+!BBM Sports　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(BBM Sports) { remove: true; }
+
+!ねとらぼ　ダイジェスト表示削除
+!yahoo.co.jp#$?#a:contains(ねとらぼ) { remove: true; }
+
+!週刊女性PRIME　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(週刊女性PRIME) { remove: true; }
+!女性自身　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(女性自身) { remove: true; }
+
+!週刊SPA　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(週刊SPA) { remove: true; }
+!bizSPA　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(bizSPA) { remove: true; }
+!東洋経済オンライン　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(東洋経済オンライン) { remove: true; }
+
+!みんかぶ　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(みんかぶマガジン) { remove: true; }
+!マネーポストWEB ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(マネーポストWEB) { remove: true; }
+
+!時代の末端を行く雑誌Wedge
+!yahoo.co.jp#$?#a:contains(Wedge) { remove: true; }
+!ニューズウィーク日本版　抹消
+!yahoo.co.jp#$?#a:contains(ニューズウィーク日本版) { remove: true; }
+
+!東スポ ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(東スポWEB) { remove: true; }
+!中日スポーツ　ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(中日スポーツ) { remove: true; }
+!スポニチアネックス ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(スポニチアネックス) { remove: true; }
+!スポーツ報知 ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(スポーツ報知) { remove: true; }
+!デイリースポーツ ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(デイリースポーツ) { remove: true; }
+!日刊スポーツ ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(日刊スポーツ) { remove: true; }
+!サンケイスポーツ ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(サンケイスポーツ) { remove: true; }
+
+!週刊誌の記事を消す
+
+!yahoo.co.jp#$?#a:contains(/週刊女性|女性自身|プレジデントオンライン|東洋経済オンライン|日刊ゲンダイ|FRIDAY|女子SPA|レタスクラブ|FLASH|ポストセブン|東スポ|anan|ネット民|ザテレビジョン|週刊SPA|現代ビジネス|ダイヤモンド・オンライン/) { remove: true; }
+
+
+!ネットサイトの記事を消す
+
+!yahoo.co.jp#$?#a:contains(/ママスタセレクト|BuzzFeed|ギズモード|ランキングー|ハフポスト|クーリエ・ジャポン|ママタス|マグミクス|Ameba|ABEMA|J-CAST|ウォーカープラス|ウレぴあ総研|まいどなニュース|かりあげクン|リアルサウンド|ウィメンズヘルス|Ｊタウンネット|サンキュ！|VOCE|ハルメク365|ネット民|ソトコトオンライン|コクハク|SOCCER DIGEST NEWS|フジテレびビュー|LIMO|サライ|文春オンライン|クランクイン|幻冬舎ゴールドオンライン|withnews|ricoroco|CHANTO WEB|大手小町|BAZAAR|デイリー新潮|telling|あるじゃん|FORZA NEWS|ウオッチライフニュース|Hint-Pot|よろず〜ニュース|NET ViVi|Full-Count|高校野球ドットコム|ライフハッカー・ジャパン|進撃のグルメ|ナタリー|ファイナンシャルフィールド|ママデイズ|ENCOUNT|FOOTBALL ZONE|with online|New's Vision|オトナンサー|Web eclat|マネーの達人|相続会議|BUSINESS INSIDER JAPAN|magacol|FORZA STYLE|婦人公論|ラブすぽ|おたくま経済新聞|ねとらぼ|ふたまん|Techinsight|オリコン|インサイド|月刊ゴルフ用品界|占いTV|フジテレビュー|mi-mollet|saita|夕刊フジ|MORE|Lmaga\.jp|bizSPA|せいたろー|たまひよ|Impress Watch|コスモポリタン|なるフィッシュ|SOCCER DIGEST Web|精神科医しょう|ぽちゃぽちゃチャッキー|100均スリコ大好き|LITALICO発達ナビ|mer|onnela|リビング書店|CDジャーナル|TOKYO FM|こそだてまっぷ|中山少年|All About|kurataba|charmmy|オーヴォ|macaroni|QJWeb|シネマトゥデイ|おがちゃん先生|とまとママ|ミワカモ|kufura|＠ＤＩＭＥ|@DIME|おだんご主婦|マハロアロハ|BRAVO MOUNTAIN|しょうこちゃん|mybest|LEE|レスポンス|タビカツリチャンネル|AERA dot\.|SPUR\.JP|CREA WEB|レスポンス|歴史人|C CHANNEL|東京バーゲンマニア|トリリンガルのトミ|ロケットニュース24|モラハラ|ELLE DIGITAL|Ｓｉｔａｋｋｅ|ヨガジャーナルオンライン|Yogo Journal Online|発達障害|ADHD|ＡＤＨＤ|ASD|ＡＳＤ|gooランキング|MANTANWEB|よろず～ニュース|なかまぁる|くるまのニュース|BOATRACE|アニメ！アニメ！|マネーポストWEB|イーファイト/) { remove: true; }
+
+
+!YouTuberなどの記事を消す
+!全角は表記揺れ対策
+
+!YouTuber
+!yahoo.co.jp#$?#a:contains(/YouTuber|ＹｏｕＴｕｂｅｒ|ユーチューバー|ＹＯＵＴＵＢＥＲ|[YＹVＶ]チューバー|[YV]Tuber|[ＹＶ]Ｔｕｂｅｒ|ＶＴＵＢＥＲ|TikToker|ＴｉｋＴｏｋｅｒ|ティックトッカー|Instagramer|Ｉｎｓｔａｇｒａｍｅｒ|インスタグラマー|インフルエンサー|にじさんじ|フォロワー/i) { remove: true; }
+
+!yahoo.co.jp#$?#a:contains(/ゆた[ぼぽ]ん|少年革命家|不登校|中村逞珂|中村幸也|東海オンエア|HIKAKIN|ＨＩＫＡＫＩＮ|セイキン|カジサック/) { remove: true; }
+
+!その他・芸能系
+!yahoo.co.jp#$?#a:contains(/お笑い|芸人|中川翔子|しょこたん|M-1|Ｍ－１|ダウンタウン|浜田雅彦|はまちゃん|浜ちゃん|松本人志|松っちゃん|人志松本|山田邦子|DaiGo|ＤａｉＧｏ|メンタリスト|交際|熱愛|純愛|通い愛|密会|電撃結?婚|スピード結?婚|デキ婚|できちゃった婚|スクープ|路チュー|激写|[再離]婚|不倫|浮気|工藤静香|木村家|フワちゃん|ショット|キングコング|梶原|東原亜希|ファン|風水|占い|運気|金運/) { remove: true; }
+
+
+
