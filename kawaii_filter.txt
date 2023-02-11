@@ -67,7 +67,6 @@ yahoo.co.jp##ul[class="Autopi_StreamAutopi__list__7Njfe"]
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
 
-
 !バズフィード　表記揺れかわいくない
 yahoo.co.jp##a[data-cl-params*="bfj"]
 yahoo.co.jp##a[data-cl-params*="buzzfeed"]
@@ -934,7 +933,6 @@ yahoo.co.jp##a[data-cl-params*="tl-love-spo"]
 
 !CoCoKARA NEXT
 yahoo.co.jp##a[data-cl-params*="cocokara"]
-
 
 !-------------------------------------------
 
