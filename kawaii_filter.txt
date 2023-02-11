@@ -308,6 +308,9 @@ yahoo.co.jp##a[data-cl-params*="tl-macaro-ni"]
 !Reライフ.net
 yahoo.co.jp##a[data-cl-params*="relifenet"]
 
+!ほ・とせなNEWS
+yahoo.co.jp##a[data-cl-params*="hotosena"]
+
 !*******************************************
 
 !芸能
@@ -667,6 +670,15 @@ yahoo.co.jp##a[data-cl-params*="-capa"]
 
 !価格.comマガジン
 yahoo.co.jp##a[data-cl-params*="kakakumag"]
+
+!好書好日
+yahoo.co.jp##a[data-cl-params*="bookasahi"]
+
+!アーバンライフメトロ
+yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
+
+!タイムアウト東京
+yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
 
 !-------------------------------------------
 
