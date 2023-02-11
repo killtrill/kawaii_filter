@@ -196,8 +196,6 @@ yahoo.co.jp##a[data-cl-params*="ffield"]
 
 !saita
 yahoo.co.jp##a[data-cl-params*="saita"]
-!saita ダイジェスト表示削除用
-!yahoo.co.jp#$?#a:contains(saita) { remove: true; }
 
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
@@ -525,6 +523,8 @@ yahoo.co.jp##a[data-cl-params*="mcyclist"]
 !ドライバーWeb
 yahoo.co.jp##a[data-cl-params*="driverweb"]
 
+!くるくら
+yahoo.co.jp##a[data-cl-params*="parkblog"]
 
 !*******************************************
 
