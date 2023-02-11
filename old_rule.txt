@@ -76,6 +76,8 @@
 !yahoo.co.jp#$?#a:contains(ハフポスト) { remove: true; }
 !THE ANSWER ダイジェスト表示削除用
 !yahoo.co.jp#$?#a:contains(THE ANSWER) { remove: true; } 
+!saita ダイジェスト表示削除用
+!yahoo.co.jp#$?#a:contains(saita) { remove: true; }
 !WIRED 抹消
 !yahoo.co.jp#$?#a:contains(WIRED) { remove: true; }
 !東京バーゲンマニア　ダイジェスト表示削除用
