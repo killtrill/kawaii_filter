@@ -448,6 +448,9 @@ yahoo.co.jp##a[data-cl-params*="-okm"]
 !音楽と人
 yahoo.co.jp##a[data-cl-params*="ongakuto"]
 
+!映画論評・情報サイト　BANGER！！！
+yahoo.co.jp##a[data-cl-params*="tl-banger"]
+
 
 !*******************************************
 
@@ -763,7 +766,7 @@ yahoo.co.jp##a[data-cl-params*="geeksv"]
 yahoo.co.jp##a[data-cl-params*="fyears"]
 
 !センバツLIVE
-yahoo.co.jp##a[data-cl-params*="senbatsul"]
+yahoo.co.jp##a[data-cl-params*="senbatsuf"]
 
 !FULLCOUNT
 yahoo.co.jp##a[data-cl-params*="fullcount"]
