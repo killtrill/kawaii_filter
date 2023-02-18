@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230218
+! Version: 20230219
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -455,6 +455,8 @@ yahoo.co.jp##a[data-cl-params*="ongakuto"]
 !映画論評・情報サイト　BANGER！！！
 yahoo.co.jp##a[data-cl-params*="tl-banger"]
 
+!WWS チャンネル
+yahoo.co.jp##a[data-cl-params*="-wws"]
 
 !*******************************************
 
@@ -1204,6 +1206,9 @@ yahoo.co.jp##a[data-cl-params*="phpfamily"]
 
 !ネットショップ担当者フォーラム
 yahoo.co.jp##a[data-cl-params*="netshop"]
+
+!集英社オンライン
+yahoo.co.jp##a[data-cl-params*="shueisha"]
 
 !-------------------------------------------
 
