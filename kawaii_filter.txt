@@ -458,6 +458,9 @@ yahoo.co.jp##a[data-cl-params*="tl-banger"]
 !WWS チャンネル
 yahoo.co.jp##a[data-cl-params*="-wws"]
 
+!Re:minder - リマインダー
+yahoo.co.jp##a[data-cl-params*="reminder"]
+
 !*******************************************
 
 !自動車・バイク
