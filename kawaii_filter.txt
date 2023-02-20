@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230219
+! Version: 20230220
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -460,6 +460,12 @@ yahoo.co.jp##a[data-cl-params*="-wws"]
 
 !Re:minder - リマインダー
 yahoo.co.jp##a[data-cl-params*="reminder"]
+
+!エンタメOVO
+yahoo.co.jp##a[data-cl-params*="tvfan"]
+
+!動画ニュース「フィールドキャスター」
+yahoo.co.jp##a[data-cl-params*="fcaster"]
 
 !*******************************************
 
