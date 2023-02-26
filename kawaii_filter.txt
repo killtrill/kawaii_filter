@@ -737,6 +737,14 @@ yahoo.co.jp##a[data-cl-params*="dancyu"]
 !YAMAKEI ONLINE
 yahoo.co.jp##a[data-cl-params*="yamakei"]
 
+!マイナビ子育て
+yahoo.co.jp##a[data-cl-params*="kosodate"]
+
+!ねこちゃんホンポ
+yahoo.co.jp##a[data-cl-params*="necohonpo"]
+!わんちゃんホンポ
+yahoo.co.jp##a[data-cl-params*="wanhonpo"]
+
 !-------------------------------------------
 
 !スポーツ系サイト
