@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230222
+! Version: 20230226
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -321,6 +321,12 @@ yahoo.co.jp##a[data-cl-params*="hugkum"]
 !タウンニュース
 yahoo.co.jp##a[data-cl-params*="townnews"]
 
+!AERA STYLE MAGAZINE
+yahoo.co.jp##a[data-cl-params*="asmasahi"]
+
+!LINE NEWS
+yahoo.co.jp##a[data-cl-params*="linenews"]
+
 !*******************************************
 
 !芸能
@@ -472,6 +478,9 @@ yahoo.co.jp##a[data-cl-params*="tvfan"]
 
 !動画ニュース「フィールドキャスター」
 yahoo.co.jp##a[data-cl-params*="fcaster"]
+
+!CINEMORE
+yahoo.co.jp##a[data-cl-params*="cinemore"]
 
 !*******************************************
 
@@ -631,6 +640,9 @@ yahoo.co.jp##a[data-cl-params*="mensplus"]
 !SPUR.jp
 yahoo.co.jp##a[data-cl-params*="spur"]
 
+!LEE
+yahoo.co.jp##a[data-cl-params*="-lee"]
+
 !*******************************************
 
 !その他
@@ -712,6 +724,18 @@ yahoo.co.jp##a[data-cl-params*="tetsucom"]
 
 !IMA ONLINE
 yahoo.co.jp##a[data-cl-params*="imaonline"]
+
+!ASCII
+yahoo.co.jp##a[data-cl-params*="ascii"]
+
+!ALL REVIEWS
+yahoo.co.jp##a[data-cl-params*="allreview"]
+
+!dancyu
+yahoo.co.jp##a[data-cl-params*="dancyu"]
+
+!YAMAKEI ONLINE
+yahoo.co.jp##a[data-cl-params*="yamakei"]
 
 !-------------------------------------------
 
@@ -835,6 +859,9 @@ yahoo.co.jp##a[data-cl-params*="minnagolf"]
 
 !ゴルフ情報ALBA.net
 yahoo.co.jp##a[data-cl-params*="alba"]
+
+!ALBATV GOLF
+yahoo.co.jp##a[data-cl-params*="golfnettv"]
 
 !eGOLF
 yahoo.co.jp##a[data-cl-params*="egolf"]
@@ -1191,6 +1218,9 @@ yahoo.co.jp##a[data-cl-params*="coindesk"]
 
 !MORE
 yahoo.co.jp##a[data-cl-params*="dmore"]
+
+!あたらしい経済
+yahoo.co.jp##a[data-cl-params*="neweco"]
 
 !*******************************************
 
