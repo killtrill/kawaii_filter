@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230226
+! Version: 20230302
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -56,7 +56,12 @@ yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 yahoo.co.jp##a[data-cl-params*="promo"]
 
 !first-all-digest
+!Yahooすべてタブの上部記事
 yahoo.co.jp##ul[class="Autopi_StreamAutopi__list__7Njfe"]
+
+!first-gourmet-editors
+!Yahooグルメタブの上部記事
+yahoo.co.jp##ul[class="Concept_StreamConcept__list__Ez6ZI"]
 
 
 !-------------------------------------------
@@ -643,6 +648,21 @@ yahoo.co.jp##a[data-cl-params*="spur"]
 !LEE
 yahoo.co.jp##a[data-cl-params*="-lee"]
 
+!mer
+yahoo.co.jp##a[data-cl-params*="tl-mer"]
+
+!美的.com
+yahoo.co.jp##a[data-cl-params*="biteki"]
+
+!mybest
+yahoo.co.jp##a[data-cl-params*="mybest"]
+
+!日刊KELLY
+yahoo.co.jp##a[data-cl-params*="tl-kelly-net"]
+
+!ELEMINIST
+yahoo.co.jp##a[data-cl-params*="eleminist"]
+
 !*******************************************
 
 !その他
@@ -744,6 +764,9 @@ yahoo.co.jp##a[data-cl-params*="kosodate"]
 yahoo.co.jp##a[data-cl-params*="necohonpo"]
 !わんちゃんホンポ
 yahoo.co.jp##a[data-cl-params*="wanhonpo"]
+
+!FUNQ
+yahoo.co.jp##a[data-cl-params*="eipub"]
 
 !-------------------------------------------
 
@@ -1230,6 +1253,9 @@ yahoo.co.jp##a[data-cl-params*="dmore"]
 !あたらしい経済
 yahoo.co.jp##a[data-cl-params*="neweco"]
 
+!不動産投資の楽待
+yahoo.co.jp##a[data-cl-params*="rakumachi"]
+
 !*******************************************
 
 !未分類
@@ -1262,6 +1288,9 @@ yahoo.co.jp##a[data-cl-params*="phpfamily"]
 
 !ネットショップ担当者フォーラム
 yahoo.co.jp##a[data-cl-params*="netshop"]
+
+!Web担当者フォーラム
+yahoo.co.jp##a[data-cl-params*="webtan"]
 
 !集英社オンライン
 yahoo.co.jp##a[data-cl-params*="shueisha"]
