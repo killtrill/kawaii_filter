@@ -65,8 +65,24 @@ yahoo.co.jp##ul[class="Autopi_StreamAutopi__list__7Njfe"]
 !Yahooグルメタブの上部記事
 yahoo.co.jp##ul[class="Concept_StreamConcept__list__Ez6ZI"]
 
+!Yahoo Japan SDGs
+yahoo.co.jp##a[data-cl-params*="yjsdgs"]
+
+!Yahooクリエイターズプログラム
+yahoo.co.jp##a[data-cl-params*="ycreatp"]
+
 !YahooニュースオリジナルRED Chair
 yahoo.co.jp##a[data-cl-params*="redchair"]
+
+!Yahooニュースオリジナル THE PAGE
+yahoo.co.jp##a[data-cl-params*="wordleaf"]
+
+!Yahooニュースオリジナル Voice
+yahoo.co.jp##a[data-cl-params*="ynewstalk"]
+
+!Yahooニュースオリジナル特集
+yahoo.co.jp##a[data-cl-params*="ytokushu"]
+
 
 
 !-------------------------------------------
@@ -336,6 +352,9 @@ yahoo.co.jp##a[data-cl-params*="asmasahi"]
 
 !LINE NEWS
 yahoo.co.jp##a[data-cl-params*="linenews"]
+
+!fumufumu news
+yahoo.co.jp##a[data-cl-params*="fumufumun"]
 
 !*******************************************
 
@@ -854,6 +873,7 @@ yahoo.co.jp##a[data-cl-params*="fyears"]
 
 !センバツLIVE
 yahoo.co.jp##a[data-cl-params*="senbatsuv"]
+yahoo.co.jp##a[data-cl-params*="senbatsuf"]
 
 !FULLCOUNT
 yahoo.co.jp##a[data-cl-params*="fullcount"]
@@ -1302,6 +1322,10 @@ yahoo.co.jp##a[data-cl-params*="webtan"]
 
 !集英社オンライン
 yahoo.co.jp##a[data-cl-params*="shueisha"]
+
+!LITALICO発達ナビ
+yahoo.co.jp##a[data-cl-params*="tl-h-navi"]
+
 
 !-------------------------------------------
 
