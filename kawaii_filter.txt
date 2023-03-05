@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230302
+! Version: 20230305
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -15,17 +15,19 @@
 !設定はAdGuard公式ブログをご覧ください
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
-!ブロックする要素
+!おおまかな更新履歴
+!2023.3
+!first-gourmet-editorsごと削除
 
-!2023.2.19
-!微修正
-
-!2023.2.6
+!2023.2
 !first-all-digestごと削除
 
-!2023.1.30
+!2023.1
 !TRILL、liBae、Coordisnap、BuzzFeedなど
 !新聞、テレビ局等以外の記事提供元はブロックできるルールを追加
+
+!2022.12
+!公開
 
 !作者　killtrill
 !Twitter @kawaii_filter
@@ -62,6 +64,9 @@ yahoo.co.jp##ul[class="Autopi_StreamAutopi__list__7Njfe"]
 !first-gourmet-editors
 !Yahooグルメタブの上部記事
 yahoo.co.jp##ul[class="Concept_StreamConcept__list__Ez6ZI"]
+
+!YahooニュースオリジナルRED Chair
+yahoo.co.jp##a[data-cl-params*="redchair"]
 
 
 !-------------------------------------------
@@ -848,7 +853,7 @@ yahoo.co.jp##a[data-cl-params*="geeksv"]
 yahoo.co.jp##a[data-cl-params*="fyears"]
 
 !センバツLIVE
-yahoo.co.jp##a[data-cl-params*="senbatsuf"]
+yahoo.co.jp##a[data-cl-params*="senbatsuv"]
 
 !FULLCOUNT
 yahoo.co.jp##a[data-cl-params*="fullcount"]
@@ -912,6 +917,9 @@ yahoo.co.jp##a[data-cl-params*="tsurinews"]
 
 !ルアマガ
 yahoo.co.jp##a[data-cl-params*="tsuriplus"]
+
+!釣りビジョンマガジン
+yahoo.co.jp##a[data-cl-params*="fvision"]
 
 !*******************************************
 
