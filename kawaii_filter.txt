@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230305
+! Version: 20230307
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -356,6 +356,19 @@ yahoo.co.jp##a[data-cl-params*="linenews"]
 !fumufumu news
 yahoo.co.jp##a[data-cl-params*="fumufumun"]
 
+!大手小町
+yahoo.co.jp##a[data-cl-params*="otekomachi"]
+
+!nippon.com
+yahoo.co.jp##a[data-cl-params*="nipponcom"]
+
+!相続会議
+yahoo.co.jp##a[data-cl-params*="souzoku"]
+
+!booksapps
+yahoo.co.jp##a[data-cl-params*="books_apps"]
+
+
 !*******************************************
 
 !芸能
@@ -510,6 +523,10 @@ yahoo.co.jp##a[data-cl-params*="fcaster"]
 
 !CINEMORE
 yahoo.co.jp##a[data-cl-params*="cinemore"]
+
+!キネマ旬報WEB
+yahoo.co.jp##a[data-cl-params*="kinejun"]
+
 
 !*******************************************
 
@@ -687,15 +704,12 @@ yahoo.co.jp##a[data-cl-params*="tl-kelly-net"]
 !ELEMINIST
 yahoo.co.jp##a[data-cl-params*="eleminist"]
 
+!GIRL HOUYHNHNM
+yahoo.co.jp##a[data-cl-params*="girlhynm"]
+
 !*******************************************
 
-!その他
-
-!おとなの週末
-yahoo.co.jp##a[data-cl-params*="matomeshi"]
-
-!ぴあ
-yahoo.co.jp##a[data-cl-params*="piaeigat"]
+!グルメ
 
 !食楽web
 yahoo.co.jp##a[data-cl-params*="syokuraku"]
@@ -703,17 +717,57 @@ yahoo.co.jp##a[data-cl-params*="syokuraku"]
 !メシ通
 yahoo.co.jp##a[data-cl-params*="mesitsu"]
 
-!マイナビニュース
-yahoo.co.jp##a[data-cl-params*="mynavin"]
-
 !食べログマガジン
 yahoo.co.jp##a[data-cl-params*="tabelog"]
 
 !クックパッドニュース
 yahoo.co.jp##a[data-cl-params*="cookpadn"]
 
+!おいしいマルシェ
+yahoo.co.jp##a[data-cl-params*="marche"]
+
+!みんなのきょうの料理
+yahoo.co.jp##a[data-cl-params*="kyounoryouri"]
+
+!サツッター
+yahoo.co.jp##a[data-cl-params*="satsutter"]
+
+!ヒトサラMAGAXINE
+yahoo.co.jp##a[data-cl-params*="hitosaramagazine"]
+
 !ニッポンごはん旅
 yahoo.co.jp##a[data-cl-params*="gohantabi"]
+
+!Narakko 奈良っ子
+yahoo.co.jp##a[data-cl-params*="narakko"]
+
+!八王子ジャーニー
+yahoo.co.jp##a[data-cl-params*="802dabe"]
+
+!日刊にいがたWEBタウン情報
+yahoo.co.jp##a[data-cl-params*="tjniigata"]
+
+!北陸新幹線で行こう　北陸・信越観光ナビ
+yahoo.co.jp##a[data-cl-params*="-hokuriku"]
+
+!Kiss PRESS
+yahoo.co.jp##a[data-cl-params*="kisspress"]
+
+!オーヴォ
+yahoo.co.jp##a[data-cl-params*="-ovo"]
+
+!*******************************************
+
+!趣味系サイト
+
+!おとなの週末
+yahoo.co.jp##a[data-cl-params*="matomeshi"]
+
+!ぴあ
+yahoo.co.jp##a[data-cl-params*="piaeigat"]
+
+!マイナビニュース
+yahoo.co.jp##a[data-cl-params*="mynavin"]
 
 !BOOKSTAND
 yahoo.co.jp##a[data-cl-params*="webhon"]
@@ -791,6 +845,9 @@ yahoo.co.jp##a[data-cl-params*="wanhonpo"]
 
 !FUNQ
 yahoo.co.jp##a[data-cl-params*="eipub"]
+
+!みんなの経済新聞ネットワーク
+yahoo.co.jp##a[data-cl-params*="minkei"]
 
 !-------------------------------------------
 
