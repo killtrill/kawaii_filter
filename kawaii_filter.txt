@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230307
+! Version: 20230308
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -367,6 +367,9 @@ yahoo.co.jp##a[data-cl-params*="souzoku"]
 
 !booksapps
 yahoo.co.jp##a[data-cl-params*="books_apps"]
+
+!NewsPicks + d
+yahoo.co.jp##a[data-cl-params*="npicksd"]
 
 
 !*******************************************
@@ -929,8 +932,11 @@ yahoo.co.jp##a[data-cl-params*="geeksv"]
 yahoo.co.jp##a[data-cl-params*="fyears"]
 
 !センバツLIVE
-yahoo.co.jp##a[data-cl-params*="senbatsuv"]
-yahoo.co.jp##a[data-cl-params*="senbatsuf"]
+!亜種ありすぎ
+yahoo.co.jp##a[data-cl-params*="senbatsu"]
+!yahoo.co.jp##a[data-cl-params*="senbatsuv"]
+!yahoo.co.jp##a[data-cl-params*="senbatsuf"]
+!yahoo.co.jp##a[data-cl-params*="senbatsul"]
 
 !FULLCOUNT
 yahoo.co.jp##a[data-cl-params*="fullcount"]
