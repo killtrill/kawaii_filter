@@ -371,6 +371,18 @@ yahoo.co.jp##a[data-cl-params*="books_apps"]
 !NewsPicks + d
 yahoo.co.jp##a[data-cl-params*="npicksd"]
 
+!Tarzan Web
+yahoo.co.jp##a[data-cl-params*="tarzanweb"]
+
+!SASARU
+yahoo.co.jp##a[data-cl-params*="sasarumedia"]
+
+!毎日が発見ネット
+yahoo.co.jp##a[data-cl-params*="maihatsu"]
+
+!キョウトピ
+yahoo.co.jp##a[data-cl-params*="kyotopijp"]
+
 
 !*******************************************
 
@@ -758,6 +770,9 @@ yahoo.co.jp##a[data-cl-params*="kisspress"]
 
 !オーヴォ
 yahoo.co.jp##a[data-cl-params*="-ovo"]
+
+!オズモール
+yahoo.co.jp##a[data-cl-params*="ozmalla"]
 
 !*******************************************
 
