@@ -48,8 +48,8 @@ yahoo.co.jp##a[href*="byline"]
 
 !試験用　自動再生される動画
 yahoo.co.jp##a[href*="video"]
-!試験用　YahooショッピングPR
-yahoo.co.jp##a[href*="toku"]
+!試験用　YahooショッピングPR(tokuはtokushimaにひっかかる）
+!yahoo.co.jp##a[href*="toku"]
 yahoo.co.jp##a[href*="commerce"]
 yahoo.co.jp##a[href*="promotion"]
 yahoo.co.jp##a[href*="tkbkpc"]
@@ -769,6 +769,12 @@ yahoo.co.jp##a[data-cl-params*="vegeday"]
 !SODANE
 yahoo.co.jp##a[data-cl-params*="sondane"]
 
+!パンめぐ
+yahoo.co.jp##a[data-cl-params*="panmegu"]
+
+!おとりよせネット
+yahoo.co.jp##a[data-cl-params*="otoriyose"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -796,6 +802,31 @@ yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
 
 !富山デイズ
 yahoo.co.jp##a[data-cl-params*="toyamadays"]
+
+!美術手帖
+yahoo.co.jp##a[data-cl-params*="btecho"]
+
+!ナゴレコ
+yahoo.co.jp##a[data-cl-params*="nagoreco"]
+
+!ひろしまリード
+yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
+
+!webてんじん
+yahoo.co.jp##a[data-cl-params*="webtenjin"]
+
+!フクリパ
+yahoo.co.jp##a[data-cl-params*="fukuokaleapup"]
+
+!UMAGA
+yahoo.co.jp##a[data-cl-params*="tl_umaga"]
+
+!福岡ふかぼりメディアささっとー
+yahoo.co.jp##a[data-cl-params*="sasatto"]
+
+!ファンファン福岡
+yahoo.co.jp##a[data-cl-params*="-fanfun"]
+
 
 !*******************************************
 
@@ -1388,6 +1419,9 @@ yahoo.co.jp##a[data-cl-params*="economist"]
 !*******************************************
 
 !未分類
+
+!週刊金曜日
+yahoo.co.jp##a[data-cl-params*="-kinyobi"]
 
 !Wedge
 yahoo.co.jp##a[data-cl-params*="wedge"]
