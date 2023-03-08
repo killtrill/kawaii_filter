@@ -225,8 +225,8 @@ yahoo.co.jp##a[data-cl-params*="hintpot"]
 !ファイナンシャルフィールド
 yahoo.co.jp##a[data-cl-params*="ffield"]
 
-!saita
-yahoo.co.jp##a[data-cl-params*="saita"]
+!saita (saitaで指定すると埼玉県にひっかかる）
+yahoo.co.jp##a[data-cl-params*="-saita"]
 
 !ELLEgirl
 yahoo.co.jp##a[data-cl-params*="ellegirl"]
@@ -754,18 +754,6 @@ yahoo.co.jp##a[data-cl-params*="hitosaramagazine"]
 !ニッポンごはん旅
 yahoo.co.jp##a[data-cl-params*="gohantabi"]
 
-!Narakko 奈良っ子
-yahoo.co.jp##a[data-cl-params*="narakko"]
-
-!八王子ジャーニー
-yahoo.co.jp##a[data-cl-params*="802dabe"]
-
-!日刊にいがたWEBタウン情報
-yahoo.co.jp##a[data-cl-params*="tjniigata"]
-
-!北陸新幹線で行こう　北陸・信越観光ナビ
-yahoo.co.jp##a[data-cl-params*="-hokuriku"]
-
 !Kiss PRESS
 yahoo.co.jp##a[data-cl-params*="kisspress"]
 
@@ -780,6 +768,34 @@ yahoo.co.jp##a[data-cl-params*="vegeday"]
 
 !SODANE
 yahoo.co.jp##a[data-cl-params*="sondane"]
+
+!*******************************************
+
+!地域ごとの記事
+
+!Narakko 奈良っ子
+yahoo.co.jp##a[data-cl-params*="narakko"]
+
+!八王子ジャーニー
+yahoo.co.jp##a[data-cl-params*="802dabe"]
+
+!日刊にいがたWEBタウン情報
+yahoo.co.jp##a[data-cl-params*="tjniigata"]
+
+!北陸新幹線で行こう　北陸・信越観光ナビ
+yahoo.co.jp##a[data-cl-params*="-hokuriku"]
+
+!Ｓｉｔａｋｋｅ
+yahoo.co.jp##a[data-cl-params*="sitakke"]
+
+!アーバンライフメトロ
+yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
+
+!タイムアウト東京
+yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
+
+!富山デイズ
+yahoo.co.jp##a[data-cl-params*="toyamadays"]
 
 !*******************************************
 
@@ -832,15 +848,6 @@ yahoo.co.jp##a[data-cl-params*="kakakumag"]
 
 !好書好日
 yahoo.co.jp##a[data-cl-params*="bookasahi"]
-
-!アーバンライフメトロ
-yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
-
-!タイムアウト東京
-yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
-
-!Ｓｉｔａｋｋｅ
-yahoo.co.jp##a[data-cl-params*="sitakke"]
 
 !鉄道コム
 yahoo.co.jp##a[data-cl-params*="tetsucom"]
