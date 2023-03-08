@@ -83,7 +83,8 @@ yahoo.co.jp##a[data-cl-params*="ynewstalk"]
 !Yahooニュースオリジナル特集
 yahoo.co.jp##a[data-cl-params*="ytokushu"]
 
-
+!ヤフーLINE共同企画
+yahoo.co.jp##a[href*="search311.jp"]
 
 !-------------------------------------------
 
@@ -774,6 +775,12 @@ yahoo.co.jp##a[data-cl-params*="-ovo"]
 !オズモール
 yahoo.co.jp##a[data-cl-params*="ozmalla"]
 
+!VEGEDAY
+yahoo.co.jp##a[data-cl-params*="vegeday"]
+
+!SODANE
+yahoo.co.jp##a[data-cl-params*="sondane"]
+
 !*******************************************
 
 !趣味系サイト
@@ -867,6 +874,9 @@ yahoo.co.jp##a[data-cl-params*="eipub"]
 !みんなの経済新聞ネットワーク
 yahoo.co.jp##a[data-cl-params*="minkei"]
 
+!みんなの趣味園芸
+yahoo.co.jp##a[data-cl-params*="shumien"]
+
 !-------------------------------------------
 
 !スポーツ系サイト
@@ -958,6 +968,9 @@ yahoo.co.jp##a[data-cl-params*="fullcount"]
 
 !AERA dot
 yahoo.co.jp##a[data-cl-params*="sasahi"]
+
+!MLB.com
+yahoo.co.jp##a[data-cl-params*="-mlb"]
 
 !*******************************************
 
@@ -1361,6 +1374,9 @@ yahoo.co.jp##a[data-cl-params*="neweco"]
 
 !不動産投資の楽待
 yahoo.co.jp##a[data-cl-params*="rakumachi"]
+
+!サンデー毎日×週刊エコノミストOnline
+yahoo.co.jp##a[data-cl-params*="economist"]
 
 !*******************************************
 
