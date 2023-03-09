@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230308
+! Version: 20230309
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -85,6 +85,7 @@ yahoo.co.jp##a[data-cl-params*="ytokushu"]
 
 !ヤフーLINE共同企画
 yahoo.co.jp##a[href*="search311.jp"]
+yahoo.co.jp##a[href*="sp-hinan.jp"]
 
 !-------------------------------------------
 
@@ -775,6 +776,12 @@ yahoo.co.jp##a[data-cl-params*="panmegu"]
 !おとりよせネット
 yahoo.co.jp##a[data-cl-params*="otoriyose"]
 
+!ａｓａｔａｎ
+yahoo.co.jp##a[data-cl-params*="-asatan"]
+
+!Vegewel
+yahoo.co.jp##a[data-cl-params*="-vegewel"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -827,6 +834,9 @@ yahoo.co.jp##a[data-cl-params*="sasatto"]
 !ファンファン福岡
 yahoo.co.jp##a[data-cl-params*="-fanfun"]
 
+!行こう住もう
+yahoo.co.jp##a[data-cl-params*="-ikosumo"]
+
 
 !*******************************************
 
@@ -858,6 +868,9 @@ yahoo.co.jp##a[data-cl-params*="tamahiyo"]
 
 !歴史人
 yahoo.co.jp##a[data-cl-params*="rekishin"]
+
+!城びと
+yahoo.co.jp##a[data-cl-params*="-shirobito"]
 
 !BRAVO MOUNTAIN
 yahoo.co.jp##a[data-cl-params*="bravom"]
@@ -1313,6 +1326,9 @@ yahoo.co.jp##a[data-cl-params*="creaweb"]
 !クロワッサンONLINE
 yahoo.co.jp##a[data-cl-params*="crssntv"]
 
+!ミキハウス
+yahoo.co.jp##a[data-cl-params*="-mikihouse"]
+
 
 !*******************************************
 
@@ -1416,6 +1432,9 @@ yahoo.co.jp##a[data-cl-params*="rakumachi"]
 !サンデー毎日×週刊エコノミストOnline
 yahoo.co.jp##a[data-cl-params*="economist"]
 
+!SUUMOジャーナル
+yahoo.co.jp##a[data-cl-params*="-suumoj"]
+
 !*******************************************
 
 !未分類
@@ -1460,6 +1479,12 @@ yahoo.co.jp##a[data-cl-params*="shueisha"]
 
 !LITALICO発達ナビ
 yahoo.co.jp##a[data-cl-params*="tl-h-navi"]
+
+!Medical DOC
+yahoo.co.jp##a[data-cl-params*="-medicald"]
+
+!選挙ドットコム
+yahoo.co.jp##a[data-cl-params*="-senkyocom"]
 
 
 !-------------------------------------------
