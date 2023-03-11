@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230311
+! Version: 20230312
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -18,6 +18,7 @@
 !おおまかな更新履歴
 !2023.3
 !first-gourmet-editorsごと削除
+!ジャンルを少し細分化
 
 !2023.2
 !first-all-digestごと削除
@@ -791,20 +792,17 @@ yahoo.co.jp##a[data-cl-params*="-vegewel"]
 
 !地域ごとの記事
 
-!Narakko 奈良っ子
-yahoo.co.jp##a[data-cl-params*="narakko"]
+!北海道Likers
+yahoo.co.jp##a[data-cl-params*="hokkaidolikers"]
 
-!八王子ジャーニー
-yahoo.co.jp##a[data-cl-params*="802dabe"]
-
-!日刊にいがたWEBタウン情報
-yahoo.co.jp##a[data-cl-params*="tjniigata"]
-
-!北陸新幹線で行こう　北陸・信越観光ナビ
-yahoo.co.jp##a[data-cl-params*="-hokuriku"]
+!SODANE
+yahoo.co.jp##a[data-cl-params*="-sodane"]
 
 !Ｓｉｔａｋｋｅ
 yahoo.co.jp##a[data-cl-params*="sitakke"]
+
+!Things
+yahoo.co.jp##a[data-cl-params*="-things"]
 
 !アーバンライフメトロ
 yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
@@ -812,17 +810,35 @@ yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
 !タイムアウト東京
 yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
 
-!富山デイズ
-yahoo.co.jp##a[data-cl-params*="toyamadays"]
+!八王子ジャーニー
+yahoo.co.jp##a[data-cl-params*="802dabe"]
 
 !美術手帖
 yahoo.co.jp##a[data-cl-params*="btecho"]
+
+!日刊にいがたWEBタウン情報
+yahoo.co.jp##a[data-cl-params*="tjniigata"]
+
+!上越妙高タウン情報
+yahoo.co.jp##a[data-cl-params*="tl-jcv"]
+
+!北陸新幹線で行こう　北陸・信越観光ナビ
+yahoo.co.jp##a[data-cl-params*="-hokuriku"]
+
+!富山デイズ
+yahoo.co.jp##a[data-cl-params*="toyamadays"]
 
 !ナゴレコ
 yahoo.co.jp##a[data-cl-params*="nagoreco"]
 
 !NAGOYA.
 yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
+
+!大阪つーしん
+yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
+
+!Narakko 奈良っ子
+yahoo.co.jp##a[data-cl-params*="narakko"]
 
 !ひろしまリード
 yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
@@ -906,6 +922,9 @@ yahoo.co.jp##a[data-cl-params*="bookasahi"]
 
 !鉄道コム
 yahoo.co.jp##a[data-cl-params*="tetsucom"]
+
+!鉄道チャンネル
+yahoo.co.jp##a[data-cl-params*="tetsudo_ch"]
 
 !IMA ONLINE
 yahoo.co.jp##a[data-cl-params*="imaonline"]
