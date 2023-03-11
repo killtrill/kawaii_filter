@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230310
+! Version: 20230311
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -385,7 +385,6 @@ yahoo.co.jp##a[data-cl-params*="maihatsu"]
 !キョウトピ
 yahoo.co.jp##a[data-cl-params*="kyotopijp"]
 
-
 !*******************************************
 
 !芸能
@@ -430,6 +429,9 @@ yahoo.co.jp##a[data-cl-params*="etalent"]
 !フジテレビュー
 yahoo.co.jp##a[data-cl-params*="fujitv"]
 
+!テレ東プラス
+yahoo.co.jp##a[data-cl-params*="tvtplus"]
+
 !映画ナタリー
 yahoo.co.jp##a[data-cl-params*="nataliee"]
 
@@ -446,7 +448,7 @@ yahoo.co.jp##a[data-cl-params*="natalies"]
 yahoo.co.jp##a[data-cl-params*="figaro"]
 
 !映画.com
-yahoo.co.jp##a[data-cl-params*="eiga"]
+yahoo.co.jp##a[data-cl-params*="-eiga"]
 
 !エンタメネクスト
 yahoo.co.jp##a[data-cl-params*="entame"]
@@ -665,6 +667,9 @@ yahoo.co.jp##a[data-cl-params*="webuomo"]
 !WATCHNAVI Salon
 yahoo.co.jp##a[data-cl-params*="watchnavi"]
 
+!ウオッチライフニュース
+yahoo.co.jp##a[data-cl-params*="-watchlife"]
+
 !Fav-Log by ITmedia
 yahoo.co.jp##a[data-cl-params*="favlog"]
 
@@ -854,6 +859,9 @@ yahoo.co.jp##a[data-cl-params*="piaeigat"]
 !マイナビニュース
 yahoo.co.jp##a[data-cl-params*="mynavin"]
 
+!キャリコネニュース
+yahoo.co.jp##a[data-cl-params*="careercn"]
+
 !BOOKSTAND
 yahoo.co.jp##a[data-cl-params*="webhon"]
 
@@ -917,11 +925,6 @@ yahoo.co.jp##a[data-cl-params*="yamakei"]
 !マイナビ子育て
 yahoo.co.jp##a[data-cl-params*="kosodate"]
 
-!ねこちゃんホンポ
-yahoo.co.jp##a[data-cl-params*="necohonpo"]
-!わんちゃんホンポ
-yahoo.co.jp##a[data-cl-params*="wanhonpo"]
-
 !FUNQ
 yahoo.co.jp##a[data-cl-params*="eipub"]
 
@@ -930,6 +933,27 @@ yahoo.co.jp##a[data-cl-params*="minkei"]
 
 !みんなの趣味園芸
 yahoo.co.jp##a[data-cl-params*="shumien"]
+
+
+!*******************************************
+
+!動物
+
+!ねこちゃんホンポ
+yahoo.co.jp##a[data-cl-params*="necohonpo"]
+!わんちゃんホンポ
+yahoo.co.jp##a[data-cl-params*="wanhonpo"]
+
+!いぬのきもち
+yahoo.co.jp##a[data-cl-params*="inunokimoti"]
+!ねこのきもち
+yahoo.co.jp##a[data-cl-params*="nekonokimoti"]
+
+!PECO
+yahoo.co.jp##a[data-cl-params*="-tl-peco"]
+
+!sippo
+yahoo.co.jp##a[data-cl-params*="-sippo"]
 
 !-------------------------------------------
 
@@ -1388,6 +1412,17 @@ yahoo.co.jp##a[data-cl-params*="the_tv"]
 !東洋経済オンライン
 yahoo.co.jp##a[data-cl-params*="-toyo"]
 
+!GetNavi web
+yahoo.co.jp##a[data-cl-params*="-getnavi"]
+
+!ナショナルジオグラフィック日本版
+yahoo.co.jp##a[data-cl-params*="-nknatiogeo"]
+
+!Forbes JAPAN
+yahoo.co.jp##a[data-cl-params*="-forbes"]
+
+!Science Portal
+yahoo.co.jp##a[data-cl-params*="-sportal"]
 
 !*******************************************
 
