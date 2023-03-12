@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230312
+! Version: 20230313
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -963,10 +963,12 @@ yahoo.co.jp##a[data-cl-params*="necohonpo"]
 !わんちゃんホンポ
 yahoo.co.jp##a[data-cl-params*="wanhonpo"]
 
-!いぬのきもち
+!いぬのきもち(2つある)
 yahoo.co.jp##a[data-cl-params*="inunokimoti"]
-!ねこのきもち
+yahoo.co.jp##a[data-cl-params*="inumag"]
+!ねこのきもち(2つある)
 yahoo.co.jp##a[data-cl-params*="nekonokimoti"]
+yahoo.co.jp##a[data-cl-params*="nekomag"]
 
 !PECO
 yahoo.co.jp##a[data-cl-params*="-tl-peco"]
@@ -1467,6 +1469,9 @@ yahoo.co.jp##a[data-cl-params*="zaifxf"]
 
 !ダイヤモンド不動産
 yahoo.co.jp##a[data-cl-params*="diamondf"]
+
+!DIAMOND ハーバード・ビジネス・レビュー
+yahoo.co.jp##a[data-cl-params*="-dhbrn"]
 
 !マネーの達人
 yahoo.co.jp##a[data-cl-params*="manetatsun"]
