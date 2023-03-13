@@ -788,6 +788,9 @@ yahoo.co.jp##a[data-cl-params*="-asatan"]
 !Vegewel
 yahoo.co.jp##a[data-cl-params*="-vegewel"]
 
+!まっぷるトラベルガイド
+yahoo.co.jp##a[data-cl-params*="mapplenet"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -822,6 +825,9 @@ yahoo.co.jp##a[data-cl-params*="tjniigata"]
 !上越妙高タウン情報
 yahoo.co.jp##a[data-cl-params*="tl-jcv"]
 
+!上越タウンジャーナル
+yahoo.co.jp##a[data-cl-params*="-joetsuj"]
+
 !北陸新幹線で行こう　北陸・信越観光ナビ
 yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 
@@ -833,6 +839,9 @@ yahoo.co.jp##a[data-cl-params*="nagoreco"]
 
 !NAGOYA.
 yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
+
+!伊賀タウン情報You
+yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
@@ -953,6 +962,8 @@ yahoo.co.jp##a[data-cl-params*="minkei"]
 !みんなの趣味園芸
 yahoo.co.jp##a[data-cl-params*="shumien"]
 
+!niwacul
+yahoo.co.jp##a[data-cl-params*="niwacul"]
 
 !*******************************************
 
