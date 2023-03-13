@@ -791,6 +791,12 @@ yahoo.co.jp##a[data-cl-params*="-vegewel"]
 !まっぷるトラベルガイド
 yahoo.co.jp##a[data-cl-params*="mapplenet"]
 
+!さんたつ by 散歩の達人
+yahoo.co.jp##a[data-cl-params*="-santatsu"]
+
+!muto
+yahoo.co.jp##a[data-cl-params*="-tl-muto"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -807,6 +813,9 @@ yahoo.co.jp##a[data-cl-params*="sitakke"]
 !Things
 yahoo.co.jp##a[data-cl-params*="-things"]
 
+!所沢なび
+yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
+
 !アーバンライフメトロ
 yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
 
@@ -822,17 +831,23 @@ yahoo.co.jp##a[data-cl-params*="btecho"]
 !日刊にいがたWEBタウン情報
 yahoo.co.jp##a[data-cl-params*="tjniigata"]
 
+!Komachi Web(新潟)
+yahoo.co.jp##a[data-cl-params*="-lm-komachi"]
+
 !上越妙高タウン情報
 yahoo.co.jp##a[data-cl-params*="tl-jcv"]
 
 !上越タウンジャーナル
-yahoo.co.jp##a[data-cl-params*="-joetsuj"]
+yahoo.co.jp##a[data-cl-params*="-joetsutj"]
 
 !北陸新幹線で行こう　北陸・信越観光ナビ
 yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 
 !富山デイズ
 yahoo.co.jp##a[data-cl-params*="toyamadays"]
+
+!Life Designs
+yahoo.co.jp##a[data-cl-params*="Life_Designs"]
 
 !ナゴレコ
 yahoo.co.jp##a[data-cl-params*="nagoreco"]
@@ -843,6 +858,9 @@ yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
 !伊賀タウン情報You
 yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 
+!ラジトピ ラジオ関西トピックス
+yahoo.co.jp##a[data-cl-params*="-raditopi"]
+
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
 
@@ -851,6 +869,9 @@ yahoo.co.jp##a[data-cl-params*="narakko"]
 
 !ひろしまリード
 yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
+
+!日刊新周南
+yahoo.co.jp##a[data-cl-params*="-sshunan"]
 
 !webてんじん
 yahoo.co.jp##a[data-cl-params*="webtenjin"]
@@ -869,7 +890,6 @@ yahoo.co.jp##a[data-cl-params*="-fanfun"]
 
 !行こう住もう
 yahoo.co.jp##a[data-cl-params*="-ikosumo"]
-
 
 !*******************************************
 
