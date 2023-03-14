@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230313
+! Version: 20230314
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -834,6 +834,9 @@ yahoo.co.jp##a[data-cl-params*="tjniigata"]
 !Komachi Web(新潟)
 yahoo.co.jp##a[data-cl-params*="-lm-komachi"]
 
+!にいがた経済新聞
+yahoo.co.jp##a[data-cl-params*="tl-niikei"]
+
 !上越妙高タウン情報
 yahoo.co.jp##a[data-cl-params*="tl-jcv"]
 
@@ -984,6 +987,9 @@ yahoo.co.jp##a[data-cl-params*="shumien"]
 
 !niwacul
 yahoo.co.jp##a[data-cl-params*="niwacul"]
+
+!家庭画報.com
+yahoo.co.jp##a[data-cl-params*="kateigaho"]
 
 !*******************************************
 
@@ -1579,6 +1585,9 @@ yahoo.co.jp##a[data-cl-params*="-medicald"]
 
 !選挙ドットコム
 yahoo.co.jp##a[data-cl-params*="-senkyocom"]
+
+!高校生新聞オンライン
+yahoo.co.jp##a[data-cl-params*="-koukousei"]
 
 
 !-------------------------------------------
