@@ -385,6 +385,12 @@ yahoo.co.jp##a[data-cl-params*="maihatsu"]
 !キョウトピ
 yahoo.co.jp##a[data-cl-params*="kyotopijp"]
 
+!Hanako Web
+yahoo.co.jp##a[data-cl-params*="hanako"]
+
+!Webマガジン コロカル
+yahoo.co.jp##a[data-cl-params*="colocal"]
+
 !*******************************************
 
 !芸能
@@ -549,6 +555,8 @@ yahoo.co.jp##a[data-cl-params*="cinemore"]
 !キネマ旬報WEB
 yahoo.co.jp##a[data-cl-params*="kinejun"]
 
+!Numero TOKYO
+yahoo.co.jp##a[data-cl-params*="numero"]
 
 !*******************************************
 
@@ -932,6 +940,9 @@ yahoo.co.jp##a[data-cl-params*="higojournal"]
 !*******************************************
 
 !趣味系サイト
+
+!ロケーションジャパン
+yahoo.co.jp##a[data-cl-params*="locationj"]
 
 !おとなの週末
 yahoo.co.jp##a[data-cl-params*="matomeshi"]
@@ -1342,6 +1353,9 @@ yahoo.co.jp##a[data-cl-params*="cocokara"]
 !アスリートマガジンWEB
 yahoo.co.jp##a[data-cl-params*="hathlete"]
 
+!NFL公式公式サイト日本語版
+yahoo.co.jp##a[data-cl-params*="nfljapan"]
+
 !-------------------------------------------
 
 !アニメ系サイト
@@ -1636,6 +1650,11 @@ yahoo.co.jp##a[data-cl-params*="-senkyocom"]
 !高校生新聞オンライン
 yahoo.co.jp##a[data-cl-params*="-koukousei"]
 
+!朝日新聞SDGs Action
+yahoo.co.jp##a[data-cl-params*="asahisdgs"]
+
+!月刊糖尿病ライフ さかえ
+yahoo.co.jp##a[data-cl-params*="-sakae"]
 
 !-------------------------------------------
 
