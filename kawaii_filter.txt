@@ -1229,6 +1229,9 @@ yahoo.co.jp##a[data-cl-params*="tennisnet"]
 
 !公営ギャンブル
 
+!馬トク報知
+yahoo.co.jp##a[data-cl-params*="umatokuh"]
+
 !東スポ競馬
 yahoo.co.jp##a[data-cl-params*="tspkeiba"]
 
