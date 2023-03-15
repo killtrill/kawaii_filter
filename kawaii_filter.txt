@@ -391,6 +391,9 @@ yahoo.co.jp##a[data-cl-params*="hanako"]
 !Webマガジン コロカル
 yahoo.co.jp##a[data-cl-params*="colocal"]
 
+!特選街web
+yahoo.co.jp##a[data-cl-params*="tokusengai"]
+
 !*******************************************
 
 !芸能
@@ -440,6 +443,9 @@ yahoo.co.jp##a[data-cl-params*="fujitv"]
 
 !テレ東プラス
 yahoo.co.jp##a[data-cl-params*="tvtplus"]
+
+!テレ朝POST
+yahoo.co.jp##a[data-cl-params*="asapostv"]
 
 !映画ナタリー
 yahoo.co.jp##a[data-cl-params*="nataliee"]
@@ -829,6 +835,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-entrance"]
 !所沢なび
 yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
 
+!ちばとぴ！ニュース
+yahoo.co.jp##a[data-cl-params*="chibach"]
+
 !アーバンライフメトロ
 yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
 
@@ -1012,6 +1021,9 @@ yahoo.co.jp##a[data-cl-params*="tamahiyo"]
 
 !マイナビ子育て
 yahoo.co.jp##a[data-cl-params*="kosodate"]
+
+!サカイク
+yahoo.co.jp##a[data-cl-params*="sakaiku"]
 
 !価格.comマガジン
 yahoo.co.jp##a[data-cl-params*="kakakumag"]
@@ -1652,6 +1664,9 @@ yahoo.co.jp##a[data-cl-params*="-koukousei"]
 
 !朝日新聞SDGs Action
 yahoo.co.jp##a[data-cl-params*="asahisdgs"]
+
+!朝日新聞デジタルマガジン　& [and]
+yahoo.co.jp##a[data-cl-params*="asahiand"]
 
 !月刊糖尿病ライフ さかえ
 yahoo.co.jp##a[data-cl-params*="-sakae"]
