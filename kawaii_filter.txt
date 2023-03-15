@@ -38,22 +38,21 @@
 
 !TRILLを消滅させる
 !クラシルを消滅させる
-
 yahoo.co.jp##a[href*="trilltrill"]
 yahoo.co.jp##a[href*="kurashiru"]
 
 !個人の記事を消す
-
 yahoo.co.jp##a[href*="creators"]
 yahoo.co.jp##a[href*="byline"]
 
-!試験用　自動再生される動画
+!自動再生される動画
 yahoo.co.jp##a[href*="video"]
-!試験用　YahooショッピングPR(tokuはtokushimaにひっかかる）
-!yahoo.co.jp##a[href*="toku"]
+
+!宮川大輔その他を消滅させる
 yahoo.co.jp##a[href*="commerce"]
 yahoo.co.jp##a[href*="promotion"]
 yahoo.co.jp##a[href*="tkbkpc"]
+yahoo.co.jp##a[href*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 yahoo.co.jp##a[data-cl-params*="promo"]
@@ -816,6 +815,9 @@ yahoo.co.jp##a[data-cl-params*="sitakke"]
 !Things
 yahoo.co.jp##a[data-cl-params*="-things"]
 
+!かまいし情報ポータルサイト～緑とらんす（えんとらんすと読ませたいらしい）
+yahoo.co.jp##a[data-cl-params*="-tl-entrance"]
+
 !所沢なび
 yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
 
@@ -830,6 +832,9 @@ yahoo.co.jp##a[data-cl-params*="802dabe"]
 
 !美術手帖
 yahoo.co.jp##a[data-cl-params*="btecho"]
+
+!Tokyo Art Beat
+yahoo.co.jp##a[data-cl-params*="tartbeat"]
 
 !日刊にいがたWEBタウン情報
 yahoo.co.jp##a[data-cl-params*="tjniigata"]
@@ -852,7 +857,13 @@ yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 !富山デイズ
 yahoo.co.jp##a[data-cl-params*="toyamadays"]
 
-!Life Designs
+!金沢デイズ
+yahoo.co.jp##a[data-cl-params*="kanazawa2shin"]
+
+!市民タイムスWEB(長野のあたり）
+yahoo.co.jp##a[data-cl-params*="shimint"]
+
+!Life Designs(名古屋のあたり)
 yahoo.co.jp##a[data-cl-params*="Life_Designs"]
 
 !ナゴレコ
@@ -864,14 +875,26 @@ yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
 !伊賀タウン情報You
 yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 
+!ALCO宇治・城陽
+yahoo.co.jp##a[data-cl-params*="-tl-alco"]
+
 !ラジトピ ラジオ関西トピックス
 yahoo.co.jp##a[data-cl-params*="-raditopi"]
 
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
 
+!奈良のタウン情報ぱーぷる
+yahoo.co.jp##a[data-cl-params*="-tl-par-ple"]
+
 !Narakko 奈良っ子
 yahoo.co.jp##a[data-cl-params*="narakko"]
+
+!神戸ジャーナル
+yahoo.co.jp##a[data-cl-params*="kobe_journal"]
+
+!倉敷とことこ
+yahoo.co.jp##a[data-cl-params*="kuratoco"]
 
 !ひろしまリード
 yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
@@ -879,8 +902,14 @@ yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
 !日刊新周南
 yahoo.co.jp##a[data-cl-params*="-sshunan"]
 
+!北九州ノコト
+yahoo.co.jp##a[data-cl-params*="kitaqnokoto"]
+
 !webてんじん
 yahoo.co.jp##a[data-cl-params*="webtenjin"]
+
+!天神サイト
+yahoo.co.jp##a[data-cl-params*="tenjinsite"]
 
 !フクリパ
 yahoo.co.jp##a[data-cl-params*="fukuokaleapup"]
@@ -897,6 +926,9 @@ yahoo.co.jp##a[data-cl-params*="-fanfun"]
 !行こう住もう
 yahoo.co.jp##a[data-cl-params*="-ikosumo"]
 
+!肥後ジャーナル
+yahoo.co.jp##a[data-cl-params*="higojournal"]
+
 !*******************************************
 
 !趣味系サイト
@@ -910,6 +942,42 @@ yahoo.co.jp##a[data-cl-params*="onsennewscom"]
 !ぴあ
 yahoo.co.jp##a[data-cl-params*="piaeigat"]
 
+!チケットぴあ
+yahoo.co.jp##a[data-cl-params*="-pia"]
+
+!YAMAKEI ONLINE
+yahoo.co.jp##a[data-cl-params*="yamakei"]
+
+!YAMAP MAGAZINE
+yahoo.co.jp##a[data-cl-params*="-tl-yamap-m"]
+
+!BRAVO MOUNTAIN
+yahoo.co.jp##a[data-cl-params*="bravom"]
+
+!Casa BRUTUS.com
+yahoo.co.jp##a[data-cl-params*="casabrutus"]
+
+!CAPA CAMERA WEB
+yahoo.co.jp##a[data-cl-params*="-capa"]
+
+!歴史人
+yahoo.co.jp##a[data-cl-params*="rekishin"]
+
+!城びと
+yahoo.co.jp##a[data-cl-params*="-shirobito"]
+
+!鉄道コム
+yahoo.co.jp##a[data-cl-params*="tetsucom"]
+
+!鉄道チャンネル
+yahoo.co.jp##a[data-cl-params*="tetsudo_ch"]
+
+!Aviation Wire
+yahoo.co.jp##a[data-cl-params*="awire"]
+
+!sorae 宇宙へのポータルサイト
+yahoo.co.jp##a[data-cl-params*="sorae_jp"]
+
 !マイナビニュース
 yahoo.co.jp##a[data-cl-params*="mynavin"]
 
@@ -919,50 +987,23 @@ yahoo.co.jp##a[data-cl-params*="careercn"]
 !BOOKSTAND
 yahoo.co.jp##a[data-cl-params*="webhon"]
 
+!好書好日
+yahoo.co.jp##a[data-cl-params*="bookasahi"]
+
 !360life
 yahoo.co.jp##a[data-cl-params*="360life"]
 
 !@DIME
 yahoo.co.jp##a[data-cl-params*="-dime"]
 
-!チケットぴあ
-yahoo.co.jp##a[data-cl-params*="-pia"]
-
 !たまひよオンライン
 yahoo.co.jp##a[data-cl-params*="tamahiyo"]
 
-!歴史人
-yahoo.co.jp##a[data-cl-params*="rekishin"]
-
-!城びと
-yahoo.co.jp##a[data-cl-params*="-shirobito"]
-
-!BRAVO MOUNTAIN
-yahoo.co.jp##a[data-cl-params*="bravom"]
-
-!Casa BRUTUS.com
-yahoo.co.jp##a[data-cl-params*="casabrutus"]
-
-!Aviation Wire
-yahoo.co.jp##a[data-cl-params*="awire"]
-
-!sorae 宇宙へのポータルサイト
-yahoo.co.jp##a[data-cl-params*="sorae_jp"]
-
-!CAPA CAMERA WEB
-yahoo.co.jp##a[data-cl-params*="-capa"]
+!マイナビ子育て
+yahoo.co.jp##a[data-cl-params*="kosodate"]
 
 !価格.comマガジン
 yahoo.co.jp##a[data-cl-params*="kakakumag"]
-
-!好書好日
-yahoo.co.jp##a[data-cl-params*="bookasahi"]
-
-!鉄道コム
-yahoo.co.jp##a[data-cl-params*="tetsucom"]
-
-!鉄道チャンネル
-yahoo.co.jp##a[data-cl-params*="tetsudo_ch"]
 
 !IMA ONLINE
 yahoo.co.jp##a[data-cl-params*="imaonline"]
@@ -975,12 +1016,6 @@ yahoo.co.jp##a[data-cl-params*="allreview"]
 
 !dancyu
 yahoo.co.jp##a[data-cl-params*="dancyu"]
-
-!YAMAKEI ONLINE
-yahoo.co.jp##a[data-cl-params*="yamakei"]
-
-!マイナビ子育て
-yahoo.co.jp##a[data-cl-params*="kosodate"]
 
 !FUNQ
 yahoo.co.jp##a[data-cl-params*="eipub"]
@@ -996,6 +1031,9 @@ yahoo.co.jp##a[data-cl-params*="niwacul"]
 
 !家庭画報.com
 yahoo.co.jp##a[data-cl-params*="kateigaho"]
+
+!ダ・ヴィンチweb
+yahoo.co.jp##a[data-cl-params*="davincin"]
 
 !*******************************************
 
