@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230315
+! Version: 20230316
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -713,6 +713,9 @@ yahoo.co.jp##a[data-cl-params*="ourage"]
 !VOGUEGIRL
 yahoo.co.jp##a[data-cl-params*="voguegirl"]
 
+!VOGUE JAPAN
+yahoo.co.jp##a[data-cl-params*="-vogue"]
+
 !Web eclat
 yahoo.co.jp##a[data-cl-params*="-eclat"]
 
@@ -812,6 +815,9 @@ yahoo.co.jp##a[data-cl-params*="-santatsu"]
 
 !muto
 yahoo.co.jp##a[data-cl-params*="-tl-muto"]
+
+!料理王国
+yahoo.co.jp##a[data-cl-params*="cuisineking"]
 
 !*******************************************
 
