@@ -423,6 +423,9 @@ yahoo.co.jp##a[data-cl-params*="kstylens"]
 !オリコン
 yahoo.co.jp##a[data-cl-params*="oric"]
 
+!ドワンゴジェイピーnews
+yahoo.co.jp##a[data-cl-params*="dwango"]
+
 !CDJournal
 yahoo.co.jp##a[data-cl-params*="-cdj"]
 
