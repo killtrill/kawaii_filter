@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230319
+! Version: 20230325
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -335,7 +335,7 @@ yahoo.co.jp##a[data-cl-params*="socra"]
 yahoo.co.jp##a[data-cl-params*="onnela"]
 
 !macaroni
-yahoo.co.jp##a[data-cl-params*="tl-macaro-ni"]
+yahoo.co.jp##a[data-cl-params*="-tl-macaro-ni"]
 
 !Reライフ.net
 yahoo.co.jp##a[data-cl-params*="relifenet"]
@@ -393,6 +393,9 @@ yahoo.co.jp##a[data-cl-params*="colocal"]
 
 !特選街web
 yahoo.co.jp##a[data-cl-params*="tokusengai"]
+
+!リブタイムズ
+yahoo.co.jp##a[data-cl-params*="-tl-libwork"]
 
 !*******************************************
 
@@ -547,7 +550,7 @@ yahoo.co.jp##a[data-cl-params*="-okm"]
 yahoo.co.jp##a[data-cl-params*="ongakuto"]
 
 !映画論評・情報サイト　BANGER！！！
-yahoo.co.jp##a[data-cl-params*="tl-banger"]
+yahoo.co.jp##a[data-cl-params*="-tl-banger"]
 
 !WWS チャンネル
 yahoo.co.jp##a[data-cl-params*="-wws"]
@@ -741,7 +744,7 @@ yahoo.co.jp##a[data-cl-params*="spur"]
 yahoo.co.jp##a[data-cl-params*="-lee"]
 
 !mer
-yahoo.co.jp##a[data-cl-params*="tl-mer"]
+yahoo.co.jp##a[data-cl-params*="-tl-mer"]
 
 !美的.com
 yahoo.co.jp##a[data-cl-params*="biteki"]
@@ -750,7 +753,7 @@ yahoo.co.jp##a[data-cl-params*="biteki"]
 yahoo.co.jp##a[data-cl-params*="mybest"]
 
 !日刊KELLY
-yahoo.co.jp##a[data-cl-params*="tl-kelly-net"]
+yahoo.co.jp##a[data-cl-params*="-tl-kelly-net"]
 
 !ELEMINIST
 yahoo.co.jp##a[data-cl-params*="eleminist"]
@@ -828,6 +831,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-muto"]
 !料理王国
 yahoo.co.jp##a[data-cl-params*="cuisineking"]
 
+!WEBマガジン HEAT
+yahoo.co.jp##a[data-cl-params*="lm-heat"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -868,6 +874,9 @@ yahoo.co.jp##a[data-cl-params*="btecho"]
 !Tokyo Art Beat
 yahoo.co.jp##a[data-cl-params*="tartbeat"]
 
+!歌舞伎町文化新聞
+yahoo.co.jp##a[data-cl-params*="-tl-kbs"]
+
 !日刊にいがたWEBタウン情報
 yahoo.co.jp##a[data-cl-params*="tjniigata"]
 
@@ -875,10 +884,10 @@ yahoo.co.jp##a[data-cl-params*="tjniigata"]
 yahoo.co.jp##a[data-cl-params*="-lm-komachi"]
 
 !にいがた経済新聞
-yahoo.co.jp##a[data-cl-params*="tl-niikei"]
+yahoo.co.jp##a[data-cl-params*="-tl-niikei"]
 
 !上越妙高タウン情報
-yahoo.co.jp##a[data-cl-params*="tl-jcv"]
+yahoo.co.jp##a[data-cl-params*="-tl-jcv"]
 
 !上越タウンジャーナル
 yahoo.co.jp##a[data-cl-params*="-joetsutj"]
@@ -916,6 +925,9 @@ yahoo.co.jp##a[data-cl-params*="-raditopi"]
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
 
+!OASAKA STYLE
+yahoo.co.jp##a[data-cl-params*="-tl-osakastyle"]
+
 !奈良のタウン情報ぱーぷる
 yahoo.co.jp##a[data-cl-params*="-tl-par-ple"]
 
@@ -924,6 +936,12 @@ yahoo.co.jp##a[data-cl-params*="narakko"]
 
 !神戸ジャーナル
 yahoo.co.jp##a[data-cl-params*="kobe_journal"]
+
+!兵庫はりまエリアの地域情報サイト　TANOSU
+yahoo.co.jp##a[data-cl-params*="-tl-tanosu"]
+
+!ニシマグ（西宮）
+yahoo.co.jp##a[data-cl-params*="-tl-nishimagcom1"]
 
 !倉敷とことこ
 yahoo.co.jp##a[data-cl-params*="kuratoco"]
@@ -947,7 +965,7 @@ yahoo.co.jp##a[data-cl-params*="tenjinsite"]
 yahoo.co.jp##a[data-cl-params*="fukuokaleapup"]
 
 !UMAGA
-yahoo.co.jp##a[data-cl-params*="tl_umaga"]
+yahoo.co.jp##a[data-cl-params*="-tl_umaga"]
 
 !福岡ふかぼりメディアささっとー
 yahoo.co.jp##a[data-cl-params*="sasatto"]
@@ -1372,7 +1390,7 @@ yahoo.co.jp##a[data-cl-params*="sporting"]
 yahoo.co.jp##a[data-cl-params*="elevenspo"]
 
 !ラブすぽ
-yahoo.co.jp##a[data-cl-params*="tl-love-spo"]
+yahoo.co.jp##a[data-cl-params*="-tl-love-spo"]
 
 !CoCoKARA NEXT
 yahoo.co.jp##a[data-cl-params*="cocokara"]
@@ -1502,6 +1520,8 @@ yahoo.co.jp##a[data-cl-params*="crssntv"]
 !ミキハウス
 yahoo.co.jp##a[data-cl-params*="-mikihouse"]
 
+!講談社 JOSEISHI.NET
+yahoo.co.jp##a[data-cl-params*="-kjn"]
 
 !*******************************************
 
@@ -1569,6 +1589,9 @@ yahoo.co.jp##a[data-cl-params*="-forbes"]
 
 !Science Portal
 yahoo.co.jp##a[data-cl-params*="-sportal"]
+
+!中央公論
+yahoo.co.jp##a[data-cl-params*="chuokou"]
 
 !*******************************************
 
@@ -1666,7 +1689,7 @@ yahoo.co.jp##a[data-cl-params*="webtan"]
 yahoo.co.jp##a[data-cl-params*="shueisha"]
 
 !LITALICO発達ナビ
-yahoo.co.jp##a[data-cl-params*="tl-h-navi"]
+yahoo.co.jp##a[data-cl-params*="-tl-h-navi"]
 
 !Medical DOC
 yahoo.co.jp##a[data-cl-params*="-medicald"]
@@ -1732,5 +1755,5 @@ yahoo.co.jp##a[data-cl-params*="dospo"]
 
 !"最[高低]"を入れると"最高"気温や"最低"気温にひっかかってしまう
 
-yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|サラッと|さらっと|ケロッと|ガラッと|スッキリ|すっきり|オ[バジ]サン|お[ばじ]さん|老女|ドン引き|論破|[唖愕騒]然|絶句|口撃|成敗|一喝|見返した|追い詰めた|罵倒|天罰|鉄槌|制裁|痛快|豪快|撃退|反[論撃]|報復|追放|正論|猛省|大迷惑|秀逸|痛快|拍手喝采|気分爽快|神対応|嘲笑|怒号|苦言|逆上|一蹴|復讐|土下座|魔法の言葉|ひと声|発狂|一件落着|悪行|ナイス|悲惨|感動|感激|泣け[たる]|泣いた|泣きそう|涙腺崩壊|嬉し涙|感涙|号泣|涙を呑んだ|共感|の嵐|理由|ワケ|の声|納得|ナットク|驚[き愕]|[衝笑]撃|笑え[るた]|笑った|爆笑|ツッコミ|続出|激[怒昂]|怒り|やべ[えぇ]やつ|むかつく|ムカつく|イライラ|傑作|リピ確定|旦那|姑|義実家|義家族|義祖?[父母姉妹兄弟]|亭主関白|ママ友|ぐうの音|認知症|夫婦仲|腹筋崩壊|憂鬱|ユーウツ|場違い|性悪|オトコ|オンナ|追いライン|既読スルー|ブチ切れ|ブチギレ|モヤモヤ|理不尽|因果応報|メイワク|イチャイチャ|公開処刑|マウント/) { remove: true; }
+yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|サラッと|さらっと|ケロッと|ガラッと|スッキリ|すっきり|オ[バジ]サン|お[ばじ]さん|老女|ドン引き|論破|[唖愕騒]然|絶句|口撃|成敗|一喝|見返した|追い詰めた|罵倒|天罰|鉄槌|制裁|痛快|豪快|撃退|反[論撃]|報復|追放|正論|猛省|大迷惑|秀逸|痛快|拍手喝采|気分爽快|神対応|嘲笑|怒号|苦言|逆上|一蹴|復讐|土下座|魔法の言葉|ひと声|発狂|一件落着|悪行|ナイス|悲惨|感動|感激|泣け[たる]|泣いた|泣きそう|涙腺崩壊|嬉し涙|感涙|号泣|涙を呑んだ|共感|の嵐|理由|ワケ|の声|納得|ナットク|驚[き愕]|[衝笑]撃|笑え[るた]|笑った|爆笑|ツッコミ|続出|激[怒昂]|怒り|やべ[えぇ]やつ|むかつく|ムカつく|イライラ|傑作|リピ確定|旦那|姑|義実家|義家族|義祖?[父母姉妹兄弟]|亭主関白|ママ友|ぐうの音|認知症|夫婦仲|腹筋崩壊|憂鬱|ユーウツ|場違い|性悪|オトコ|オンナ|追いライン|既読スルー|ブチ切れ|ブチギレ|モヤモヤ|理不尽|因果応報|メイワク|イチャイチャ|公開処刑|マウント|ガーシー|東谷義和/) { remove: true; }
 
