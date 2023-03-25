@@ -454,7 +454,7 @@ yahoo.co.jp##a[data-cl-params*="tvtplus"]
 yahoo.co.jp##a[data-cl-params*="asapostv"]
 
 !TBS Topics
-yahoo.co.jp##a[data-cl-params*="tps_topics"]
+yahoo.co.jp##a[data-cl-params*="tbs_topics"]
 
 !映画ナタリー
 yahoo.co.jp##a[data-cl-params*="nataliee"]
