@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230325
+! Version: 20230326
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -86,6 +86,9 @@ yahoo.co.jp##a[data-cl-params*="ytokushu"]
 !ヤフーLINE共同企画
 yahoo.co.jp##a[href*="search311.jp"]
 yahoo.co.jp##a[href*="sp-hinan.jp"]
+
+!B.LEAGUE Hope(B.Hope) ヤフー防災模試
+yahoo.co.jp##a[href*="sonaetebasket"]
 
 !-------------------------------------------
 
@@ -814,7 +817,7 @@ yahoo.co.jp##a[data-cl-params*="panmegu"]
 yahoo.co.jp##a[data-cl-params*="otoriyose"]
 
 !ａｓａｔａｎ
-yahoo.co.jp##a[data-cl-params*="-asatan"]
+yahoo.co.jp##a[data-cl-params*="asatan"]
 
 !Vegewel
 yahoo.co.jp##a[data-cl-params*="-vegewel"]
@@ -1400,6 +1403,9 @@ yahoo.co.jp##a[data-cl-params*="hathlete"]
 
 !NFL公式公式サイト日本語版
 yahoo.co.jp##a[data-cl-params*="nfljapan"]
+
+!テレビ東京スポーツ
+yahoo.co.jp##a[data-cl-params*="tvtokyos"]
 
 !-------------------------------------------
 
