@@ -91,7 +91,7 @@ yahoo.co.jp##a[href*="sp-hinan.jp"]
 yahoo.co.jp##a[href*="sonaetebasket"]
 
 !企画：Yahoo検索
-yahoo.co.jp##a[href*="prm_quiz_bosai"]
+!yahoo.co.jp##a[href*="bosai"]
 
 !-------------------------------------------
 
@@ -407,7 +407,7 @@ yahoo.co.jp##a[data-cl-params*="tokusengai"]
 yahoo.co.jp##a[data-cl-params*="-tl-libwork"]
 
 !読みテレ～読んで楽しいテレビの話
-yahoo.co.jp##a[data-cl-params*="yomitere"]
+!yahoo.co.jp##a[data-cl-params*="yomitere"]
 
 !*******************************************
 
@@ -1549,7 +1549,7 @@ yahoo.co.jp##a[data-cl-params*="webym"]
 yahoo.co.jp##a[data-cl-params*="nkgendai"]
 
 !日刊ゲンダイDIGITAL
-yahoo.co.jp##a[data-cl-params*="aaac"]
+!yahoo.co.jp##a[data-cl-params*="aaac"]
 
 !現代ビジネス
 yahoo.co.jp##a[data-cl-params*="gendaibiz"]
@@ -1728,13 +1728,13 @@ yahoo.co.jp##a[data-cl-params*="asahiand"]
 yahoo.co.jp##a[data-cl-params*="-sakae"]
 
 !読売新聞（ヨミドクター）
-yahoo.co.jp##a[data-cl-params*="yomidr"]
+!yahoo.co.jp##a[data-cl-params*="yomidr"]
 
 !「みんなの介護」ニュース
-yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
+!yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
 
 !医療介護CBニュース
-yahoo.co.jp##a[data-cl-params*="rcpos"]
+!yahoo.co.jp##a[data-cl-params*="rcpos"]
 
 !-------------------------------------------
 
