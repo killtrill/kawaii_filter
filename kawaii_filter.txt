@@ -1549,7 +1549,7 @@ yahoo.co.jp##a[data-cl-params*="webym"]
 yahoo.co.jp##a[data-cl-params*="nkgendai"]
 
 !日刊ゲンダイDIGITAL
-yahoo.co.jp##a[data-cl-params*="a_aaac"]
+yahoo.co.jp##a[data-cl-params*="aaac"]
 
 !現代ビジネス
 yahoo.co.jp##a[data-cl-params*="gendaibiz"]
