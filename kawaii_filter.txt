@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230330
+! Version: 20230402
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -913,6 +913,9 @@ yahoo.co.jp##a[data-cl-params*="toyamadays"]
 
 !金沢デイズ
 yahoo.co.jp##a[data-cl-params*="kanazawa2shin"]
+
+!週末、金沢。
+yahoo.co.jp##a[data-cl-params*="-tl-weekend-kanazawa"]
 
 !市民タイムスWEB(長野のあたり）
 yahoo.co.jp##a[data-cl-params*="shimint"]
