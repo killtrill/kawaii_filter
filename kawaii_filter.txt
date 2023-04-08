@@ -790,6 +790,9 @@ yahoo.co.jp##a[data-cl-params*="girlhynm"]
 !モダンリビング
 yahoo.co.jp##a[data-cl-params*="mliving"]
 
+!GOODA
+yahoo.co.jp##a[data-cl-params*="-tl-gooda"]
+
 !*******************************************
 
 !グルメ
