@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230408
+! Version: 20230409
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -882,7 +882,7 @@ yahoo.co.jp##a[data-cl-params*="sitakke"]
 !Things
 yahoo.co.jp##a[data-cl-params*="-things"]
 
-!かまいし情報ポータルサイト～緑とらんす（えんとらんすと読ませたいらしい）
+!かまいし情報ポータルサイト～緑とらんす(えんとらんすと読ませたいらしい）
 yahoo.co.jp##a[data-cl-params*="-tl-entrance"]
 
 !所沢なび
@@ -975,7 +975,7 @@ yahoo.co.jp##a[data-cl-params*="kobe_journal"]
 !兵庫はりまエリアの地域情報サイト　TANOSU
 yahoo.co.jp##a[data-cl-params*="-tl-tanosu"]
 
-!ニシマグ（西宮）
+!ニシマグ(西宮）
 yahoo.co.jp##a[data-cl-params*="-tl-nishimagcom1"]
 
 !倉敷とことこ
@@ -1347,7 +1347,7 @@ yahoo.co.jp##a[data-cl-params*="nkeirin"]
 !BOATRACE
 yahoo.co.jp##a[data-cl-params*="spnaviow"]
 
-!マクール（ボートレース）
+!マクール(ボートレース）
 yahoo.co.jp##a[data-cl-params*="macour"]
 
 !*******************************************
@@ -1382,7 +1382,7 @@ yahoo.co.jp##a[data-cl-params*="vbnext"]
 !バレーボールマガジン
 yahoo.co.jp##a[data-cl-params*="vbm"]
 
-!ラグビーリパブリック（ラグビーマガジン）
+!ラグビーリパブリック(ラグビーマガジン）
 yahoo.co.jp##a[data-cl-params*="rugbyrp"]
 
 !mmotorsport.com
@@ -1756,7 +1756,7 @@ yahoo.co.jp##a[data-cl-params*="asahiand"]
 !月刊糖尿病ライフ さかえ
 yahoo.co.jp##a[data-cl-params*="-sakae"]
 
-!読売新聞（ヨミドクター）
+!読売新聞(ヨミドクター）
 yahoo.co.jp##a[data-cl-params*="yomidr"]
 
 !「みんなの介護」ニュース
@@ -1822,13 +1822,13 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 
 !TV キー局
 
-!ABCニュース
-!yahoo.co.jp##a[data-cl-params*="-asahibc"]
+!テレビ朝日系(ANN)
+!yahoo.co.jp##a[data-cl-params*="-ann"]
 
 !FNNプライムオンライン
 !yahoo.co.jp##a[data-cl-params*="-fnnprimev"]
 
-!FNNプライムオンライン（フジテレビ系）
+!FNNプライムオンライン(フジテレビ系）
 !yahoo.co.jp##a[data-cl-params*="-fnn"]
 
 !TBS NEWS DIG Powered by JNN
@@ -1837,6 +1837,366 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 !日テレNEWS
 !yahoo.co.jp##a[data-cl-params*="-nnn"]
 
+!テレ東Biz
+!yahoo.co.jp##a[data-cl-params*="-tvtnews"]
+
+!テレビ東京スポーツ
+!yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
+
+
 
 !-------------------------------------------
+
+!TV 地方局
+
+!47NEWS
+!yahoo.co.jp##a[data-cl-params*="-yonnana"]
+
+!ABA青森朝日放送
+!yahoo.co.jp##a[data-cl-params*="-aba"]
+
+!ABCニュース
+!yahoo.co.jp##a[data-cl-params*="-asahibc"]
+
+!abn長野朝日放送
+!yahoo.co.jp##a[data-cl-params*="-abn"]
+
+!ABS秋田放送
+!yahoo.co.jp##a[data-cl-params*="-absakita"]
+
+!ATV青森テレビ
+!yahoo.co.jp##a[data-cl-params*="-atv"]
+
+!BBCびわ湖放送
+!yahoo.co.jp##a[data-cl-params*="-bbcbiwakov"]
+
+!BSN新潟放送
+!yahoo.co.jp##a[data-cl-params*="-ohbsn"]
+
+!BSS山陰放送
+!yahoo.co.jp##a[data-cl-params*="-bss"]
+
+!CNA秋田ケーブルテレビ
+!yahoo.co.jp##a[data-cl-params*="-cnaakita"]
+
+!Daiichi-TV(静岡第一テレビ）
+!yahoo.co.jp##a[data-cl-params*="-sdt"]
+
+!eat愛媛朝日テレビ
+!yahoo.co.jp##a[data-cl-params*="-eat"]
+
+!FBC福井放送
+!yahoo.co.jp##a[data-cl-params*="-fbc"]
+
+!FBS福岡放送
+!yahoo.co.jp##a[data-cl-params*="-fbsnews"]
+
+!HAB北陸朝日放送
+!yahoo.co.jp##a[data-cl-params*="-hab"]
+
+!HBCニュース北海道
+!yahoo.co.jp##a[data-cl-params*="-hbcv"]
+
+!HOME広島ホームテレビ
+!yahoo.co.jp##a[data-cl-params*="-hometvv"]
+
+!HTB北海道ニュース
+!yahoo.co.jp##a[data-cl-params*="-htbv"]
+
+!IAT岩手朝日テレビ
+!yahoo.co.jp##a[data-cl-params*="-iat"]
+
+!IBC岩手放送
+!yahoo.co.jp##a[data-cl-params*="-ibciwate"]
+
+!JRT四国放送
+!yahoo.co.jp##a[data-cl-params*="-jrt"]
+
+!KAB熊本朝日放送
+!yahoo.co.jp##a[data-cl-params*="-kab"]
+
+!KBS京都(京都放送）
+!yahoo.co.jp##a[data-cl-params*="-kbs"]
+
+!KFB福島放送
+!yahoo.co.jp##a[data-cl-params*="-kfb"]
+
+!khb東日本放送
+!yahoo.co.jp##a[data-cl-params*="-khbv"]
+
+!KKB鹿児島放送
+!yahoo.co.jp##a[data-cl-params*="-kkbv"]
+
+!KKT熊本県民テレビ
+!yahoo.co.jp##a[data-cl-params*="-kkt"]
+
+!KRY山口放送
+!yahoo.co.jp##a[data-cl-params*="-kry"]
+
+!KSB瀬戸内海放送
+!yahoo.co.jp##a[data-cl-params*="-ksbv"]
+
+!KTNテレビ長崎
+!yahoo.co.jp##a[data-cl-params*="-ktn"]
+
+!KYT鹿児島読売テレビ
+!yahoo.co.jp##a[data-cl-params*="-kytnews"]
+
+!MBC南日本放送
+!yahoo.co.jp##a[data-cl-params*="-mbcnews"]
+
+!MBS毎日放送
+!yahoo.co.jp##a[data-cl-params*="-mbsnews"]
+
+!MRO北陸放送
+!yahoo.co.jp##a[data-cl-params*="-mrov"]
+
+!MRT宮崎放送
+!yahoo.co.jp##a[data-cl-params*="-mrt"]
+
+!NBC長崎放送
+!yahoo.co.jp##a[data-cl-params*="-nbcv"]
+
+!NBS長崎放送
+!yahoo.co.jp##a[data-cl-params*="-nbstv"]
+
+!NST新潟総合テレビ
+!yahoo.co.jp##a[data-cl-params*="-nsttv"]
+
+!OAB大分朝日放送
+!yahoo.co.jp##a[data-cl-params*="-oabv"]
+
+!OBS大分放送
+!yahoo.co.jp##a[data-cl-params*="-obsnews"]
+
+!OHK岡山放送
+!yahoo.co.jp##a[data-cl-params*="-ohk"]
+
+!RBC琉球放送
+!yahoo.co.jp##a[data-cl-params*="-rbc"]
+
+!RCC中国放送
+!yahoo.co.jp##a[data-cl-params*="-rccv"]
+
+!RKB毎日放送
+!yahoo.co.jp##a[data-cl-params*="-rkbv"]
+
+!RKC高知放送
+!yahoo.co.jp##a[data-cl-params*="-rkckochi"]
+
+!RKK熊本放送
+!yahoo.co.jp##a[data-cl-params*="-rkk"]
+
+!RSK山陰放送
+!yahoo.co.jp##a[data-cl-params*="-rsk"]
+
+!SBC信越放送
+!yahoo.co.jp##a[data-cl-params*="-sbc"]
+
+!STVニュース北海道
+!yahoo.co.jp##a[data-cl-params*="-stv"]
+
+!tbc東北放送
+!yahoo.co.jp##a[data-cl-params*="-tbcv"]
+
+!TeNYテレビ新潟
+!yahoo.co.jp##a[data-cl-params*="-teny"]
+
+!TKUテレビ熊本
+!yahoo.co.jp##a[data-cl-params*="-tku"]
+
+!TNCテレビ西日本
+!yahoo.co.jp##a[data-cl-params*="-tncv"]
+
+!TOKYO MX
+!yahoo.co.jp##a[data-cl-params*="-tokyovmx"]
+
+!TOSテレビ大分
+!yahoo.co.jp##a[data-cl-params*="-tos"]
+
+!TSCテレビせとうち
+!yahoo.co.jp##a[data-cl-params*="-tsc"]
+
+!TSKさんいん中央テレビ
+!yahoo.co.jp##a[data-cl-params*="-tsk"]
+
+!tvkニュース(テレビ神奈川）
+!yahoo.co.jp##a[data-cl-params*="-tvkv"]
+
+!tysテレビ山口
+!yahoo.co.jp##a[data-cl-params*="-tys"]
+
+!UTYテレビ山梨
+!yahoo.co.jp##a[data-cl-params*="-utyv"]
+
+!UXテレビ新潟21
+!yahoo.co.jp##a[data-cl-params*="-niigatatvv"]
+
+!yab山口朝日放送
+!yahoo.co.jp##a[data-cl-params*="-yabv"]
+
+!YBC山形放送
+!yahoo.co.jp##a[data-cl-params*="-ybc"]
+
+!YBS山梨放送
+!yahoo.co.jp##a[data-cl-params*="-ybs"]
+
+!yts山形テレビ
+!yahoo.co.jp##a[data-cl-params*="-yts"]
+
+!あいテレビ
+!yahoo.co.jp##a[data-cl-params*="-itv"]
+
+!青森放送
+!yahoo.co.jp##a[data-cl-params*="-rab"]
+
+!秋田朝日放送
+!yahoo.co.jp##a[data-cl-params*="-aab"]
+
+!秋田テレビ
+!yahoo.co.jp##a[data-cl-params*="-akt"]
+
+!石川テレビ
+!yahoo.co.jp##a[data-cl-params*="-ishikawa"]
+
+!岩手めんこいテレビ
+!yahoo.co.jp##a[data-cl-params*="-nmit"]
+
+!鹿児島ニュースKTS
+!yahoo.co.jp##a[data-cl-params*="-kts"]
+
+!北日本放送
+!yahoo.co.jp##a[data-cl-params*="-knb"]
+
+!九州朝日放送
+!yahoo.co.jp##a[data-cl-params*="-kbcv"]
+
+!ぎふチャンDIGITAL
+!yahoo.co.jp##a[data-cl-params*="-gifuchan"]
+
+!群馬テレビ
+!yahoo.co.jp##a[data-cl-params*="-gtv"]
+
+!高知さんさんテレビ
+!yahoo.co.jp##a[data-cl-params*="-newskss"]
+
+!佐賀ニュースサガテレビ
+!yahoo.co.jp##a[data-cl-params*="-sagatv"]
+
+!さくらんぼテレビ
+!yahoo.co.jp##a[data-cl-params*="-sakuranbo"]
+
+!サンテレビ
+!yahoo.co.jp##a[data-cl-params*="-suntvv"]
+
+!静岡朝日テレビ
+!yahoo.co.jp##a[data-cl-params*="-gtv"]
+
+!静岡放送(SBS)
+!yahoo.co.jp##a[data-cl-params*="-sbsv"]
+
+!チバテレ
+!yahoo.co.jp##a[data-cl-params*="-chibatele"]
+
+!中海テレビ放送
+!yahoo.co.jp##a[data-cl-params*="-chukaiv"]
+
+!中京テレビNEWS
+!yahoo.co.jp##a[data-cl-params*="-ctv"]
+
+!チューリップテレビ
+!yahoo.co.jp##a[data-cl-params*="-tuliptv"]
+
+!テレQ(TVQ九州放送)
+!yahoo.co.jp##a[data-cl-params*="-tvq"]
+
+!テレ玉
+!yahoo.co.jp##a[data-cl-params*="-teletama"]
+
+!テレビ愛知
+!yahoo.co.jp##a[data-cl-params*="-tvaichi"]
+
+!テレビ岩手ニュース
+!yahoo.co.jp##a[data-cl-params*="-tvi"]
+
+!テレビ愛媛
+!yahoo.co.jp##a[data-cl-params*="-ebc"]
+
+!テレビ大阪ニュース
+!yahoo.co.jp##a[data-cl-params*="-tvosaka"]
+
+!テレビ金沢
+!yahoo.co.jp##a[data-cl-params*="-ktk"]
+
+!テレビ高知
+!yahoo.co.jp##a[data-cl-params*="-kutv"]
+
+!テレビ静岡NEWS
+!yahoo.co.jp##a[data-cl-params*="-sut"]
+
+!テレビ信州
+!yahoo.co.jp##a[data-cl-params*="-tsb"]
+
+!テレビ新広島
+!yahoo.co.jp##a[data-cl-params*="-tssv"]
+
+!テレビ北海道
+!yahoo.co.jp##a[data-cl-params*="-tvh"]
+
+!テレビユー福島
+!yahoo.co.jp##a[data-cl-params*="-tuf"]
+
+!テレビユー山形
+!yahoo.co.jp##a[data-cl-params*="-tuy"]
+
+!テレビ和歌山
+!yahoo.co.jp##a[data-cl-params*="-wakayamav"]
+
+!東海テレビ(別の要素に干渉しそうな気がする）
+!yahoo.co.jp##a[data-cl-params*="-tokai"]
+
+!とちぎテレビ
+!yahoo.co.jp##a[data-cl-params*="-tochiele"]
+
+!富山テレビ
+!yahoo.co.jp##a[data-cl-params*="-bbt"]
+
+!長崎国際テレビ
+!yahoo.co.jp##a[data-cl-params*="-nib"]
+
+!長崎文化放送
+!yahoo.co.jp##a[data-cl-params*="-ncctv"]
+
+!奈良テレビ放送
+!yahoo.co.jp##a[data-cl-params*="-tvn"]
+
+!南海放送
+!yahoo.co.jp##a[data-cl-params*="-rnb"]
+
+!日本海テレビ
+!yahoo.co.jp##a[data-cl-params*="-nihonkai"]
+
+!福井テレビ
+!yahoo.co.jp##a[data-cl-params*="-ftb"]
+
+!福島中央テレビ
+!yahoo.co.jp##a[data-cl-params*="-fct"]
+
+!福島テレビ
+!yahoo.co.jp##a[data-cl-params*="-ftv"]
+
+!三重テレビ放送
+!yahoo.co.jp##a[data-cl-params*="-mietvv"]
+
+!ミヤギテレビ
+!yahoo.co.jp##a[data-cl-params*="-mmt"]
+
+!宮崎ニュースUMK
+!yahoo.co.jp##a[data-cl-params*="-unk"]
+
+!メ～テレ(名古屋テレビ）
+!yahoo.co.jp##a[data-cl-params*="-nbn"]
+
+!読売テレビ
+!yahoo.co.jp##a[data-cl-params*="-ytv"]
 
