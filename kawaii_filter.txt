@@ -1843,14 +1843,9 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 !テレビ東京スポーツ
 !yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
 
-
-
 !-------------------------------------------
 
 !TV 地方局
-
-!47NEWS
-!yahoo.co.jp##a[data-cl-params*="-yonnana"]
 
 !ABA青森朝日放送
 !yahoo.co.jp##a[data-cl-params*="-aba"]
@@ -2062,6 +2057,12 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 !岩手めんこいテレビ
 !yahoo.co.jp##a[data-cl-params*="-nmit"]
 
+!沖縄テレビOTV
+!yahoo.co.jp##a[data-cl-params*="-otv"]
+
+!沖縄ニュースQAB
+!yahoo.co.jp##a[data-cl-params*="-qab"]
+
 !鹿児島ニュースKTS
 !yahoo.co.jp##a[data-cl-params*="-kts"]
 
@@ -2200,3 +2201,285 @@ yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと|�
 !読売テレビ
 !yahoo.co.jp##a[data-cl-params*="-ytv"]
 
+!-------------------------------------------
+
+!新聞社・報道機関
+
+!47NEWS
+!yahoo.co.jp##a[data-cl-params*="-yonnana"]
+
+!AFPBB News
+!yahoo.co.jp##a[data-cl-params*="-asmasahi"]
+
+!AFPBB News 写真特集
+!yahoo.co.jp##a[data-cl-params*="-afpbbnewsp"]
+
+!AFP=時事
+!yahoo.co.jp##a[data-cl-params*="-jij_afp"]
+
+!BBC News
+!yahoo.co.jp##a[data-cl-params*="-bbc"]
+
+!Bloomberg
+!yahoo.co.jp##a[data-cl-params*="-bloom_st"]
+
+!CNET Japan
+!yahoo.co.jp##a[data-cl-params*="-cnetj"]
+
+!CNN.co.jp
+!yahoo.co.jp##a[data-cl-params*="-cnn"]
+
+!朝日新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-asahi"]
+
+!あなたの静岡新聞
+!yahoo.co.jp##a[data-cl-params*="-at_s"]
+
+!アフロ
+!yahoo.co.jp##a[data-cl-params*="-storyfulv"]
+
+!奄美新聞
+!yahoo.co.jp##a[data-cl-params*="-amami"]
+
+!伊豆新聞
+!yahoo.co.jp##a[data-cl-params*="-izunp"]
+
+!伊勢新聞
+!yahoo.co.jp##a[data-cl-params*="-yonnana"]
+
+!茨城新聞クロスアイ
+!yahoo.co.jp##a[data-cl-params*="-ibaraki"]
+
+!岩手日日新聞社
+!yahoo.co.jp##a[data-cl-params*="-iwanichi"]
+
+!岩手日報
+!yahoo.co.jp##a[data-cl-params*="-iwatenpv"]
+
+!宇部日報
+!yahoo.co.jp##a[data-cl-params*="-ubenippo"]
+
+!愛媛新聞オンライン
+!yahoo.co.jp##a[data-cl-params*="-ehime"]
+
+!大分合同新聞
+!yahoo.co.jp##a[data-cl-params*="-mjikenbo"]
+
+!大阪日日新聞
+!yahoo.co.jp##a[data-cl-params*="-osknichi"]
+
+!沖縄タイムス
+!yahoo.co.jp##a[data-cl-params*="-okinawat"]
+
+!カナロコ by 神奈川新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-kana"]
+
+!河北新報オンライン
+!yahoo.co.jp##a[data-cl-params*="-khks"]
+
+!韓国経済新聞
+!yahoo.co.jp##a[data-cl-params*="-kedglobal"]
+
+!紀伊民報
+!yahoo.co.jp##a[data-cl-params*="-agara"]
+
+!北日本新聞
+!yahoo.co.jp##a[data-cl-params*="-kitanihon"]
+
+!教育新聞
+!yahoo.co.jp##a[data-cl-params*="-kyobun"]
+
+!京都新聞
+!yahoo.co.jp##a[data-cl-params*="-kyt"]
+
+!共同通信
+!yahoo.co.jp##a[data-cl-params*="-kyodonews"]
+
+!岐阜新聞Web
+!yahoo.co.jp##a[data-cl-params*="-gifuweb"]
+
+!熊本日日新聞
+!yahoo.co.jp##a[data-cl-params*="-kumanichi"]
+
+!健康産業新聞
+!yahoo.co.jp##a[data-cl-params*="-kenkoshin"]
+
+!健康産業速報
+!yahoo.co.jp##a[data-cl-params*="-kenkosoku"]
+
+!神戸新聞NEXT
+!yahoo.co.jp##a[data-cl-params*="-kobenext"]
+
+!埼玉新聞
+!yahoo.co.jp##a[data-cl-params*="-saitama"]
+
+!佐賀新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-saga"]
+
+!山陰中央新報
+!yahoo.co.jp##a[data-cl-params*="-saninchuo"]
+
+!産経新聞(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-san"]
+
+!山陽新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-sanyo"]
+
+!信濃毎日新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-shinmai"]
+
+!下野新聞SOON
+!yahoo.co.jp##a[data-cl-params*="-soon"]
+
+!食品産業新聞社ニュースWEB
+!yahoo.co.jp##a[data-cl-params*="-ssnp"]
+
+!食品新聞
+!yahoo.co.jp##a[data-cl-params*="-shokuhin"]
+
+!時事通信
+!yahoo.co.jp##a[data-cl-params*="-jij"]
+
+!上毛新聞
+!yahoo.co.jp##a[data-cl-params*="-jomo"]
+
+!丹波新聞
+!yahoo.co.jp##a[data-cl-params*="-tanba"]
+
+!千葉日報オンライン
+!yahoo.co.jp##a[data-cl-params*="-chibatopi"]
+
+!中国新聞デジタル(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-chugoku"]
+
+!中部経済新聞
+!yahoo.co.jp##a[data-cl-params*="-chukei"]
+
+!鉄鋼新聞
+!yahoo.co.jp##a[data-cl-params*="-tekkou"]
+
+!電波新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-dempad"]
+
+!デーリー東北新聞
+!yahoo.co.jp##a[data-cl-params*="-dtohoku"]
+
+!東方新報
+!yahoo.co.jp##a[data-cl-params*="-clc_toho"]
+
+!十勝毎日新聞　電子版
+!yahoo.co.jp##a[data-cl-params*="-kachimai"]
+
+!徳島新聞
+!yahoo.co.jp##a[data-cl-params*="-tokushimav"]
+
+!苫小牧民報
+!yahoo.co.jp##a[data-cl-params*="-tomamin"]
+
+!長崎新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-nagasaki"]
+
+!長野日報
+!yahoo.co.jp##a[data-cl-params*="-naganonp"]
+
+!奈良新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-naranp"]
+
+!西日本新聞
+!yahoo.co.jp##a[data-cl-params*="-nishinp"]
+
+!日刊工業新聞　電子版
+!yahoo.co.jp##a[data-cl-params*="-nkogyo"]
+
+!日刊産業新聞(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-sangyo"]
+
+!日刊新周南
+!yahoo.co.jp##a[data-cl-params*="-sshunan"]
+
+!日刊自動車新聞
+!yahoo.co.jp##a[data-cl-params*="-netdenjd"]
+
+!日本海新聞(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-nihonkai"]
+
+!日本海事新聞
+!yahoo.co.jp##a[data-cl-params*="-tjmd"]
+
+!日本経済新聞　電子版
+!yahoo.co.jp##a[data-cl-params*="-nikkei"]
+
+!日本食糧新聞
+!yahoo.co.jp##a[data-cl-params*="-nissyoku"]
+
+!日本農業新聞
+!yahoo.co.jp##a[data-cl-params*="-agrinews"]
+
+!函館新聞デジタル
+!yahoo.co.jp##a[data-cl-params*="-hakoshin"]
+
+!福井新聞ONLINE(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-fukui"]
+
+!福祉新聞
+!yahoo.co.jp##a[data-cl-params*="-fukushi"]
+
+!福島民報
+!yahoo.co.jp##a[data-cl-params*="-fminpo"]
+
+!福島民友新聞
+!yahoo.co.jp##a[data-cl-params*="-minyu"]
+
+!ブラジル日報
+!yahoo.co.jp##a[data-cl-params*="-nikkey"]
+
+!報道写真ギャラリーBEHIND
+!yahoo.co.jp##a[data-cl-params*="-behindp"]
+
+!北海道新聞
+!yahoo.co.jp##a[data-cl-params*="-doshin"]
+
+!北國新聞社
+!yahoo.co.jp##a[data-cl-params*="-hokkoku"]
+
+!房日新聞
+!yahoo.co.jp##a[data-cl-params*="-bonichi"]
+
+!毎日新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-mai"]
+
+!マカオ新聞
+!yahoo.co.jp##a[data-cl-params*="-macau"]
+
+!みなと新聞
+!yahoo.co.jp##a[data-cl-params*="-minatos"]
+
+!南日本新聞(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-minami"]
+
+!宮古毎日新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-miyako"]
+
+!宮崎日日新聞(たぶん干渉する)
+!yahoo.co.jp##a[data-cl-params*="-miyazaki"]
+
+!八重山日報
+!yahoo.co.jp##a[data-cl-params*="-yaeyamanp"]
+
+!山形新聞
+!yahoo.co.jp##a[data-cl-params*="-yamagatan"]
+
+!夕刊三重
+!yahoo.co.jp##a[data-cl-params*="-yomotto"]
+
+!読売新聞オンライン(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-yom"]
+
+!琉球新報(干渉するかも)
+!yahoo.co.jp##a[data-cl-params*="-ryu"]
+
+!両丹日日新聞
+!yahoo.co.jp##a[data-cl-params*="-rtn"]
+
+!ロイター
+!yahoo.co.jp##a[data-cl-params*="-reut"]
