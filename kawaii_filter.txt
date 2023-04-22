@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230417
+! Version: 20230421
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -16,6 +16,10 @@
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
 !おおまかな更新履歴
+
+!2023.4
+!kawaii_filter_lite用ルールを追加
+
 !2023.3
 !first-gourmet-editorsごと削除
 !ジャンルを少し細分化
@@ -99,6 +103,10 @@ yahoo.co.jp##a[href*="sonaetebasket"]
 !企画：Yahoo検索
 yahoo.co.jp##a[href*="prm_quiz_bosai"]
 yahoo.co.jp##a[href*="prm_onep_yj_sptage"]
+
+!毎日無料まんが
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
 !-------------------------------------------
 
@@ -275,9 +283,6 @@ yahoo.co.jp##a[data-cl-params*="coacha"]
 !HONZ
 yahoo.co.jp##a[data-cl-params*="hhonz"]
 
-!WIRED デヴァイスって書き方が嫌い
-yahoo.co.jp##a[data-cl-params*="wired"]
-
 !クウネルサロン
 yahoo.co.jp##a[data-cl-params*="kunel"]
 
@@ -301,24 +306,6 @@ yahoo.co.jp##a[data-cl-params*="telling"]
 
 !GINGER
 yahoo.co.jp##a[data-cl-params*="gingerweb"]
-
-!ITmedia ビジネスオンライン
-yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
-
-!ITmedia Mobile
-yahoo.co.jp##a[data-cl-params*="zdn_m"]
-
-!ITmedia NEWS
-yahoo.co.jp##a[data-cl-params*="zdn_n"]
-
-!ITmedia PC USER
-yahoo.co.jp##a[data-cl-params*="zdn_pc"]
-
-!ITmedia エンタープライズ
-yahoo.co.jp##a[data-cl-params*="zdn_ep"]
-
-!ITmedia マーケティング
-yahoo.co.jp##a[data-cl-params*="biz_it_mk"]
 
 !スマートジャパン
 yahoo.co.jp##a[data-cl-params*="biz_it_sj"]
@@ -607,6 +594,9 @@ yahoo.co.jp##a[data-cl-params*="raditopi"]
 
 !J-WAVE NEWS 81.3FM
 yahoo.co.jp##a[data-cl-params*="-jwave"]
+
+!ニッポン放送
+yahoo.co.jp##a[data-cl-params*="nshaberu"]
 
 !*******************************************
 
@@ -1206,6 +1196,9 @@ yahoo.co.jp##a[data-cl-params*="fsal"]
 
 !野球
 
+!スポーツナビ
+yahoo.co.jp##a[data-cl-params*="sports_spnavi_npb-npb-"]
+
 !野球集約ルール
 yahoo.co.jp##a[data-cl-params*="baseball"]
 !ベースボールチャンネル
@@ -1499,9 +1492,6 @@ yahoo.co.jp##a[data-cl-params*="famitsu"]
 !アニメアニメ
 yahoo.co.jp##a[data-cl-params*="anmanmv"]
 
-!Impress watch
-yahoo.co.jp##a[data-cl-params*="impress"]
-
 !コミックナタリー
 yahoo.co.jp##a[data-cl-params*="nataliec"]
 
@@ -1514,6 +1504,39 @@ yahoo.co.jp##a[data-cl-params*="animeanime"]
 !Game Spark
 yahoo.co.jp##a[data-cl-params*="gamespav"]
 
+!-------------------------------------------
+
+!IT系
+
+!Impress watch
+yahoo.co.jp##a[data-cl-params*="impress"]
+
+!ITmedia ビジネスオンライン
+yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
+
+!ITmedia Mobile
+yahoo.co.jp##a[data-cl-params*="zdn_m"]
+
+!ITmedia NEWS
+yahoo.co.jp##a[data-cl-params*="zdn_n"]
+
+!ITmedia PC USER
+yahoo.co.jp##a[data-cl-params*="zdn_pc"]
+
+!ITmedia エンタープライズ
+yahoo.co.jp##a[data-cl-params*="zdn_ep"]
+
+!ITmedia マーケティング
+yahoo.co.jp##a[data-cl-params*="biz_it_mk"]
+
+!WIRED デヴァイスって書き方が嫌い
+yahoo.co.jp##a[data-cl-params*="wired"]
+
+!ZDNET Japan
+yahoo.co.jp##a[data-cl-params*="zdnet"]
+
+!CNET Japan
+yahoo.co.jp##a[data-cl-params*="cnetj"]
 
 !-------------------------------------------
 
@@ -1633,6 +1656,7 @@ yahoo.co.jp##a[data-cl-params*="-toyo"]
 
 !GetNavi web
 yahoo.co.jp##a[data-cl-params*="-getnavi"]
+yahoo.co.jp##a[data-cl-params*="-tl_gnw"]
 
 !ナショナルジオグラフィック日本版
 yahoo.co.jp##a[data-cl-params*="-nknatiogeo"]
