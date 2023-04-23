@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230421
+! Version: 20230423
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -866,6 +866,11 @@ yahoo.co.jp##a[data-cl-params*="lm-heat"]
 
 !地域ごとの記事
 
+!株式会社ユニークワンの運営する地方メディアを全てブロックする
+!除去ターゲット:https://unique1.co.jp/service/media/
+yahoo.co.jp##a[data-cl-params*="2shin"]
+yahoo.co.jp##a[data-cl-params*="days"]
+
 !北海道Likers
 yahoo.co.jp##a[data-cl-params*="hokkaidolikers"]
 
@@ -880,6 +885,9 @@ yahoo.co.jp##a[data-cl-params*="-things"]
 
 !かまいし情報ポータルサイト～緑とらんす(えんとらんすと読ませたいらしい）
 yahoo.co.jp##a[data-cl-params*="-tl-entrance"]
+
+!こおりやま通信(ユニークワン集約)
+!yahoo.co.jp##a[data-cl-params*="-tl-koriyama2shin"]
 
 !所沢なび
 yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
@@ -923,11 +931,11 @@ yahoo.co.jp##a[data-cl-params*="-joetsutj"]
 !北陸新幹線で行こう　北陸・信越観光ナビ
 yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 
-!富山デイズ
-yahoo.co.jp##a[data-cl-params*="toyamadays"]
+!富山デイズ(ユニークワン集約)
+!yahoo.co.jp##a[data-cl-params*="toyamadays"]
 
-!金沢デイズ
-yahoo.co.jp##a[data-cl-params*="kanazawa2shin"]
+!金沢デイズ(ユニークワン集約)
+!yahoo.co.jp##a[data-cl-params*="kanazawa2shin"]
 
 !週末、金沢。
 yahoo.co.jp##a[data-cl-params*="-tl-weekend-kanazawa"]
