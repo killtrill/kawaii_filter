@@ -789,6 +789,18 @@ yahoo.co.jp##a[data-cl-params*="mliving"]
 !GOODA
 yahoo.co.jp##a[data-cl-params*="-tl-gooda"]
 
+!BE-PAL NET
+yahoo.co.jp##a[data-cl-params*="-bepal"]
+
+!LAURIER PRESS
+yahoo.co.jp##a[data-cl-params*="-laurier"]
+
+!VITUP
+yahoo.co.jp##a[data-cl-params*="-vitup"]
+
+!DOMANI
+yahoo.co.jp##a[data-cl-params*="-domani"]
+
 !*******************************************
 
 !グルメ
