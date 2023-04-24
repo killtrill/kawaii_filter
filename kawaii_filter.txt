@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230423
+! Version: 20230425
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -874,6 +874,9 @@ yahoo.co.jp##a[data-cl-params*="cuisineking"]
 !WEBマガジン HEAT
 yahoo.co.jp##a[data-cl-params*="lm-heat"]
 
+!舌肥
+yahoo.co.jp##a[data-cl-params*="-tl-shitakoe"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -912,6 +915,9 @@ yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
 
 !タイムアウト東京
 yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
+
+!中央区民マガジン
+yahoo.co.jp##a[data-cl-params*="-tl-chuo"]
 
 !八王子ジャーニー
 yahoo.co.jp##a[data-cl-params*="802dabe"]
