@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230425
+! Version: 20230427
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1555,6 +1555,12 @@ yahoo.co.jp##a[data-cl-params*="zdn_ep"]
 !ITmedia マーケティング
 yahoo.co.jp##a[data-cl-params*="biz_it_mk"]
 
+!TechTarget Japan
+yahoo.co.jp##a[data-cl-params*="zdn_tt"]
+
+!EE Times Japan
+yahoo.co.jp##a[data-cl-params*="-it_eetimes"]
+
 !WIRED デヴァイスって書き方が嫌い
 yahoo.co.jp##a[data-cl-params*="wired"]
 
@@ -1563,6 +1569,15 @@ yahoo.co.jp##a[data-cl-params*="zdnet"]
 
 !CNET Japan
 yahoo.co.jp##a[data-cl-params*="cnetj"]
+
+!エンジニアType
+yahoo.co.jp##a[data-cl-params*="-tl-e-type"]
+
+!DRONE
+yahoo.co.jp##a[data-cl-params*="-tl-drone"]
+
+!ScanNetSecurity
+yahoo.co.jp##a[data-cl-params*="-scan"]
 
 !-------------------------------------------
 
@@ -1820,6 +1835,12 @@ yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
 
 !医療介護CBニュース
 yahoo.co.jp##a[data-cl-params*="-cbn"]
+
+!リクナビNEXTジャーナル
+yahoo.co.jp##a[data-cl-params*="rikunabin"]
+
+!日本の人事部
+yahoo.co.jp##a[data-cl-params*="biz_jinji"]
 
 !-------------------------------------------
 
