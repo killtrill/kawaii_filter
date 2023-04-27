@@ -6,8 +6,6 @@
 
 !Yahooトップを♡かわいく♡するフィルターです
 
-!YNewsExculderに近いものをスマホで実現したくて作りました。
-
 !個人作成のルールを公開したものです
 !不安定または予期せぬ動作をすることがあります
 !かわいくない単語を見つけたら更新します
@@ -581,6 +579,12 @@ yahoo.co.jp##a[data-cl-params*="numero"]
 
 !オルタナ
 yahoo.co.jp##a[data-cl-params*="alterna"]
+
+!アフロ
+yahoo.co.jp##a[data-cl-params*="storyfulv"]
+
+!FLOOR
+yahoo.co.jp##a[data-cl-params*="-floor"]
 
 !ラジオ
 !文化放送
@@ -1841,6 +1845,9 @@ yahoo.co.jp##a[data-cl-params*="rikunabin"]
 
 !日本の人事部
 yahoo.co.jp##a[data-cl-params*="biz_jinji"]
+
+!就職ジャーナル
+yahoo.co.jp##a[data-cl-params*="sjournal"]
 
 !-------------------------------------------
 
