@@ -263,6 +263,9 @@ yahoo.co.jp##a[data-cl-params*="resemom"]
 !弁護士ドットコムニュース
 yahoo.co.jp##a[data-cl-params*="bengocom"]
 
+!税理士ドットコム
+yahoo.co.jp##a[data-cl-params*="-zeiricom"]
+
 !LEON.JP
 yahoo.co.jp##a[data-cl-params*="leon"]
 
