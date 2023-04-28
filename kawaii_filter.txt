@@ -377,6 +377,9 @@ yahoo.co.jp##a[data-cl-params*="books_apps"]
 !NewsPicks + d
 yahoo.co.jp##a[data-cl-params*="npicksd"]
 
+!NewsPicks
+yahoo.co.jp##a[data-cl-params*="newspicksn"]
+
 !Tarzan Web
 yahoo.co.jp##a[data-cl-params*="tarzanweb"]
 
