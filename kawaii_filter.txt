@@ -511,6 +511,9 @@ yahoo.co.jp##a[data-cl-params*="otocoto"]
 !RollingStone
 yahoo.co.jp##a[data-cl-params*="rolling"]
 
+!YOUNG GUITAR
+yahoo.co.jp##a[data-cl-params*="-tl-youngguitar"]
+
 !SCawaii
 yahoo.co.jp##a[data-cl-params*="scawaii"]
 
