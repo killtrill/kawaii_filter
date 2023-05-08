@@ -1561,6 +1561,9 @@ yahoo.co.jp##a[data-cl-params*="animeanime"]
 !Game Spark
 yahoo.co.jp##a[data-cl-params*="gamespav"]
 
+!Febri
+yahoo.co.jp##a[data-cl-params*="-tl-febri"]
+
 !-------------------------------------------
 
 !IT系
