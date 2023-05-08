@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230506
+! Version: 20230508
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -611,9 +611,15 @@ yahoo.co.jp##a[data-cl-params*="-jwave"]
 !ニッポン放送
 yahoo.co.jp##a[data-cl-params*="nshaberu"]
 
+!TBSラジオ
+yahoo.co.jp##a[data-cl-params*="-tl-tbsradio"]
+
 !*******************************************
 
 !自動車・バイク
+
+!Webヤングマシン
+yahoo.co.jp##a[data-cl-params*="webym"]
 
 !AUTOCAR JAPAN
 yahoo.co.jp##a[data-cl-params*="autocar"]
@@ -1170,6 +1176,9 @@ yahoo.co.jp##a[data-cl-params*="kateigaho"]
 !ダ・ヴィンチweb
 yahoo.co.jp##a[data-cl-params*="davincin"]
 
+!NHK出版デジタルマガジン
+yahoo.co.jp##a[data-cl-params*="-tl-nhkpdmag"]
+
 !*******************************************
 
 !動物
@@ -1659,9 +1668,6 @@ yahoo.co.jp##a[data-cl-params*="-kjn"]
 !*******************************************
 
 !週刊誌・ゴシップ誌
-
-!Webヤングマガジン
-yahoo.co.jp##a[data-cl-params*="webym"]
 
 !日刊ゲンダイ
 yahoo.co.jp##a[data-cl-params*="nkgendai"]
