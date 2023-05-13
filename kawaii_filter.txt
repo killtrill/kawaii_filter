@@ -1833,6 +1833,7 @@ yahoo.co.jp##a[data-cl-params*="newsweek"]
 yahoo.co.jp##a[data-cl-params*="php_s"]
 yahoo.co.jp##a[data-cl-params*="php_t"]
 yahoo.co.jp##a[data-cl-params*="phpfamily"]
+yahoo.co.jp##a[data-cl-params*="-voice"]
 
 !ネットショップ担当者フォーラム
 yahoo.co.jp##a[data-cl-params*="netshop"]
