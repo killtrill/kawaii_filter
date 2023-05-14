@@ -944,6 +944,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-welovegunma"]
 !ちばとぴ！ニュース
 yahoo.co.jp##a[data-cl-params*="chibach"]
 
+!ちいき新聞（千葉）
+yahoo.co.jp##a[data-cl-params*="-lm-chiicomi"]
+
 !アーバンライフメトロ
 yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
 
@@ -1817,6 +1820,34 @@ yahoo.co.jp##a[data-cl-params*="-kinyobi"]
 !Wedge
 yahoo.co.jp##a[data-cl-params*="wedge"]
 
+!ニューズウィーク日本版
+yahoo.co.jp##a[data-cl-params*="newsweek"]
+
+!PHPオンライン
+yahoo.co.jp##a[data-cl-params*="php_s"]
+yahoo.co.jp##a[data-cl-params*="php_t"]
+yahoo.co.jp##a[data-cl-params*="phpfamily"]
+yahoo.co.jp##a[data-cl-params*="-voice"]
+
+!集英社オンライン
+yahoo.co.jp##a[data-cl-params*="shueisha"]
+
+!朝日新聞SDGs Action
+yahoo.co.jp##a[data-cl-params*="asahisdgs"]
+
+!朝日新聞デジタルマガジン　& [and]
+yahoo.co.jp##a[data-cl-params*="asahiand"]
+
+!選挙ドットコム
+yahoo.co.jp##a[data-cl-params*="-senkyocom"] 
+
+!政治山
+yahoo.co.jp##a[data-cl-params*="-seijiyama"]
+
+!-------------------------------------------
+
+!外国の新聞社など一部の人にしか関係ないもの
+
 !朝鮮日報
 yahoo.co.jp##a[data-cl-params*="chosun"]
 
@@ -1832,14 +1863,14 @@ yahoo.co.jp##a[data-cl-params*="hankyoreh"]
 !KOREAWAVE
 yahoo.co.jp##a[data-cl-params*="clc_korea"]
 
-!ニューズウィーク日本版
-yahoo.co.jp##a[data-cl-params*="newsweek"]
+!ブラジル日報
+yahoo.co.jp##a[data-cl-params*="-nikkey"]
 
-!PHPオンライン
-yahoo.co.jp##a[data-cl-params*="php_s"]
-yahoo.co.jp##a[data-cl-params*="php_t"]
-yahoo.co.jp##a[data-cl-params*="phpfamily"]
-yahoo.co.jp##a[data-cl-params*="-voice"]
+!マカオ新聞
+yahoo.co.jp##a[data-cl-params*="-macau"]
+
+!中央社フォーカス台湾
+yahoo.co.jp##a[data-cl-params*="-ftaiwan"]
 
 !ネットショップ担当者フォーラム
 yahoo.co.jp##a[data-cl-params*="netshop"]
@@ -1847,38 +1878,8 @@ yahoo.co.jp##a[data-cl-params*="netshop"]
 !Web担当者フォーラム
 yahoo.co.jp##a[data-cl-params*="webtan"]
 
-!集英社オンライン
-yahoo.co.jp##a[data-cl-params*="shueisha"]
-
-!LITALICO発達ナビ
-yahoo.co.jp##a[data-cl-params*="-tl-h-navi"]
-
-!Medical DOC
-yahoo.co.jp##a[data-cl-params*="-medicald"]
-
-!選挙ドットコム
-yahoo.co.jp##a[data-cl-params*="-senkyocom"]
-
 !高校生新聞オンライン
 yahoo.co.jp##a[data-cl-params*="-koukousei"]
-
-!朝日新聞SDGs Action
-yahoo.co.jp##a[data-cl-params*="asahisdgs"]
-
-!朝日新聞デジタルマガジン　& [and]
-yahoo.co.jp##a[data-cl-params*="asahiand"]
-
-!月刊糖尿病ライフ さかえ
-yahoo.co.jp##a[data-cl-params*="-sakae"]
-
-!読売新聞(ヨミドクター）
-yahoo.co.jp##a[data-cl-params*="yomidr"]
-
-!「みんなの介護」ニュース
-yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
-
-!医療介護CBニュース
-yahoo.co.jp##a[data-cl-params*="-cbn"]
 
 !リクナビNEXTジャーナル
 yahoo.co.jp##a[data-cl-params*="rikunabin"]
@@ -1894,6 +1895,40 @@ yahoo.co.jp##a[data-cl-params*="-tl-edunavi"]
 
 !note
 yahoo.co.jp##a[data-cl-params*="-note"]
+
+!教員養成セミナー
+yahoo.co.jp##a[data-cl-params*="-kyousemi"]
+
+!教育とICT
+yahoo.co.jp##a[data-cl-params*="-kyoikuict"]
+
+!東洋経済education×ICT
+yahoo.co.jp##a[data-cl-params*="-toyoedu"]
+
+!ベネッセ教育情報
+yahoo.co.jp##a[data-cl-params*="-benesseks"]
+
+!-------------------------------------------
+
+!医療
+
+!LITALICO発達ナビ
+yahoo.co.jp##a[data-cl-params*="-tl-h-navi"]
+
+!Medical DOC
+yahoo.co.jp##a[data-cl-params*="-medicald"]
+
+!月刊糖尿病ライフ さかえ
+yahoo.co.jp##a[data-cl-params*="-sakae"]
+
+!読売新聞(ヨミドクター）
+yahoo.co.jp##a[data-cl-params*="yomidr"]
+
+!「みんなの介護」ニュース
+yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
+
+!医療介護CBニュース
+yahoo.co.jp##a[data-cl-params*="-cbn"]
 
 !-------------------------------------------
 
@@ -2558,9 +2593,6 @@ m.yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと
 !福島民友新聞
 !yahoo.co.jp##a[data-cl-params*="-minyu"]
 
-!ブラジル日報
-!yahoo.co.jp##a[data-cl-params*="-nikkey"]
-
 !報道写真ギャラリーBEHIND
 !yahoo.co.jp##a[data-cl-params*="-behindp"]
 
@@ -2575,9 +2607,6 @@ m.yahoo.co.jp#$?#a:contains(/スカッと|モヤっと|バシッと|ズバッと
 
 !毎日新聞(たぶん干渉する)
 !yahoo.co.jp##a[data-cl-params*="-mai"]
-
-!マカオ新聞
-!yahoo.co.jp##a[data-cl-params*="-macau"]
 
 !みなと新聞
 !yahoo.co.jp##a[data-cl-params*="-minatos"]
