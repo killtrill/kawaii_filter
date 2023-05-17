@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230514
+! Version: 20230517
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1076,6 +1076,9 @@ yahoo.co.jp##a[data-cl-params*="-ikosumo"]
 !肥後ジャーナル
 yahoo.co.jp##a[data-cl-params*="higojournal"]
 
+!オーエス OITA SPORTS
+yahoo.co.jp##a[data-cl-params*="-tl-osoita"]
+
 !*******************************************
 
 !趣味系サイト
@@ -1124,6 +1127,9 @@ yahoo.co.jp##a[data-cl-params*="tetsudo_ch"]
 
 !Aviation Wire
 yahoo.co.jp##a[data-cl-params*="awire"]
+
+!旅行読売
+yahoo.co.jp##a[data-cl-params*="-ryokoyom"]
 
 !sorae 宇宙へのポータルサイト
 yahoo.co.jp##a[data-cl-params*="sorae_jp"]
@@ -1907,6 +1913,9 @@ yahoo.co.jp##a[data-cl-params*="-toyoedu"]
 
 !ベネッセ教育情報
 yahoo.co.jp##a[data-cl-params*="-benesseks"]
+
+!ツギノジダイ
+yahoo.co.jp##a[data-cl-params*="-tsugino"]
 
 !-------------------------------------------
 
