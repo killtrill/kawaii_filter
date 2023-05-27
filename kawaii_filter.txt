@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230520
+! Version: 20230527
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -597,6 +597,9 @@ yahoo.co.jp##a[data-cl-params*="-floor"]
 
 !ひとシネマ
 yahoo.co.jp##a[data-cl-params*="-hitoc"]
+
+!韓国テレビドラマガイド
+yahoo.co.jp##a[data-cl-params*="-ktvguide"]
 
 !ラジオ
 !文化放送
