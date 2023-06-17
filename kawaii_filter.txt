@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230616
+! Version: 20230617
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1713,6 +1713,10 @@ yahoo.co.jp##a[data-cl-params*="-mikihouse"]
 
 !講談社 JOSEISHI.NET
 yahoo.co.jp##a[data-cl-params*="-kjn"]
+
+!Oggi.jp
+yahoo.co.jp##a[data-cl-params*="-oggi"]
+
 
 !*******************************************
 
