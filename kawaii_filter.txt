@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230701
+! Version: 20230707
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1618,6 +1618,12 @@ yahoo.co.jp##a[data-cl-params*="gamespav"]
 
 !Febri
 yahoo.co.jp##a[data-cl-params*="-tl-febri"]
+
+!GAME Watch
+yahoo.co.jp##a[data-cl-params*="-impgmw"]
+
+!HOBBY Watch
+yahoo.co.jp##a[data-cl-params*="-imphbw"]
 
 !-------------------------------------------
 
