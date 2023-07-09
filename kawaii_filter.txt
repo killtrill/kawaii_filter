@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230707
+! Version: 20230709
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -610,6 +610,9 @@ yahoo.co.jp##a[data-cl-params*="-enterstage"]
 !コモレバ
 yahoo.co.jp##a[data-cl-params*="-comoleva"]
 
+!双葉社THECHANGE
+yahoo.co.jp##a[data-cl-params*="-fchange"]
+
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
@@ -714,6 +717,9 @@ yahoo.co.jp##a[data-cl-params*="parkblog"]
 
 !THE EV TIMES
 yahoo.co.jp##a[data-cl-params*="-evtimes"]
+
+!Webikeプラス
+yahoo.co.jp##a[data-cl-params*="-wbikeplus"]
 
 
 !*******************************************
@@ -1632,6 +1638,15 @@ yahoo.co.jp##a[data-cl-params*="-imphbw"]
 !Impress watch
 yahoo.co.jp##a[data-cl-params*="impress"]
 
+!PCWatch
+yahoo.co.jp##a[data-cl-params*="-imppcw"]
+
+!ケータイWatch
+yahoo.co.jp##a[data-cl-params*="-impktw"]
+
+!AVWatch
+yahoo.co.jp##a[data-cl-params*="-impavw"]
+
 !ITmedia ビジネスオンライン
 yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
 
@@ -1673,12 +1688,6 @@ yahoo.co.jp##a[data-cl-params*="-tl-drone"]
 
 !ScanNetSecurity
 yahoo.co.jp##a[data-cl-params*="-scan"]
-
-!ケータイWatch
-yahoo.co.jp##a[data-cl-params*="-impktw"]
-
-!AVWatch
-yahoo.co.jp##a[data-cl-params*="-impavw"]
 
 !-------------------------------------------
 
