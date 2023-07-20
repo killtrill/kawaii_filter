@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230709
+! Version: 20230720
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -720,6 +720,9 @@ yahoo.co.jp##a[data-cl-params*="-evtimes"]
 
 !Webikeプラス
 yahoo.co.jp##a[data-cl-params*="-wbikeplus"]
+
+!Mobility Story
+yahoo.co.jp##a[data-cl-params*="-mobistory"]
 
 
 !*******************************************
@@ -1463,6 +1466,9 @@ yahoo.co.jp##a[data-cl-params*="spnaviow"]
 
 !マクール(ボートレース）
 yahoo.co.jp##a[data-cl-params*="macour"]
+
+!競馬ラボ
+yahoo.co.jp##a[data-cl-params*="-keibalab"]
 
 !*******************************************
 
