@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230723
+! Version: 20230919
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -15,7 +15,7 @@
 
 !おおまかな更新履歴
 
-!2023.5~6
+!2023.5~9
 !漏れていたものを追加・微修正のみ
 
 !2023.4
@@ -613,6 +613,9 @@ yahoo.co.jp##a[data-cl-params*="-comoleva"]
 !双葉社THECHANGE
 yahoo.co.jp##a[data-cl-params*="-fchange"]
 
+!POPEYE
+yahoo.co.jp##a[data-cl-params*="-popeye"]
+
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
@@ -726,6 +729,9 @@ yahoo.co.jp##a[data-cl-params*="-mobistory"]
 
 !CarWatch
 yahoo.co.jp##a[data-cl-params*="-impcaw"]
+
+!スマートモビリティJP
+yahoo.co.jp##a[data-cl-params*="-smamobijp"]
 
 
 !*******************************************
@@ -1056,6 +1062,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 !ALCO宇治・城陽
 yahoo.co.jp##a[data-cl-params*="-tl-alco"]
 
+!KYOTO LIFE
+yahoo.co.jp##a[data-cl-params*="-tl-kyotolife"]
+
 !ラジトピ ラジオ関西トピックス
 yahoo.co.jp##a[data-cl-params*="-raditopi"]
 
@@ -1073,6 +1082,9 @@ yahoo.co.jp##a[data-cl-params*="narakko"]
 
 !神戸ジャーナル
 yahoo.co.jp##a[data-cl-params*="kobe_journal"]
+
+!宝塚コミパ通信
+yahoo.co.jp##a[data-cl-params*="-tl-comipa_t"]
 
 !兵庫はりまエリアの地域情報サイト　TANOSU
 yahoo.co.jp##a[data-cl-params*="-tl-tanosu"]
@@ -1097,6 +1109,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-na-na"]
 
 !北九州ノコト
 yahoo.co.jp##a[data-cl-params*="kitaqnokoto"]
+
+!福岡・九州ジモタイムズWish
+yahoo.co.jp##a[data-cl-params*="-tl-wish"]
 
 !webてんじん
 yahoo.co.jp##a[data-cl-params*="webtenjin"]
@@ -1248,6 +1263,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-nhkpdmag"]
 
 !ソトラバ
 yahoo.co.jp##a[data-cl-params*="-sotolover"]
+
+!NewsCrunch WaniBooks
+yahoo.co.jp##a[data-cl-params*="-ncwani"]
 
 !*******************************************
 
@@ -1653,11 +1671,26 @@ yahoo.co.jp##a[data-cl-params*="impress"]
 !PCWatch
 yahoo.co.jp##a[data-cl-params*="-imppcw"]
 
+!AKIBA PC Holtline
+yahoo.co.jp##a[data-cl-params*="-impahw"]
+
 !ケータイWatch
 yahoo.co.jp##a[data-cl-params*="-impktw"]
 
 !AVWatch
 yahoo.co.jp##a[data-cl-params*="-impavw"]
+
+!家電Watch
+yahoo.co.jp##a[data-cl-params*="-impkdw"]
+
+!インターネットWatch
+yahoo.co.jp##a[data-cl-params*="-impiw"]
+
+!クラウドWatch
+yahoo.co.jp##a[data-cl-params*="-impclw"]
+
+!こどもとIT（インプレス）
+yahoo.co.jp##a[data-cl-params*="-impkitw"]
 
 !ITmedia ビジネスオンライン
 yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
