@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20230928
+! Version: 20231007
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -409,6 +409,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-libwork"]
 
 !読みテレ～読んで楽しいテレビの話
 yahoo.co.jp##a[data-cl-params*="yomitere"]
+
+!LASISA
+yahoo.co.jp##a[data-cl-params*="lasisa"]
 
 !*******************************************
 
