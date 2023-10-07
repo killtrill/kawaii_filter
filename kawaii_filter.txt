@@ -1017,6 +1017,9 @@ yahoo.co.jp##a[data-cl-params*="tartbeat"]
 !歌舞伎町文化新聞
 yahoo.co.jp##a[data-cl-params*="-tl-kbs"]
 
+!いいね立川
+yahoo.co.jp##a[data-cl-params*="-tl-iinetckw"]
+
 !いろはめぐり
 yahoo.co.jp##a[data-cl-params*="-tl-irohameguri"]
 
@@ -1695,6 +1698,9 @@ yahoo.co.jp##a[data-cl-params*="-impiw"]
 !クラウドWatch
 yahoo.co.jp##a[data-cl-params*="-impclw"]
 
+!デジカメWatch
+yahoo.co.jp##a[data-cl-params*="-impdcw"]
+
 !こどもとIT（インプレス）
 yahoo.co.jp##a[data-cl-params*="-impkitw"]
 
@@ -1800,6 +1806,9 @@ yahoo.co.jp##a[data-cl-params*="-kjn"]
 
 !Oggi.jp
 yahoo.co.jp##a[data-cl-params*="-oggi"]
+
+!エルザ
+yahoo.co.jp##a[data-cl-params*="-eltha"]
 
 
 !*******************************************
