@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231007
+! Version: 20231020
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -622,6 +622,9 @@ yahoo.co.jp##a[data-cl-params*="-popeye"]
 !Danmee
 yahoo.co.jp##a[data-cl-params*="-tl-danmee"]
 
+!Ciateシアター
+yahoo.co.jp##a[data-cl-params*="-tl-viviane"]
+
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
@@ -1070,6 +1073,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 
 !ALCO宇治・城陽
 yahoo.co.jp##a[data-cl-params*="-tl-alco"]
+
+!デジスタイル京都
+yahoo.co.jp##a[data-cl-params*="-tl-taihei-dskyoto"]
 
 !KYOTO LIFE
 yahoo.co.jp##a[data-cl-params*="-tl-kyotolife"]
@@ -1669,6 +1675,9 @@ yahoo.co.jp##a[data-cl-params*="-impgmw"]
 
 !HOBBY Watch
 yahoo.co.jp##a[data-cl-params*="-imphbw"]
+
+!オタク総研
+yahoo.co.jp##a[data-cl-params*="-otakulab"]
 
 !-------------------------------------------
 
