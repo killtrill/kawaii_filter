@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231020
+! Version: 20231103
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -15,7 +15,7 @@
 
 !おおまかな更新履歴
 
-!2023.5~9
+!2023.5~11
 !漏れていたものを追加・微修正のみ
 
 !2023.4
@@ -969,6 +969,9 @@ yahoo.co.jp##a[data-cl-params*="days"]
 !北海道Likers
 yahoo.co.jp##a[data-cl-params*="hokkaidolikers"]
 
+!porocco
+yahoo.co.jp##a[data-cl-params*="-tl-porocco"]
+
 !SODANE
 yahoo.co.jp##a[data-cl-params*="-sodane"]
 
@@ -1098,6 +1101,9 @@ yahoo.co.jp##a[data-cl-params*="narakko"]
 !神戸ジャーナル
 yahoo.co.jp##a[data-cl-params*="kobe_journal"]
 
+!KOBERU
+yahoo.co.jp##a[data-cl-params*="-tl-koberu"]
+
 !宝塚コミパ通信
 yahoo.co.jp##a[data-cl-params*="-tl-comipa_t"]
 
@@ -1106,6 +1112,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-tanosu"]
 
 !ニシマグ(西宮）
 yahoo.co.jp##a[data-cl-params*="-tl-nishimagcom1"]
+
+!高知県まとめサイト　高知家の〇〇
+yahoo.co.jp##a[data-cl-params*="-tl-kochike"]
 
 !倉敷とことこ
 yahoo.co.jp##a[data-cl-params*="kuratoco"]
@@ -1281,6 +1290,9 @@ yahoo.co.jp##a[data-cl-params*="-sotolover"]
 
 !NewsCrunch WaniBooks
 yahoo.co.jp##a[data-cl-params*="-ncwani"]
+
+!響hibi-ki
+yahoo.co.jp##a[data-cl-params*="-tl-hibi-ki"]
 
 !*******************************************
 
