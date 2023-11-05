@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231103
+! Version: 20231105
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -625,6 +625,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-danmee"]
 !Ciateシアター
 yahoo.co.jp##a[data-cl-params*="-tl-viviane"]
 
+!The Hollywood Reporter Japan
+yahoo.co.jp##a[data-cl-params*="thrjapan"]
+
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
@@ -956,6 +959,9 @@ yahoo.co.jp##a[data-cl-params*="-impgrw"]
 
 !トラベルWatch
 yahoo.co.jp##a[data-cl-params*="-imptrw"]
+
+!ufu
+yahoo.co.jp##a[data-cl-params*="-ufu"]
 
 !*******************************************
 
@@ -1293,6 +1299,9 @@ yahoo.co.jp##a[data-cl-params*="-ncwani"]
 
 !響hibi-ki
 yahoo.co.jp##a[data-cl-params*="-tl-hibi-ki"]
+
+!じゃらん
+yahoo.co.jp##a[data-cl-params*="-jalan"]
 
 !*******************************************
 
@@ -1863,7 +1872,7 @@ yahoo.co.jp##a[data-cl-params*="bunshun"]
 !FRIDAY
 yahoo.co.jp##a[data-cl-params*="friday"]
 
-!NEWSポストセブン
+!NEWSポストセブン・介護ポストセブン
 yahoo.co.jp##a[data-cl-params*="pseven"]
 
 !8760 by postseven
@@ -2112,7 +2121,7 @@ yahoo.co.jp##a[data-cl-params*="nksports"]
 !サンケイスポーツ
 yahoo.co.jp##a[data-cl-params*="sanspo"]
 
-!西日本スポーツ　西スポWeb OTTO
+!西日本スポーツ　西スポWeb OTTO　西スポレースサイト
 yahoo.co.jp##a[data-cl-params*="nishispo"]
 
 !道新スポーツ
