@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231105
+! Version: 20231108
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1080,6 +1080,9 @@ yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
 !伊賀タウン情報You
 yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
 
+!YOUよっかいち
+yahoo.co.jp##a[data-cl-params*="-tl-you-yokkaichi"]
+
 !ALCO宇治・城陽
 yahoo.co.jp##a[data-cl-params*="-tl-alco"]
 
@@ -1699,6 +1702,9 @@ yahoo.co.jp##a[data-cl-params*="-imphbw"]
 
 !オタク総研
 yahoo.co.jp##a[data-cl-params*="-otakulab"]
+
+!PASH PLUS
+yahoo.co.jp##a[data-cl-params*="-tl-pashplus"]
 
 !-------------------------------------------
 
