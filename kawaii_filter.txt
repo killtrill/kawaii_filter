@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231203
+! Version: 20231218
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -15,7 +15,7 @@
 
 !おおまかな更新履歴
 
-!2023.5~11
+!2023.5~12
 !漏れていたものを追加・微修正のみ
 
 !2023.4
@@ -1071,14 +1071,20 @@ yahoo.co.jp##a[data-cl-params*="-tl-weekend-kanazawa"]
 !市民タイムスWEB(長野のあたり）
 yahoo.co.jp##a[data-cl-params*="shimint"]
 
+!沼津つーしん
+yahoo.co.jp##a[data-cl-params*="-tl-numa2"]
+
 !Life Designs(名古屋のあたり)
-yahoo.co.jp##a[data-cl-params*="Life_Designs"]
+yahoo.co.jp##a[data-cl-params*="-tl-Life_Designs"]
 
 !ナゴレコ
-yahoo.co.jp##a[data-cl-params*="nagoreco"]
+yahoo.co.jp##a[data-cl-params*="-tl-nagoreco"]
 
 !NAGOYA.
-yahoo.co.jp##a[data-cl-params*="ryukohasshin"]
+yahoo.co.jp##a[data-cl-params*="-tl-ryukohasshin"]
+
+!小牧つーしん
+yahoo.co.jp##a[data-cl-params*="-tl-komakitsushin"]
 
 !伊賀タウン情報You
 yahoo.co.jp##a[data-cl-params*="-tl-tjyou"]
@@ -1095,7 +1101,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-taihei-dskyoto"]
 !KYOTO LIFE
 yahoo.co.jp##a[data-cl-params*="-tl-kyotolife"]
 
-!KYOTO LIFE
+!M KYOTO by leaf
 yahoo.co.jp##a[data-cl-params*="-tl-mkyotobyleaf"]
 
 !ラジトピ ラジオ関西トピックス
@@ -1103,6 +1109,12 @@ yahoo.co.jp##a[data-cl-params*="-raditopi"]
 
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
+
+!枚方つーしん
+yahoo.co.jp##a[data-cl-params*="-tl-hirakata"]
+
+!寝屋川つーしん
+yahoo.co.jp##a[data-cl-params*="-tl-neyagawa"]
 
 !OASAKA STYLE
 yahoo.co.jp##a[data-cl-params*="-tl-osakastyle"]
@@ -1130,6 +1142,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-nishimagcom1"]
 
 !高知県まとめサイト　高知家の〇〇
 yahoo.co.jp##a[data-cl-params*="-tl-kochike"]
+
+!倉敷とことこ
+yahoo.co.jp##a[data-cl-params*="-tl-okayamakanko"]
 
 !倉敷とことこ
 yahoo.co.jp##a[data-cl-params*="kuratoco"]
@@ -1926,6 +1941,9 @@ yahoo.co.jp##a[data-cl-params*="-sportal"]
 
 !中央公論
 yahoo.co.jp##a[data-cl-params*="chuokou"]
+
+!中央公論
+yahoo.co.jp##a[data-cl-params*="onenews"]
 
 !*******************************************
 
