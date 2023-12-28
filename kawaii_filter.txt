@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20231218
+! Version: 20231228
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -966,6 +966,9 @@ yahoo.co.jp##a[data-cl-params*="-imptrw"]
 !ufu
 yahoo.co.jp##a[data-cl-params*="-ufu"]
 
+!旅サラダプラス
+yahoo.co.jp##a[data-cl-params*="-tl-tsplus"]
+
 !*******************************************
 
 !地域ごとの記事
@@ -1071,6 +1074,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-weekend-kanazawa"]
 !市民タイムスWEB(長野のあたり）
 yahoo.co.jp##a[data-cl-params*="shimint"]
 
+!Web-Komachi(長野）
+yahoo.co.jp##a[data-cl-params*="-tl-komachi"]
+
 !沼津つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-numa2"]
 
@@ -1081,7 +1087,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-Life_Designs"]
 yahoo.co.jp##a[data-cl-params*="-tl-nagoreco"]
 
 !NAGOYA.
-yahoo.co.jp##a[data-cl-params*="-tl-ryukohasshin"]
+yahoo.co.jp##a[data-cl-params*="-lm-ryukohasshin"]
 
 !小牧つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-komakitsushin"]
@@ -2037,6 +2043,12 @@ yahoo.co.jp##a[data-cl-params*="-senkyocom"]
 
 !政治山
 yahoo.co.jp##a[data-cl-params*="-seijiyama"]
+
+!新しい働き方メディア I am
+yahoo.co.jp##a[data-cl-params*="-tl-iam"]
+
+!まんがクレヨンしんちゃん.com
+yahoo.co.jp##a[data-cl-params*="-tl-shinchan"]
 
 !-------------------------------------------
 
