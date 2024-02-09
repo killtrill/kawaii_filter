@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240206
+! Version: 20240209
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -123,6 +123,15 @@ yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgr
 
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
+
+!4MEEE
+yahoo.co.jp##a[data-cl-params*="tl-4meee"]
+
+!4yuuu
+yahoo.co.jp##a[data-cl-params*="tl-4yuuu"]
+
+!ピンズバWeb
+yahoo.co.jp##a[data-cl-params*="pinzuba"]
 
 !バズフィード　表記揺れかわいくない
 yahoo.co.jp##a[data-cl-params*="bfj"]
