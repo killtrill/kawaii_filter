@@ -1004,6 +1004,9 @@ yahoo.co.jp##a[data-cl-params*="sitakke"]
 !Things
 yahoo.co.jp##a[data-cl-params*="-things"]
 
+!poroco
+yahoo.co.jp##a[data-cl-params*="-tl-poroco"]
+
 !かまいし情報ポータルサイト～緑とらんす(えんとらんすと読ませたいらしい）
 yahoo.co.jp##a[data-cl-params*="-tl-entrance"]
 
@@ -1504,6 +1507,10 @@ yahoo.co.jp##a[data-cl-params*="tptj"]
 
 !NBA Rakuten
 yahoo.co.jp##a[data-cl-params*="nrakuten"]
+
+!Basketball News 2for1
+yahoo.co.jp##a[data-cl-params*="bballntfo"]
+
 
 !*******************************************
 
@@ -2169,6 +2176,9 @@ yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
 
 !医療介護CBニュース
 yahoo.co.jp##a[data-cl-params*="-cbn"]
+
+!Medi Palette
+yahoo.co.jp##a[data-cl-params*="-tl-medipalette"]
 
 !-------------------------------------------
 
