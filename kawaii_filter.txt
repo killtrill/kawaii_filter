@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240209
+! Version: 20240325
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -757,6 +757,8 @@ yahoo.co.jp##a[data-cl-params*="-impcaw"]
 !スマートモビリティJP
 yahoo.co.jp##a[data-cl-params*="-smamobijp"]
 
+!PARCFERME
+yahoo.co.jp##a[data-cl-params*="-parcferme"]
 
 !*******************************************
 
@@ -1092,6 +1094,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-komachi"]
 !沼津つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-numa2"]
 
+!テレしずwasabee
+yahoo.co.jp##a[data-cl-params*="-tl-wasabee"]
+
 !Life Designs(名古屋のあたり)
 yahoo.co.jp##a[data-cl-params*="-tl-Life_Designs"]
 
@@ -1184,6 +1189,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-na-na"]
 
 !北九州ノコト
 yahoo.co.jp##a[data-cl-params*="kitaqnokoto"]
+
+!キタキュースタイル
+yahoo.co.jp##a[data-cl-params*="-tl-kitaq-style"]
 
 !福岡・九州ジモタイムズWish
 yahoo.co.jp##a[data-cl-params*="-tl-wish"]
@@ -1350,6 +1358,10 @@ yahoo.co.jp##a[data-cl-params*="-jalan"]
 
 !鉄道ホビタス
 yahoo.co.jp##a[data-cl-params*="-tl-rhobidas"]
+
+!あとなびマガジン
+yahoo.co.jp##a[data-cl-params*="-tl-atnavi"]
+
 
 !*******************************************
 
@@ -1890,6 +1902,10 @@ yahoo.co.jp##a[data-cl-params*="-oggi"]
 
 !エルザ
 yahoo.co.jp##a[data-cl-params*="-eltha"]
+
+!yoi
+yahoo.co.jp##a[data-cl-params*="-yoi"]
+
 
 
 !*******************************************
