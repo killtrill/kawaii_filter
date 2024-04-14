@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240412
+! Version: 20240414
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -16,7 +16,7 @@
 !おおまかな更新履歴
 
 !2023.4
-!first-all-digest修正
+!first-all-digest修正、フォロー中除去
 
 !2023.5~12
 !漏れていたものを追加・微修正のみ
@@ -64,6 +64,9 @@ yahoo.co.jp##a[href*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 yahoo.co.jp##a[data-cl-params*="promo"]
+
+!Yahooトップ　フォロー中　全除去
+yahoo.co.jp##div[class^="FollowCarousel_FollowCarousel__3auIV"]
 
 !Yahooトップ「ニュース」タブ　エンタメ記事全除去
 yahoo.co.jp##article[data-ual*="first-news-entertainment"]
@@ -1105,6 +1108,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-numa2"]
 !テレしずwasabee
 yahoo.co.jp##a[data-cl-params*="-tl-wasabee"]
 
+!アットエス
+yahoo.co.jp##a[data-cl-params*="-tl-ates"]
+
 !Life Designs(名古屋のあたり)
 yahoo.co.jp##a[data-cl-params*="-tl-Life_Designs"]
 
@@ -1230,6 +1236,9 @@ yahoo.co.jp##a[data-cl-params*="higojournal"]
 
 !オーエス OITA SPORTS
 yahoo.co.jp##a[data-cl-params*="-tl-osoita"]
+
+!LOG OITA
+yahoo.co.jp##a[data-cl-params*="-tl-logoita"]
 
 !*******************************************
 
