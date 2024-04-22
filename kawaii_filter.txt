@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240414
+! Version: 20240422
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -17,6 +17,7 @@
 
 !2023.4
 !first-all-digest修正、フォロー中除去
+!自称エキスパートの記事除去
 
 !2023.5~12
 !漏れていたものを追加・微修正のみ
@@ -101,6 +102,9 @@ yahoo.co.jp##a[data-cl-params*="ynewstalk"]
 
 !Yahooニュースオリジナル特集
 yahoo.co.jp##a[data-cl-params*="ytokushu"]
+
+!Yahooエキスパート
+yahoo.co.jp##a[data-cl-params*=";rccid:expert_"]
 
 !ヤフーLINE共同企画
 yahoo.co.jp##a[href*="search311.jp"]
