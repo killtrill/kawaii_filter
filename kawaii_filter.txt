@@ -1417,7 +1417,7 @@ yahoo.co.jp##a[data-cl-params*="-goal"]
 yahoo.co.jp##a[data-cl-params*="-sdigestw"]
 
 !サッカー集約ルール
-yahoo.co.jp##a[data-cl-params*="-soccer"]
+yahoo.co.jp##a[data-cl-params*="soccer"]
 !FOOTBALL ZONE
 !yahoo.co.jp##a[data-cl-params*="-soccermzw"]
 !超サッカー
@@ -1452,7 +1452,7 @@ yahoo.co.jp##a[data-cl-params*="-fsal"]
 !野球
 
 !スポーツナビ
-yahoo.co.jp##a[data-cl-params*="-sports_spnavi_npb-npb-"]
+yahoo.co.jp##a[data-cl-params*="sports_spnavi_npb-npb-"]
 
 !野球集約ルール
 yahoo.co.jp##a[data-cl-params*="-baseball"]
