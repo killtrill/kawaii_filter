@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240423
+! Version: 20240427
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -15,9 +15,10 @@
 
 !おおまかな更新履歴
 
-!2023.4
+!2024.4
 !first-all-digest修正、フォロー中除去
 !自称エキスパートの記事除去
+!誤爆防止に関する調整
 
 !2023.5~12
 !漏れていたものを追加・微修正のみ
@@ -135,308 +136,308 @@ yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgr
 !ごみサイト
 
 !ママスタセレクト
-yahoo.co.jp##a[data-cl-params*="mamasta"]
+yahoo.co.jp##a[data-cl-params*="-mamasta"]
 
 !4MEEE
-yahoo.co.jp##a[data-cl-params*="tl-4meee"]
+yahoo.co.jp##a[data-cl-params*="-tl-4meee"]
 
 !4yuuu
-yahoo.co.jp##a[data-cl-params*="tl-4yuuu"]
+yahoo.co.jp##a[data-cl-params*="-tl-4yuuu"]
 
 !ピンズバWeb
-yahoo.co.jp##a[data-cl-params*="pinzuba"]
+yahoo.co.jp##a[data-cl-params*="-pinzuba"]
 
 !バズフィード　表記揺れかわいくない
-yahoo.co.jp##a[data-cl-params*="bfj"]
-yahoo.co.jp##a[data-cl-params*="buzzfeed"]
+yahoo.co.jp##a[data-cl-params*="-bfj"]
+yahoo.co.jp##a[data-cl-params*="-buzzfeed"]
 
 !ABEMA TIMES
-yahoo.co.jp##a[data-cl-params*="abema"]
+yahoo.co.jp##a[data-cl-params*="-abema"]
 
 !Ameba News
-yahoo.co.jp##a[data-cl-params*="ameba"]
+yahoo.co.jp##a[data-cl-params*="-ameba"]
 
 !ギズモード
-yahoo.co.jp##a[data-cl-params*="giz"]
+yahoo.co.jp##a[data-cl-params*="-giz"]
 
 !BUSINESS INSIDER JAPAN
-yahoo.co.jp##a[data-cl-params*="binsider"]
+yahoo.co.jp##a[data-cl-params*="-binsider"]
 
 !ウレぴあ総研
-yahoo.co.jp##a[data-cl-params*="urepia"]
+yahoo.co.jp##a[data-cl-params*="-urepia"]
 
 !サンキュ！
-yahoo.co.jp##a[data-cl-params*="thankyu"]
+yahoo.co.jp##a[data-cl-params*="-thankyu"]
 
 !あるじゃん
-yahoo.co.jp##a[data-cl-params*="argent"]
+yahoo.co.jp##a[data-cl-params*="-argent"]
 
 !AllAbout
-yahoo.co.jp##a[data-cl-params*="nallabout"]
+yahoo.co.jp##a[data-cl-params*="-nallabout"]
 
 !クーリエ・ジャポン
-yahoo.co.jp##a[data-cl-params*="courrier"]
+yahoo.co.jp##a[data-cl-params*="-courrier"]
 
 !Ｊタウンネット
-yahoo.co.jp##a[data-cl-params*="jtown"]
+yahoo.co.jp##a[data-cl-params*="-jtown"]
 
 !ソトコトオンライン
-yahoo.co.jp##a[data-cl-params*="sotokoto"]
+yahoo.co.jp##a[data-cl-params*="-sotokoto"]
 
 !オトナンサー
-yahoo.co.jp##a[data-cl-params*="otonans"]
+yahoo.co.jp##a[data-cl-params*="-otonans"]
 
 !withonline
-yahoo.co.jp##a[data-cl-params*="withonline"]
+yahoo.co.jp##a[data-cl-params*="-withonline"]
 
 !まいどなニュース
-yahoo.co.jp##a[data-cl-params*="maidonans"]
+yahoo.co.jp##a[data-cl-params*="-maidonans"]
 
 !よろず～ニュース
-yahoo.co.jp##a[data-cl-params*="yorozuns"]
+yahoo.co.jp##a[data-cl-params*="-yorozuns"]
 
 !ロケットニュース24
-yahoo.co.jp##a[data-cl-params*="rocketnews24"]
+yahoo.co.jp##a[data-cl-params*="-rocketnews24"]
 
 !サライ.jp
-yahoo.co.jp##a[data-cl-params*="seraijp"]
+yahoo.co.jp##a[data-cl-params*="-seraijp"]
 
 !webマガジンmi-mollet
-yahoo.co.jp##a[data-cl-params*="mimollet"]
+yahoo.co.jp##a[data-cl-params*="-mimollet"]
 
 !magacol
-yahoo.co.jp##a[data-cl-params*="magacol"]
+yahoo.co.jp##a[data-cl-params*="-magacol"]
 
 !kufura
-yahoo.co.jp##a[data-cl-params*="kufura"]
+yahoo.co.jp##a[data-cl-params*="-kufura"]
 
 !ヨガジャーナルオンライン
-yahoo.co.jp##a[data-cl-params*="yogajol"]
+yahoo.co.jp##a[data-cl-params*="-yogajol"]
 
 !Lmagajp
-yahoo.co.jp##a[data-cl-params*="lmaga"]
+yahoo.co.jp##a[data-cl-params*="-lmaga"]
 
 !ハルメク365
-yahoo.co.jp##a[data-cl-params*="halmek"]
+yahoo.co.jp##a[data-cl-params*="-halmek"]
 
 !LIMO
-yahoo.co.jp##a[data-cl-params*="toushin"]
+yahoo.co.jp##a[data-cl-params*="-toushin"]
 
 !ライフハッカー・ジャパン
-yahoo.co.jp##a[data-cl-params*="lifeh"]
+yahoo.co.jp##a[data-cl-params*="-lifeh"]
 
 !anna
-yahoo.co.jp##a[data-cl-params*="anna"]
+yahoo.co.jp##a[data-cl-params*="-anna"]
 
 !BCN
-yahoo.co.jp##a[data-cl-params*="bcn"]
+yahoo.co.jp##a[data-cl-params*="-bcn"]
 
 !25ansヴァンサンカン
-yahoo.co.jp##a[data-cl-params*="vingtcinq"]
+yahoo.co.jp##a[data-cl-params*="-vingtcinq"]
 
 !25ansウエディング
-!yahoo.co.jp##a[data-cl-params*="vingtcinqw"]
+!yahoo.co.jp##a[data-cl-params*="-vingtcinqw"]
 
 !毎日キレイ
-yahoo.co.jp##a[data-cl-params*="maikirei"]
+yahoo.co.jp##a[data-cl-params*="-maikirei"]
 
 !ランキングー
-yahoo.co.jp##a[data-cl-params*="rankingoo"]
+yahoo.co.jp##a[data-cl-params*="-rankingoo"]
 
 !Techinsight
-yahoo.co.jp##a[data-cl-params*="techinq"]
+yahoo.co.jp##a[data-cl-params*="-techinq"]
 
 !プレジデントオンライン
-yahoo.co.jp##a[data-cl-params*="president"]
+yahoo.co.jp##a[data-cl-params*="-president"]
 
 !幻冬舎ゴールドオンライン
-yahoo.co.jp##a[data-cl-params*="gonline"]
+yahoo.co.jp##a[data-cl-params*="-gonline"]
 
 !News Vision
-yahoo.co.jp##a[data-cl-params*="newsvision"]
+yahoo.co.jp##a[data-cl-params*="-newsvision"]
 
 !ENCOUNT
-yahoo.co.jp##a[data-cl-params*="encount"]
+yahoo.co.jp##a[data-cl-params*="-encount"]
 
 !ハフポスト
-yahoo.co.jp##a[data-cl-params*="huffpost"]
+yahoo.co.jp##a[data-cl-params*="-huffpost"]
 
 !THE ANSWER
-yahoo.co.jp##a[data-cl-params*="theanswer"]
+yahoo.co.jp##a[data-cl-params*="-theanswer"]
 
 !J-CASTニュース
-yahoo.co.jp##a[data-cl-params*="jct"] 
+yahoo.co.jp##a[data-cl-params*="-jct"] 
 
 !FORZA STYLE
-yahoo.co.jp##a[data-cl-params*="forza"]
+yahoo.co.jp##a[data-cl-params*="-forza"]
 
 !Hint-Pot
-yahoo.co.jp##a[data-cl-params*="hintpot"]
+yahoo.co.jp##a[data-cl-params*="-hintpot"]
 
 !ファイナンシャルフィールド
-yahoo.co.jp##a[data-cl-params*="ffield"]
+yahoo.co.jp##a[data-cl-params*="-ffield"]
 
 !saita (saitaで指定すると埼玉県にひっかかる）
 yahoo.co.jp##a[data-cl-params*="-saita"]
 
 !ELLEgirl
-yahoo.co.jp##a[data-cl-params*="ellegirl"]
+yahoo.co.jp##a[data-cl-params*="-ellegirl"]
 
 !ELLE DIGITAL
-yahoo.co.jp##a[data-cl-params*="elleonline"]
+yahoo.co.jp##a[data-cl-params*="-elleonline"]
 
 !リセマム
-yahoo.co.jp##a[data-cl-params*="resemom"]
+yahoo.co.jp##a[data-cl-params*="-resemom"]
 
 !弁護士ドットコムニュース
-yahoo.co.jp##a[data-cl-params*="bengocom"]
+yahoo.co.jp##a[data-cl-params*="-bengocom"]
 
 !税理士ドットコム
 yahoo.co.jp##a[data-cl-params*="-zeiricom"]
 
 !LEON.JP
-yahoo.co.jp##a[data-cl-params*="leon"]
+yahoo.co.jp##a[data-cl-params*="-leon"]
 
 !PenOnile
-yahoo.co.jp##a[data-cl-params*="penonline"]
+yahoo.co.jp##a[data-cl-params*="-penonline"]
 
 !OTONASALON
-yahoo.co.jp##a[data-cl-params*="otonas"]
+yahoo.co.jp##a[data-cl-params*="-otonas"]
 
 !セブツー
-yahoo.co.jp##a[data-cl-params*="seventietwo72"]
+yahoo.co.jp##a[data-cl-params*="-seventietwo72"]
 
 !Hello Coaching
-yahoo.co.jp##a[data-cl-params*="coacha"]
+yahoo.co.jp##a[data-cl-params*="-coacha"]
 
 !HONZ
-yahoo.co.jp##a[data-cl-params*="hhonz"]
+yahoo.co.jp##a[data-cl-params*="-hhonz"]
 
 !クウネルサロン
-yahoo.co.jp##a[data-cl-params*="kunel"]
+yahoo.co.jp##a[data-cl-params*="-kunel"]
 
 !創
-yahoo.co.jp##a[data-cl-params*="tsukuru"]
+yahoo.co.jp##a[data-cl-params*="-tsukuru"]
 
 !ウィメンズヘルス
-yahoo.co.jp##a[data-cl-params*="womensh"]
+yahoo.co.jp##a[data-cl-params*="-womensh"]
 
 !東京バーゲンマニア
-yahoo.co.jp##a[data-cl-params*="tkybgmnv"]
+yahoo.co.jp##a[data-cl-params*="-tkybgmnv"]
 
 !charmmy
-yahoo.co.jp##a[data-cl-params*="charmmy"]
+yahoo.co.jp##a[data-cl-params*="-charmmy"]
 
 !CHANTO WEB
-yahoo.co.jp##a[data-cl-params*="chanto"]
+yahoo.co.jp##a[data-cl-params*="-chanto"]
 
 !telling.
-yahoo.co.jp##a[data-cl-params*="telling"]
+yahoo.co.jp##a[data-cl-params*="-telling"]
 
 !GINGER
-yahoo.co.jp##a[data-cl-params*="gingerweb"]
+yahoo.co.jp##a[data-cl-params*="-gingerweb"]
 
 !スマートジャパン
-yahoo.co.jp##a[data-cl-params*="biz_it_sj"]
+yahoo.co.jp##a[data-cl-params*="-biz_it_sj"]
 
 !コクハク
-yahoo.co.jp##a[data-cl-params*="kokuhaku"]
+yahoo.co.jp##a[data-cl-params*="-kokuhaku"]
 
 !sharescafe ONLINE
-yahoo.co.jp##a[data-cl-params*="scafe"]
+yahoo.co.jp##a[data-cl-params*="-scafe"]
 
 !新R25
-yahoo.co.jp##a[data-cl-params*="srnijugo"]
+yahoo.co.jp##a[data-cl-params*="-srnijugo"]
 
 !ソーシャル・イノベーション・ニュース
-yahoo.co.jp##a[data-cl-params*="socialinv"]
+yahoo.co.jp##a[data-cl-params*="-socialinv"]
 
 !なかまぁる
-yahoo.co.jp##a[data-cl-params*="nakamaaru"]
+yahoo.co.jp##a[data-cl-params*="-nakamaaru"]
 
 !mymo
-yahoo.co.jp##a[data-cl-params*="mymo"]
+yahoo.co.jp##a[data-cl-params*="-mymo"]
 
 !男の隠れ家デジタル
-yahoo.co.jp##a[data-cl-params*="kkrgd"]
+yahoo.co.jp##a[data-cl-params*="-kkrgd"]
 
 !ニュースソクラ
-yahoo.co.jp##a[data-cl-params*="socra"]
+yahoo.co.jp##a[data-cl-params*="-socra"]
 
 !オンネラ
-yahoo.co.jp##a[data-cl-params*="onnela"]
+yahoo.co.jp##a[data-cl-params*="-onnela"]
 
 !macaroni
 yahoo.co.jp##a[data-cl-params*="-tl-macaro-ni"]
 
 !Reライフ.net
-yahoo.co.jp##a[data-cl-params*="relifenet"]
+yahoo.co.jp##a[data-cl-params*="-relifenet"]
 
 !ほ・とせなNEWS
-yahoo.co.jp##a[data-cl-params*="hotosena"]
+yahoo.co.jp##a[data-cl-params*="-hotosena"]
 
 !HugKum
-yahoo.co.jp##a[data-cl-params*="hugkum"]
+yahoo.co.jp##a[data-cl-params*="-hugkum"]
 
 !タウンニュース
-yahoo.co.jp##a[data-cl-params*="townnews"]
+yahoo.co.jp##a[data-cl-params*="-townnews"]
 
 !AERA STYLE MAGAZINE
-yahoo.co.jp##a[data-cl-params*="asmasahi"]
+yahoo.co.jp##a[data-cl-params*="-asmasahi"]
 
 !LINE NEWS
-yahoo.co.jp##a[data-cl-params*="linenews"]
+yahoo.co.jp##a[data-cl-params*="-linenews"]
 
 !fumufumu news
-yahoo.co.jp##a[data-cl-params*="fumufumun"]
+yahoo.co.jp##a[data-cl-params*="-fumufumun"]
 
 !大手小町
-yahoo.co.jp##a[data-cl-params*="otekomachi"]
+yahoo.co.jp##a[data-cl-params*="-otekomachi"]
 
 !nippon.com
-yahoo.co.jp##a[data-cl-params*="nipponcom"]
+yahoo.co.jp##a[data-cl-params*="-nipponcom"]
 
 !相続会議
-yahoo.co.jp##a[data-cl-params*="souzoku"]
+yahoo.co.jp##a[data-cl-params*="-souzoku"]
 
 !booksapps
-yahoo.co.jp##a[data-cl-params*="books_apps"]
+yahoo.co.jp##a[data-cl-params*="-books_apps"]
 
 !NewsPicks + d
-yahoo.co.jp##a[data-cl-params*="npicksd"]
+yahoo.co.jp##a[data-cl-params*="-npicksd"]
 
 !NewsPicks
-yahoo.co.jp##a[data-cl-params*="newspicksn"]
+yahoo.co.jp##a[data-cl-params*="-newspicksn"]
 
 !Tarzan Web
-yahoo.co.jp##a[data-cl-params*="tarzanweb"]
+yahoo.co.jp##a[data-cl-params*="-tarzanweb"]
 
 !SASARU
-yahoo.co.jp##a[data-cl-params*="sasarumedia"]
+yahoo.co.jp##a[data-cl-params*="-sasarumedia"]
 
 !毎日が発見ネット
-yahoo.co.jp##a[data-cl-params*="maihatsu"]
+yahoo.co.jp##a[data-cl-params*="-maihatsu"]
 
 !キョウトピ
-yahoo.co.jp##a[data-cl-params*="kyotopijp"]
+yahoo.co.jp##a[data-cl-params*="-kyotopijp"]
 
 !Hanako Web
-yahoo.co.jp##a[data-cl-params*="hanako"]
+yahoo.co.jp##a[data-cl-params*="-hanako"]
 
 !Webマガジン コロカル
-yahoo.co.jp##a[data-cl-params*="colocal"]
+yahoo.co.jp##a[data-cl-params*="-colocal"]
 
 !特選街web
-yahoo.co.jp##a[data-cl-params*="tokusengai"]
+yahoo.co.jp##a[data-cl-params*="-tokusengai"]
 
 !リブタイムズ
 yahoo.co.jp##a[data-cl-params*="-tl-libwork"]
 
 !読みテレ～読んで楽しいテレビの話
-yahoo.co.jp##a[data-cl-params*="yomitere"]
+yahoo.co.jp##a[data-cl-params*="-yomitere"]
 
 !LASISA
-yahoo.co.jp##a[data-cl-params*="lasisa"]
+yahoo.co.jp##a[data-cl-params*="-lasisa"]
 
 !*******************************************
 
@@ -446,152 +447,155 @@ yahoo.co.jp##a[data-cl-params*="lasisa"]
 yahoo.co.jp##a[data-cl-params*="-mdpr"]
 
 !Yahoo!テレビGガイド
-yahoo.co.jp##a[data-cl-params*="tvdogatch"]
-yahoo.co.jp##a[data-cl-params*="tvguide"]
+yahoo.co.jp##a[data-cl-params*="-tvdogatch"]
+!Yahoo!テレビGガイド+韓国テレビドラマガイド
+yahoo.co.jp##a[data-cl-params*="-tvguide"]
+!yahoo.co.jp##a[data-cl-params*="-ktvguide"]
 
 !ウォーカープラス
-yahoo.co.jp##a[data-cl-params*="tkwalk"]
+yahoo.co.jp##a[data-cl-params*="-tkwalk"]
 
 !MOVIE WALKER PRESS
-yahoo.co.jp##a[data-cl-params*="mvwalk"]
+yahoo.co.jp##a[data-cl-params*="-mvwalk"]
 
 !リアルサウンド
-yahoo.co.jp##a[data-cl-params*="realsound"]
+yahoo.co.jp##a[data-cl-params*="-realsound"]
 
 !クランクイン
-yahoo.co.jp##a[data-cl-params*="crankinn"]
+yahoo.co.jp##a[data-cl-params*="-crankinn"]
 
 !Kstyle
-yahoo.co.jp##a[data-cl-params*="kstylens"]
+yahoo.co.jp##a[data-cl-params*="-kstylens"]
 
 !オリコン
-yahoo.co.jp##a[data-cl-params*="oric"]
+yahoo.co.jp##a[data-cl-params*="-oric"]
 
 !ドワンゴジェイピーnews
-yahoo.co.jp##a[data-cl-params*="dwango"]
+yahoo.co.jp##a[data-cl-params*="-dwango"]
 
 !CDJournal
 yahoo.co.jp##a[data-cl-params*="-cdj"]
 
-!cinemacafe.net
-yahoo.co.jp##a[data-cl-params*="cine"]
+!cinemacafe.net+CINEMORE共通
+yahoo.co.jp##a[data-cl-params*="-cine"]
+!yahoo.co.jp##a[data-cl-params*="-cinemore"]
 
 !MusicVoice
-yahoo.co.jp##a[data-cl-params*="musicv"]
+yahoo.co.jp##a[data-cl-params*="-musicv"]
 
 !インサイド
-yahoo.co.jp##a[data-cl-params*="isd"]
+yahoo.co.jp##a[data-cl-params*="-isd"]
 
 !E-TALENTBANK
-yahoo.co.jp##a[data-cl-params*="etalent"]
+yahoo.co.jp##a[data-cl-params*="-etalent"]
 
 !フジテレビュー
-yahoo.co.jp##a[data-cl-params*="fujitv"]
+yahoo.co.jp##a[data-cl-params*="-fujitv"]
 
 !テレ東プラス
-yahoo.co.jp##a[data-cl-params*="tvtplus"]
+yahoo.co.jp##a[data-cl-params*="-tvtplus"]
 
 !テレ朝POST
-yahoo.co.jp##a[data-cl-params*="asapostv"]
+yahoo.co.jp##a[data-cl-params*="-asapostv"]
 
 !TBS Topics
-yahoo.co.jp##a[data-cl-params*="tbs_topics"]
+yahoo.co.jp##a[data-cl-params*="-tbs_topics"]
 
 !映画ナタリー
-yahoo.co.jp##a[data-cl-params*="nataliee"]
+yahoo.co.jp##a[data-cl-params*="-nataliee"]
 
 !音楽ナタリー
-yahoo.co.jp##a[data-cl-params*="natalien"]
+yahoo.co.jp##a[data-cl-params*="-natalien"]
 
 !お笑いナタリー
-yahoo.co.jp##a[data-cl-params*="natalieo"]
+yahoo.co.jp##a[data-cl-params*="-natalieo"]
 
 !ステージナタリー
-yahoo.co.jp##a[data-cl-params*="natalies"]
+yahoo.co.jp##a[data-cl-params*="-natalies"]
 
 !フィガロジャポン
-yahoo.co.jp##a[data-cl-params*="figaro"]
+yahoo.co.jp##a[data-cl-params*="-figaro"]
 
 !映画.com
 yahoo.co.jp##a[data-cl-params*="-eiga"]
 
 !エンタメネクスト
-yahoo.co.jp##a[data-cl-params*="entame"]
+yahoo.co.jp##a[data-cl-params*="-entame"]
 
 !THE FIRST TIME
-yahoo.co.jp##a[data-cl-params*="mnet"]
+yahoo.co.jp##a[data-cl-params*="-mnet"]
 
 !Marisol
-yahoo.co.jp##a[data-cl-params*="marisol"]
+yahoo.co.jp##a[data-cl-params*="-marisol"]
 
 !2.5ジゲン
-yahoo.co.jp##a[data-cl-params*="ntgjigen"]
+yahoo.co.jp##a[data-cl-params*="-ntgjigen"]
 
 !BARKS
-yahoo.co.jp##a[data-cl-params*="bark"]
+yahoo.co.jp##a[data-cl-params*="-bark"]
 
 !Bezzy
-yahoo.co.jp##a[data-cl-params*="bezzy"]
+yahoo.co.jp##a[data-cl-params*="-bezzy"]
 
 !CINRA
-yahoo.co.jp##a[data-cl-params*="cinranet"]
+yahoo.co.jp##a[data-cl-params*="-cinranet"]
 
 !otocoto
-yahoo.co.jp##a[data-cl-params*="otocoto"]
+yahoo.co.jp##a[data-cl-params*="-otocoto"]
 
 !RollingStone
-yahoo.co.jp##a[data-cl-params*="rolling"]
+yahoo.co.jp##a[data-cl-params*="-rolling"]
 
 !YOUNG GUITAR
 yahoo.co.jp##a[data-cl-params*="-tl-youngguitar"]
 
 !SCawaii
-yahoo.co.jp##a[data-cl-params*="scawaii"]
+yahoo.co.jp##a[data-cl-params*="-scawaii"]
 
 !TOKYO HEADLINE web
-yahoo.co.jp##a[data-cl-params*="theadline"]
+yahoo.co.jp##a[data-cl-params*="-theadline"]
 
 !gooランキング
-yahoo.co.jp##a[data-cl-params*="granking"]
+yahoo.co.jp##a[data-cl-params*="-granking"]
 
 !Harper's BAZZAR(ハーパーズバザー）
-yahoo.co.jp##a[data-cl-params*="bazaar"]
+yahoo.co.jp##a[data-cl-params*="-bazaar"]
 
 !シネマトゥデイ
 yahoo.co.jp##a[data-cl-params*="-flix"]
 
 !コスモポリタン
-yahoo.co.jp##a[data-cl-params*="cosmopoli"]
+yahoo.co.jp##a[data-cl-params*="-cosmopoli"]
 
 !海外ドラマNAVI
-yahoo.co.jp##a[data-cl-params*="dramanavi"]
+yahoo.co.jp##a[data-cl-params*="-dramanavi"]
 
 !BillboardJAPAN
 yahoo.co.jp##a[data-cl-params*="-exp"]
 
 !withnews
-yahoo.co.jp##a[data-cl-params*="withnews"]
+yahoo.co.jp##a[data-cl-params*="-withnews"]
 
 !GINZA
-yahoo.co.jp##a[data-cl-params*="ginza"]
+yahoo.co.jp##a[data-cl-params*="-ginza"]
 
 !HOMINIS
-yahoo.co.jp##a[data-cl-params*="hominis"]
+yahoo.co.jp##a[data-cl-params*="-hominis"]
 
 !QJ web　クイック・ジャパンウェブ
-yahoo.co.jp##a[data-cl-params*="qjweb"]
+yahoo.co.jp##a[data-cl-params*="-qjweb"]
 
 !TV LIFE web
-yahoo.co.jp##a[data-cl-params*="tvlife"]
+yahoo.co.jp##a[data-cl-params*="-tvlife"]
 
 !Pop'n'Roll
-yahoo.co.jp##a[data-cl-params*="popnroll"]
+yahoo.co.jp##a[data-cl-params*="-popnroll"]
 
 !OKMusic
 yahoo.co.jp##a[data-cl-params*="-okm"]
 
 !音楽と人
-yahoo.co.jp##a[data-cl-params*="ongakuto"]
+yahoo.co.jp##a[data-cl-params*="-ongakuto"]
 
 !映画論評・情報サイト　BANGER！！！
 yahoo.co.jp##a[data-cl-params*="-tl-banger"]
@@ -600,37 +604,31 @@ yahoo.co.jp##a[data-cl-params*="-tl-banger"]
 yahoo.co.jp##a[data-cl-params*="-wws"]
 
 !Re:minder - リマインダー
-yahoo.co.jp##a[data-cl-params*="reminder"]
+yahoo.co.jp##a[data-cl-params*="-reminder"]
 
 !エンタメOVO
-yahoo.co.jp##a[data-cl-params*="tvfan"]
+yahoo.co.jp##a[data-cl-params*="-tvfan"]
 
 !動画ニュース「フィールドキャスター」
-yahoo.co.jp##a[data-cl-params*="fcaster"]
-
-!CINEMORE
-yahoo.co.jp##a[data-cl-params*="cinemore"]
+yahoo.co.jp##a[data-cl-params*="-fcaster"]
 
 !キネマ旬報WEB
-yahoo.co.jp##a[data-cl-params*="kinejun"]
+yahoo.co.jp##a[data-cl-params*="-kinejun"]
 
 !Numero TOKYO
-yahoo.co.jp##a[data-cl-params*="numero"]
+yahoo.co.jp##a[data-cl-params*="-numero"]
 
 !オルタナ
-yahoo.co.jp##a[data-cl-params*="alterna"]
+yahoo.co.jp##a[data-cl-params*="-alterna"]
 
 !アフロ
-yahoo.co.jp##a[data-cl-params*="storyfulv"]
+yahoo.co.jp##a[data-cl-params*="-storyfulv"]
 
 !FLOOR
 yahoo.co.jp##a[data-cl-params*="-floor"]
 
 !ひとシネマ
 yahoo.co.jp##a[data-cl-params*="-hitoc"]
-
-!韓国テレビドラマガイド
-yahoo.co.jp##a[data-cl-params*="-ktvguide"]
 
 !エンタステージ
 yahoo.co.jp##a[data-cl-params*="-enterstage"]
@@ -651,23 +649,23 @@ yahoo.co.jp##a[data-cl-params*="-tl-danmee"]
 yahoo.co.jp##a[data-cl-params*="-tl-viviane"]
 
 !The Hollywood Reporter Japan
-yahoo.co.jp##a[data-cl-params*="thrjapan"]
+yahoo.co.jp##a[data-cl-params*="-thrjapan"]
 
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
 
 !TOKYO FM+
-yahoo.co.jp##a[data-cl-params*="tokyofm"]
+yahoo.co.jp##a[data-cl-params*="-tokyofm"]
 
 !ラジオ関西トピックス　ラジトピ
-yahoo.co.jp##a[data-cl-params*="raditopi"]
+yahoo.co.jp##a[data-cl-params*="-raditopi"]
 
 !J-WAVE NEWS 81.3FM
 yahoo.co.jp##a[data-cl-params*="-jwave"]
 
 !ニッポン放送
-yahoo.co.jp##a[data-cl-params*="nshaberu"]
+yahoo.co.jp##a[data-cl-params*="-nshaberu"]
 
 !TBSラジオ
 yahoo.co.jp##a[data-cl-params*="-tl-tbsradio"]
@@ -677,68 +675,68 @@ yahoo.co.jp##a[data-cl-params*="-tl-tbsradio"]
 !自動車・バイク
 
 !Webヤングマシン
-yahoo.co.jp##a[data-cl-params*="webym"]
+yahoo.co.jp##a[data-cl-params*="-webym"]
 
 !AUTOCAR JAPAN
-yahoo.co.jp##a[data-cl-params*="autocar"]
+yahoo.co.jp##a[data-cl-params*="-autocar"]
 
 !Auto Messe Web
-yahoo.co.jp##a[data-cl-params*="amweb"]
+yahoo.co.jp##a[data-cl-params*="-amweb"]
 
 !VAGUE
-yahoo.co.jp##a[data-cl-params*="vague"]
+yahoo.co.jp##a[data-cl-params*="-vague"]
 
 !レスポンス
-yahoo.co.jp##a[data-cl-params*="rps"]
+yahoo.co.jp##a[data-cl-params*="-rps"]
 
 !WEB CARTOP
-yahoo.co.jp##a[data-cl-params*="wcartop"]
+yahoo.co.jp##a[data-cl-params*="-wcartop"]
 
 !GQJAPAN
-yahoo.co.jp##a[data-cl-params*="gqjapan"]
+yahoo.co.jp##a[data-cl-params*="-gqjapan"]
 
 !MotorFan
-yahoo.co.jp##a[data-cl-params*="motorfan"]
+yahoo.co.jp##a[data-cl-params*="-motorfan"]
 
 !TopNews
-yahoo.co.jp##a[data-cl-params*="fliv"]
+yahoo.co.jp##a[data-cl-params*="-fliv"]
 
 !ベストカーWeb
-yahoo.co.jp##a[data-cl-params*="bestcar"]
+yahoo.co.jp##a[data-cl-params*="-bestcar"]
 
 !Nosweb.jp
-yahoo.co.jp##a[data-cl-params*="nosweb"]
+yahoo.co.jp##a[data-cl-params*="-nosweb"]
 
 !webモーターマガジン
-yahoo.co.jp##a[data-cl-params*="mmagazine"]
+yahoo.co.jp##a[data-cl-params*="-mmagazine"]
 
 !Auto Bild JAPAN web
-yahoo.co.jp##a[data-cl-params*="autobild"]
+yahoo.co.jp##a[data-cl-params*="-autobild"]
 
 !Merkmal
-yahoo.co.jp##a[data-cl-params*="merkmal"]
+yahoo.co.jp##a[data-cl-params*="-merkmal"]
 
 !Octane
-yahoo.co.jp##a[data-cl-params*="octane"]
+yahoo.co.jp##a[data-cl-params*="-octane"]
 
 !乗りものニュース
-yahoo.co.jp##a[data-cl-params*="norimono"]
+yahoo.co.jp##a[data-cl-params*="-norimono"]
 
 !くるまのニュース(2つある?)
-yahoo.co.jp##a[data-cl-params*="carview"]
-yahoo.co.jp##a[data-cl-params*="kurumans"]
+yahoo.co.jp##a[data-cl-params*="-carview"]
+yahoo.co.jp##a[data-cl-params*="-kurumans"]
 
 !バイクのニュース
-yahoo.co.jp##a[data-cl-params*="bikeno"]
+yahoo.co.jp##a[data-cl-params*="-bikeno"]
 
 !webCG
-yahoo.co.jp##a[data-cl-params*="webcg"]
+yahoo.co.jp##a[data-cl-params*="-webcg"]
 
 !andGP
-yahoo.co.jp##a[data-cl-params*="andgp"]
+yahoo.co.jp##a[data-cl-params*="-andgp"]
 
 !webオートバイ
-yahoo.co.jp##a[data-cl-params*="autoby"]
+yahoo.co.jp##a[data-cl-params*="-autoby"]
 
 !オートスポーツweb
 yahoo.co.jp##a[data-cl-params*="-rcg"]
@@ -747,13 +745,13 @@ yahoo.co.jp##a[data-cl-params*="-rcg"]
 yahoo.co.jp##a[data-cl-params*="-engine"]
 
 !モーサイ
-yahoo.co.jp##a[data-cl-params*="mcyclist"]
+yahoo.co.jp##a[data-cl-params*="-mcyclist"]
 
 !ドライバーWeb
-yahoo.co.jp##a[data-cl-params*="driverweb"]
+yahoo.co.jp##a[data-cl-params*="-driverweb"]
 
 !くるくら
-yahoo.co.jp##a[data-cl-params*="parkblog"]
+yahoo.co.jp##a[data-cl-params*="-parkblog"]
 
 !THE EV TIMES
 yahoo.co.jp##a[data-cl-params*="-evtimes"]
@@ -778,69 +776,69 @@ yahoo.co.jp##a[data-cl-params*="-parcferme"]
 !ファッション
 
 !FASHIONBOX
-yahoo.co.jp##a[data-cl-params*="fbox"]
+yahoo.co.jp##a[data-cl-params*="-fbox"]
 
 !BAILA
-yahoo.co.jp##a[data-cl-params*="baila"]
+yahoo.co.jp##a[data-cl-params*="-baila"]
 
 !JBpress
-yahoo.co.jp##a[data-cl-params*="jbpressz"]
+yahoo.co.jp##a[data-cl-params*="-jbpressz"]
 
 !SafariOnline
-yahoo.co.jp##a[data-cl-params*="safariweb"]
+yahoo.co.jp##a[data-cl-params*="-safariweb"]
 
 !T JAPAN web
-yahoo.co.jp##a[data-cl-params*="tjapan"]
+yahoo.co.jp##a[data-cl-params*="-tjapan"]
 
 !FASHIONSNAP.COM
-yahoo.co.jp##a[data-cl-params*="fashions"]
+yahoo.co.jp##a[data-cl-params*="-fashions"]
 
 !Book Bang
-yahoo.co.jp##a[data-cl-params*="bookbang"]
+yahoo.co.jp##a[data-cl-params*="-bookbang"]
 
 !MonoMax Web
-yahoo.co.jp##a[data-cl-params*="monomax"]
+yahoo.co.jp##a[data-cl-params*="-monomax"]
 
 !GOETHE
-yahoo.co.jp##a[data-cl-params*="goethe"]
+yahoo.co.jp##a[data-cl-params*="-goethe"]
 
 !OCEANS
-yahoo.co.jp##a[data-cl-params*="oceans"]
+yahoo.co.jp##a[data-cl-params*="-oceans"]
 
 !WEB UOMO
-yahoo.co.jp##a[data-cl-params*="webuomo"]
+yahoo.co.jp##a[data-cl-params*="-webuomo"]
 
 !WATCHNAVI Salon
-yahoo.co.jp##a[data-cl-params*="watchnavi"]
+yahoo.co.jp##a[data-cl-params*="-watchnavi"]
 
 !ウオッチライフニュース
 yahoo.co.jp##a[data-cl-params*="-watchlife"]
 
 !Fav-Log by ITmedia
-yahoo.co.jp##a[data-cl-params*="favlog"]
+yahoo.co.jp##a[data-cl-params*="-it_favlog"]
 
 !WWDJAPAN.com
-yahoo.co.jp##a[data-cl-params*="wwdjapan"]
+yahoo.co.jp##a[data-cl-params*="-wwdjapan"]
 
 !FITNESS LOVE
-yahoo.co.jp##a[data-cl-params*="fitlove"]
+yahoo.co.jp##a[data-cl-params*="-fitlove"]
 
 !FASHION TECH NEWS
-yahoo.co.jp##a[data-cl-params*="fashiontn"]
+yahoo.co.jp##a[data-cl-params*="-fashiontn"]
 
 !GISELe
-yahoo.co.jp##a[data-cl-params*="gisele"]
+yahoo.co.jp##a[data-cl-params*="-gisele"]
 
 !NONNO
-yahoo.co.jp##a[data-cl-params*="nonno"]
+yahoo.co.jp##a[data-cl-params*="-nonno"]
 !MENS NONNO
-!yahoo.co.jp##a[data-cl-params*="mensnonno"]
+!yahoo.co.jp##a[data-cl-params*="-mensnonno"]
 
 !OurAge
-yahoo.co.jp##a[data-cl-params*="ourage"]
+yahoo.co.jp##a[data-cl-params*="-ourage"]
 
 !VOGUEGIRL
-yahoo.co.jp##a[data-cl-params*="voguegirl"]
+yahoo.co.jp##a[data-cl-params*="-voguegirl"]
 
 !VOGUE JAPAN
 yahoo.co.jp##a[data-cl-params*="-vogue"]
@@ -849,13 +847,13 @@ yahoo.co.jp##a[data-cl-params*="-vogue"]
 yahoo.co.jp##a[data-cl-params*="-eclat"]
 
 !VOCE
-yahoo.co.jp##a[data-cl-params*="voce"]
+yahoo.co.jp##a[data-cl-params*="-voce"]
 
 !MEN'S CLUB
-yahoo.co.jp##a[data-cl-params*="mensplus"]
+yahoo.co.jp##a[data-cl-params*="-mensplus"]
 
 !SPUR.jp
-yahoo.co.jp##a[data-cl-params*="spur"]
+yahoo.co.jp##a[data-cl-params*="-spur"]
 
 !LEE
 yahoo.co.jp##a[data-cl-params*="-lee"]
@@ -864,22 +862,22 @@ yahoo.co.jp##a[data-cl-params*="-lee"]
 yahoo.co.jp##a[data-cl-params*="-tl-mer"]
 
 !美的.com
-yahoo.co.jp##a[data-cl-params*="biteki"]
+yahoo.co.jp##a[data-cl-params*="-biteki"]
 
 !mybest
-yahoo.co.jp##a[data-cl-params*="mybest"]
+yahoo.co.jp##a[data-cl-params*="-mybest"]
 
 !日刊KELLY
 yahoo.co.jp##a[data-cl-params*="-tl-kelly-net"]
 
 !ELEMINIST
-yahoo.co.jp##a[data-cl-params*="eleminist"]
+yahoo.co.jp##a[data-cl-params*="-eleminist"]
 
 !GIRL HOUYHNHNM
-yahoo.co.jp##a[data-cl-params*="girlhynm"]
+yahoo.co.jp##a[data-cl-params*="-girlhynm"]
 
 !モダンリビング
-yahoo.co.jp##a[data-cl-params*="mliving"]
+yahoo.co.jp##a[data-cl-params*="-mliving"]
 
 !GOODA
 yahoo.co.jp##a[data-cl-params*="-tl-gooda"]
@@ -910,61 +908,61 @@ yahoo.co.jp##a[data-cl-params*="-nikkeisty"]
 !グルメ
 
 !食楽web
-yahoo.co.jp##a[data-cl-params*="syokuraku"]
+yahoo.co.jp##a[data-cl-params*="-syokuraku"]
 
 !メシ通
-yahoo.co.jp##a[data-cl-params*="mesitsu"]
+yahoo.co.jp##a[data-cl-params*="-mesitsu"]
 
 !食べログマガジン
-yahoo.co.jp##a[data-cl-params*="tabelog"]
+yahoo.co.jp##a[data-cl-params*="-tabelog"]
 
 !クックパッドニュース
-yahoo.co.jp##a[data-cl-params*="cookpadn"]
+yahoo.co.jp##a[data-cl-params*="-cookpadn"]
 
 !おいしいマルシェ
-yahoo.co.jp##a[data-cl-params*="marche"]
+yahoo.co.jp##a[data-cl-params*="-marche"]
 
 !みんなのきょうの料理
-yahoo.co.jp##a[data-cl-params*="kyounoryouri"]
+yahoo.co.jp##a[data-cl-params*="-kyounoryouri"]
 
 !サツッター
-yahoo.co.jp##a[data-cl-params*="satsutter"]
+yahoo.co.jp##a[data-cl-params*="-satsutter"]
 
 !ヒトサラMAGAXINE
-yahoo.co.jp##a[data-cl-params*="hitosaramagazine"]
+yahoo.co.jp##a[data-cl-params*="-hitosaramagazine"]
 
 !ニッポンごはん旅
-yahoo.co.jp##a[data-cl-params*="gohantabi"]
+yahoo.co.jp##a[data-cl-params*="-gohantabi"]
 
 !Kiss PRESS
-yahoo.co.jp##a[data-cl-params*="kisspress"]
+yahoo.co.jp##a[data-cl-params*="-kisspress"]
 
 !オーヴォ
 yahoo.co.jp##a[data-cl-params*="-ovo"]
 
 !オズモール
-yahoo.co.jp##a[data-cl-params*="ozmalla"]
+yahoo.co.jp##a[data-cl-params*="-ozmalla"]
 
 !VEGEDAY
-yahoo.co.jp##a[data-cl-params*="vegeday"]
+yahoo.co.jp##a[data-cl-params*="-vegeday"]
 
 !SODANE
-yahoo.co.jp##a[data-cl-params*="sondane"]
+yahoo.co.jp##a[data-cl-params*="-sondane"]
 
 !パンめぐ
-yahoo.co.jp##a[data-cl-params*="panmegu"]
+yahoo.co.jp##a[data-cl-params*="-panmegu"]
 
 !おとりよせネット
-yahoo.co.jp##a[data-cl-params*="otoriyose"]
+yahoo.co.jp##a[data-cl-params*="-otoriyose"]
 
 !ａｓａｔａｎ
-yahoo.co.jp##a[data-cl-params*="asatan"]
+yahoo.co.jp##a[data-cl-params*="-asatan"]
 
 !Vegewel
 yahoo.co.jp##a[data-cl-params*="-vegewel"]
 
 !まっぷるトラベルガイド
-yahoo.co.jp##a[data-cl-params*="mapplenet"]
+yahoo.co.jp##a[data-cl-params*="-mapplenet"]
 
 !さんたつ by 散歩の達人
 yahoo.co.jp##a[data-cl-params*="-santatsu"]
@@ -973,10 +971,10 @@ yahoo.co.jp##a[data-cl-params*="-santatsu"]
 yahoo.co.jp##a[data-cl-params*="-tl-muto"]
 
 !料理王国
-yahoo.co.jp##a[data-cl-params*="cuisineking"]
+yahoo.co.jp##a[data-cl-params*="-cuisineking"]
 
 !WEBマガジン HEAT
-yahoo.co.jp##a[data-cl-params*="lm-heat"]
+yahoo.co.jp##a[data-cl-params*="-lm-heat"]
 
 !舌肥
 yahoo.co.jp##a[data-cl-params*="-tl-shitakoe"]
@@ -999,11 +997,11 @@ yahoo.co.jp##a[data-cl-params*="-tl-tsplus"]
 
 !株式会社ユニークワンの運営する地方メディアを全てブロックする
 !除去ターゲット:https://unique1.co.jp/service/media/
-yahoo.co.jp##a[data-cl-params*="2shin"]
-yahoo.co.jp##a[data-cl-params*="days"]
+yahoo.co.jp##a[data-cl-params*="-2shin"]
+yahoo.co.jp##a[data-cl-params*="-days"]
 
 !北海道Likers
-yahoo.co.jp##a[data-cl-params*="hokkaidolikers"]
+yahoo.co.jp##a[data-cl-params*="-hokkaidolikers"]
 
 !porocco
 yahoo.co.jp##a[data-cl-params*="-tl-porocco"]
@@ -1012,7 +1010,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-porocco"]
 yahoo.co.jp##a[data-cl-params*="-sodane"]
 
 !Ｓｉｔａｋｋｅ
-yahoo.co.jp##a[data-cl-params*="sitakke"]
+yahoo.co.jp##a[data-cl-params*="-sitakke"]
 
 !Things
 yahoo.co.jp##a[data-cl-params*="-things"]
@@ -1036,7 +1034,7 @@ yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
 yahoo.co.jp##a[data-cl-params*="-tl-welovegunma"]
 
 !ちばとぴ！ニュース
-yahoo.co.jp##a[data-cl-params*="chibach"]
+yahoo.co.jp##a[data-cl-params*="-chibach"]
 
 !ちいき新聞（千葉）
 yahoo.co.jp##a[data-cl-params*="-lm-chiicomi"]
@@ -1045,22 +1043,22 @@ yahoo.co.jp##a[data-cl-params*="-lm-chiicomi"]
 yahoo.co.jp##a[data-cl-params*="-tl-urayasu"]
 
 !アーバンライフメトロ
-yahoo.co.jp##a[data-cl-params*="urbanlifemetro"]
+yahoo.co.jp##a[data-cl-params*="-urbanlifemetro"]
 
 !タイムアウト東京
-yahoo.co.jp##a[data-cl-params*="timeouttokyo"]
+yahoo.co.jp##a[data-cl-params*="-timeouttokyo"]
 
 !中央区民マガジン
 yahoo.co.jp##a[data-cl-params*="-tl-chuo"]
 
 !八王子ジャーニー
-yahoo.co.jp##a[data-cl-params*="802dabe"]
+yahoo.co.jp##a[data-cl-params*="-802dabe"]
 
 !美術手帖
-yahoo.co.jp##a[data-cl-params*="btecho"]
+yahoo.co.jp##a[data-cl-params*="-btecho"]
 
 !Tokyo Art Beat
-yahoo.co.jp##a[data-cl-params*="tartbeat"]
+yahoo.co.jp##a[data-cl-params*="-tartbeat"]
 
 !歌舞伎町文化新聞
 yahoo.co.jp##a[data-cl-params*="-tl-kbs"]
@@ -1075,7 +1073,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-irohameguri"]
 yahoo.co.jp##a[data-cl-params*="-tl-de-lokal"]
 
 !日刊にいがたWEBタウン情報
-yahoo.co.jp##a[data-cl-params*="tjniigata"]
+yahoo.co.jp##a[data-cl-params*="-tjniigata"]
 
 !Komachi Web(新潟)
 yahoo.co.jp##a[data-cl-params*="-lm-komachi"]
@@ -1093,16 +1091,16 @@ yahoo.co.jp##a[data-cl-params*="-joetsutj"]
 yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 
 !富山デイズ(ユニークワン集約)
-!yahoo.co.jp##a[data-cl-params*="toyamadays"]
+!yahoo.co.jp##a[data-cl-params*="-toyamadays"]
 
 !金沢デイズ(ユニークワン集約)
-!yahoo.co.jp##a[data-cl-params*="kanazawa2shin"]
+!yahoo.co.jp##a[data-cl-params*="-kanazawa2shin"]
 
 !週末、金沢。
 yahoo.co.jp##a[data-cl-params*="-tl-weekend-kanazawa"]
 
 !市民タイムスWEB(長野のあたり）
-yahoo.co.jp##a[data-cl-params*="shimint"]
+yahoo.co.jp##a[data-cl-params*="-shimint"]
 
 !Web-Komachi(長野）
 yahoo.co.jp##a[data-cl-params*="-tl-komachi"]
@@ -1149,9 +1147,6 @@ yahoo.co.jp##a[data-cl-params*="-tl-mkyotobyleaf"]
 !京都観光Naviぷらす
 yahoo.co.jp##a[data-cl-params*="-tl-kyotonaviplus"]
 
-!ラジトピ ラジオ関西トピックス
-yahoo.co.jp##a[data-cl-params*="-raditopi"]
-
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
 
@@ -1168,10 +1163,10 @@ yahoo.co.jp##a[data-cl-params*="-tl-osakastyle"]
 yahoo.co.jp##a[data-cl-params*="-tl-par-ple"]
 
 !Narakko 奈良っ子
-yahoo.co.jp##a[data-cl-params*="narakko"]
+yahoo.co.jp##a[data-cl-params*="-narakko"]
 
 !神戸ジャーナル
-yahoo.co.jp##a[data-cl-params*="kobe_journal"]
+yahoo.co.jp##a[data-cl-params*="-kobe_journal"]
 
 !KOBERU
 yahoo.co.jp##a[data-cl-params*="-tl-koberu"]
@@ -1192,13 +1187,13 @@ yahoo.co.jp##a[data-cl-params*="-tl-kochike"]
 yahoo.co.jp##a[data-cl-params*="-tl-okayamakanko"]
 
 !倉敷とことこ
-yahoo.co.jp##a[data-cl-params*="kuratoco"]
+yahoo.co.jp##a[data-cl-params*="-kuratoco"]
 
 !備後とことこ
-yahoo.co.jp##a[data-cl-params*="bintoco"]
+yahoo.co.jp##a[data-cl-params*="-bintoco"]
 
 !ひろしまリード
-yahoo.co.jp##a[data-cl-params*="hiroshimaread"]
+yahoo.co.jp##a[data-cl-params*="-hiroshimaread"]
 
 !日刊新周南
 yahoo.co.jp##a[data-cl-params*="-sshunan"]
@@ -1207,7 +1202,7 @@ yahoo.co.jp##a[data-cl-params*="-sshunan"]
 yahoo.co.jp##a[data-cl-params*="-tl-na-na"]
 
 !北九州ノコト
-yahoo.co.jp##a[data-cl-params*="kitaqnokoto"]
+yahoo.co.jp##a[data-cl-params*="-kitaqnokoto"]
 
 !キタキュースタイル
 yahoo.co.jp##a[data-cl-params*="-tl-kitaq-style"]
@@ -1216,19 +1211,19 @@ yahoo.co.jp##a[data-cl-params*="-tl-kitaq-style"]
 yahoo.co.jp##a[data-cl-params*="-tl-wish"]
 
 !webてんじん
-yahoo.co.jp##a[data-cl-params*="webtenjin"]
+yahoo.co.jp##a[data-cl-params*="-webtenjin"]
 
 !天神サイト
-yahoo.co.jp##a[data-cl-params*="tenjinsite"]
+yahoo.co.jp##a[data-cl-params*="-tenjinsite"]
 
 !フクリパ
-yahoo.co.jp##a[data-cl-params*="fukuokaleapup"]
+yahoo.co.jp##a[data-cl-params*="-fukuokaleapup"]
 
 !UMAGA
 yahoo.co.jp##a[data-cl-params*="-tl_umaga"]
 
 !福岡ふかぼりメディアささっとー
-yahoo.co.jp##a[data-cl-params*="sasatto"]
+yahoo.co.jp##a[data-cl-params*="-sasatto"]
 
 !ファンファン福岡
 yahoo.co.jp##a[data-cl-params*="-fanfun"]
@@ -1237,7 +1232,7 @@ yahoo.co.jp##a[data-cl-params*="-fanfun"]
 yahoo.co.jp##a[data-cl-params*="-ikosumo"]
 
 !肥後ジャーナル
-yahoo.co.jp##a[data-cl-params*="higojournal"]
+yahoo.co.jp##a[data-cl-params*="-higojournal"]
 
 !オーエス OITA SPORTS
 yahoo.co.jp##a[data-cl-params*="-tl-osoita"]
@@ -1250,49 +1245,49 @@ yahoo.co.jp##a[data-cl-params*="-tl-logoita"]
 !趣味系サイト
 
 !ロケーションジャパン
-yahoo.co.jp##a[data-cl-params*="locationj"]
+yahoo.co.jp##a[data-cl-params*="-locationj"]
 
 !おとなの週末
-yahoo.co.jp##a[data-cl-params*="matomeshi"]
+yahoo.co.jp##a[data-cl-params*="-matomeshi"]
 
 !おんせんニュース
-yahoo.co.jp##a[data-cl-params*="onsennewscom"]
+yahoo.co.jp##a[data-cl-params*="-onsennewscom"]
 
 !ぴあ
-yahoo.co.jp##a[data-cl-params*="piaeigat"]
+yahoo.co.jp##a[data-cl-params*="-piaeigat"]
 
 !チケットぴあ
 yahoo.co.jp##a[data-cl-params*="-pia"]
 
 !YAMAKEI ONLINE
-yahoo.co.jp##a[data-cl-params*="yamakei"]
+yahoo.co.jp##a[data-cl-params*="-yamakei"]
 
 !YAMAP MAGAZINE
 yahoo.co.jp##a[data-cl-params*="-tl-yamap-m"]
 
 !BRAVO MOUNTAIN
-yahoo.co.jp##a[data-cl-params*="bravom"]
+yahoo.co.jp##a[data-cl-params*="-bravom"]
 
 !Casa BRUTUS.com
-yahoo.co.jp##a[data-cl-params*="casabrutus"]
+yahoo.co.jp##a[data-cl-params*="-casabrutus"]
 
 !CAPA CAMERA WEB
 yahoo.co.jp##a[data-cl-params*="-capa"]
 
 !歴史人
-yahoo.co.jp##a[data-cl-params*="rekishin"]
+yahoo.co.jp##a[data-cl-params*="-rekishin"]
 
 !城びと
 yahoo.co.jp##a[data-cl-params*="-shirobito"]
 
 !鉄道コム
-yahoo.co.jp##a[data-cl-params*="tetsucom"]
+yahoo.co.jp##a[data-cl-params*="-tetsucom"]
 
 !鉄道チャンネル
-yahoo.co.jp##a[data-cl-params*="tetsudo_ch"]
+yahoo.co.jp##a[data-cl-params*="-tetsudo_ch"]
 
 !Aviation Wire
-yahoo.co.jp##a[data-cl-params*="awire"]
+yahoo.co.jp##a[data-cl-params*="-awire"]
 
 !旅行読売
 yahoo.co.jp##a[data-cl-params*="-ryokoyom"]
@@ -1301,67 +1296,67 @@ yahoo.co.jp##a[data-cl-params*="-ryokoyom"]
 yahoo.co.jp##a[data-cl-params*="-travelv"]
 
 !sorae 宇宙へのポータルサイト
-yahoo.co.jp##a[data-cl-params*="sorae_jp"]
+yahoo.co.jp##a[data-cl-params*="-sorae_jp"]
 
 !マイナビニュース
-yahoo.co.jp##a[data-cl-params*="mynavin"]
+yahoo.co.jp##a[data-cl-params*="-mynavin"]
 
 !キャリコネニュース
-yahoo.co.jp##a[data-cl-params*="careercn"]
+yahoo.co.jp##a[data-cl-params*="-careercn"]
 
 !BOOKSTAND
-yahoo.co.jp##a[data-cl-params*="webhon"]
+yahoo.co.jp##a[data-cl-params*="-webhon"]
 
 !好書好日
-yahoo.co.jp##a[data-cl-params*="bookasahi"]
+yahoo.co.jp##a[data-cl-params*="-bookasahi"]
 
 !360life
-yahoo.co.jp##a[data-cl-params*="360life"]
+yahoo.co.jp##a[data-cl-params*="-360life"]
 
 !@DIME
 yahoo.co.jp##a[data-cl-params*="-dime"]
 
 !たまひよオンライン
-yahoo.co.jp##a[data-cl-params*="tamahiyo"]
+yahoo.co.jp##a[data-cl-params*="-tamahiyo"]
 
 !マイナビ子育て
-yahoo.co.jp##a[data-cl-params*="kosodate"]
+yahoo.co.jp##a[data-cl-params*="-kosodate"]
 
 !サカイク
-yahoo.co.jp##a[data-cl-params*="sakaiku"]
+yahoo.co.jp##a[data-cl-params*="-sakaiku"]
 
 !価格.comマガジン
-yahoo.co.jp##a[data-cl-params*="kakakumag"]
+yahoo.co.jp##a[data-cl-params*="-kakakumag"]
 
 !IMA ONLINE
-yahoo.co.jp##a[data-cl-params*="imaonline"]
+yahoo.co.jp##a[data-cl-params*="-imaonline"]
 
 !ASCII
-yahoo.co.jp##a[data-cl-params*="ascii"]
+yahoo.co.jp##a[data-cl-params*="-ascii"]
 
 !ALL REVIEWS
-yahoo.co.jp##a[data-cl-params*="allreview"]
+yahoo.co.jp##a[data-cl-params*="-allreview"]
 
 !dancyu
-yahoo.co.jp##a[data-cl-params*="dancyu"]
+yahoo.co.jp##a[data-cl-params*="-dancyu"]
 
 !FUNQ
-yahoo.co.jp##a[data-cl-params*="eipub"]
+yahoo.co.jp##a[data-cl-params*="-eipub"]
 
 !みんなの経済新聞ネットワーク
-yahoo.co.jp##a[data-cl-params*="minkei"]
+yahoo.co.jp##a[data-cl-params*="-minkei"]
 
 !みんなの趣味園芸
-yahoo.co.jp##a[data-cl-params*="shumien"]
+yahoo.co.jp##a[data-cl-params*="-shumien"]
 
 !niwacul
-yahoo.co.jp##a[data-cl-params*="niwacul"]
+yahoo.co.jp##a[data-cl-params*="-niwacul"]
 
 !家庭画報.com
-yahoo.co.jp##a[data-cl-params*="kateigaho"]
+yahoo.co.jp##a[data-cl-params*="-kateigaho"]
 
 !ダ・ヴィンチweb
-yahoo.co.jp##a[data-cl-params*="davincin"]
+yahoo.co.jp##a[data-cl-params*="-davincin"]
 
 !NHK出版デジタルマガジン
 yahoo.co.jp##a[data-cl-params*="-tl-nhkpdmag"]
@@ -1390,16 +1385,16 @@ yahoo.co.jp##a[data-cl-params*="-tl-atnavi"]
 !動物
 
 !ねこちゃんホンポ
-yahoo.co.jp##a[data-cl-params*="necohonpo"]
+yahoo.co.jp##a[data-cl-params*="-necohonpo"]
 !わんちゃんホンポ
-yahoo.co.jp##a[data-cl-params*="wanhonpo"]
+yahoo.co.jp##a[data-cl-params*="-wanhonpo"]
 
 !いぬのきもち(2つある)
-yahoo.co.jp##a[data-cl-params*="inunokimoti"]
-yahoo.co.jp##a[data-cl-params*="inumag"]
+yahoo.co.jp##a[data-cl-params*="-inunokimoti"]
+yahoo.co.jp##a[data-cl-params*="-inumag"]
 !ねこのきもち(2つある)
-yahoo.co.jp##a[data-cl-params*="nekonokimoti"]
-yahoo.co.jp##a[data-cl-params*="nekomag"]
+yahoo.co.jp##a[data-cl-params*="-nekonokimoti"]
+yahoo.co.jp##a[data-cl-params*="-nekomag"]
 
 !PECO
 yahoo.co.jp##a[data-cl-params*="-tl-peco"]
@@ -1416,91 +1411,93 @@ yahoo.co.jp##a[data-cl-params*="-sippo"]
 !サッカー
 
 !GOAL
-yahoo.co.jp##a[data-cl-params*="goal"]
+yahoo.co.jp##a[data-cl-params*="-goal"]
 
 !SOCCER DIGEST Web
-yahoo.co.jp##a[data-cl-params*="sdigestw"]
+yahoo.co.jp##a[data-cl-params*="-sdigestw"]
 
 !サッカー集約ルール
-yahoo.co.jp##a[data-cl-params*="soccer"]
+yahoo.co.jp##a[data-cl-params*="-soccer"]
 !FOOTBALL ZONE
-!yahoo.co.jp##a[data-cl-params*="soccermzw"]
+!yahoo.co.jp##a[data-cl-params*="-soccermzw"]
 !超サッカー
-!yahoo.co.jp##a[data-cl-params*="usoccer"]
+!yahoo.co.jp##a[data-cl-params*="-usoccer"]
 !高校サッカードットコム
-!yahoo.co.jp##a[data-cl-params*="kksoccer"]
+!yahoo.co.jp##a[data-cl-params*="-kksoccer"]
 !サッカー批評web
-!yahoo.co.jp##a[data-cl-params*="soccerh"]
+!yahoo.co.jp##a[data-cl-params*="-soccerh"]
 !サッカーキング
-!yahoo.co.jp##a[data-cl-params*="soccerk"]
+!yahoo.co.jp##a[data-cl-params*="-soccerk"]
 
 !ゲキサカ
-yahoo.co.jp##a[data-cl-params*="gekisaka"]
+yahoo.co.jp##a[data-cl-params*="-gekisaka"]
 
 !フットボールチャンネル
-yahoo.co.jp##a[data-cl-params*="footballc"]
+yahoo.co.jp##a[data-cl-params*="-footballc"]
 
 !theWORLD　ザワールドウェブ
-yahoo.co.jp##a[data-cl-params*="theworldw"]
+yahoo.co.jp##a[data-cl-params*="-theworldw"]
 
 !footballista
-yahoo.co.jp##a[data-cl-params*="fballista"]
+yahoo.co.jp##a[data-cl-params*="-fballista"]
 
 !REALSPORTS
-yahoo.co.jp##a[data-cl-params*="realspo"]
+yahoo.co.jp##a[data-cl-params*="-realspo"]
 
 !SAL
-yahoo.co.jp##a[data-cl-params*="fsal"]
+yahoo.co.jp##a[data-cl-params*="-fsal"]
 
 !*******************************************
 
 !野球
 
 !スポーツナビ
-yahoo.co.jp##a[data-cl-params*="sports_spnavi_npb-npb-"]
+yahoo.co.jp##a[data-cl-params*="-sports_spnavi_npb-npb-"]
 
 !野球集約ルール
-yahoo.co.jp##a[data-cl-params*="baseball"]
+yahoo.co.jp##a[data-cl-params*="-baseball"]
 !ベースボールチャンネル
-!yahoo.co.jp##a[data-cl-params*="baseballc"]
+!yahoo.co.jp##a[data-cl-params*="-baseballc"]
 !ベースボールキング
-!yahoo.co.jp##a[data-cl-params*="baseballk"]
+!yahoo.co.jp##a[data-cl-params*="-baseballk"]
 !週刊ベースボールONLINE
-!yahoo.co.jp##a[data-cl-params*="baseballo"]
+!yahoo.co.jp##a[data-cl-params*="-baseballo"]
 
 !高校野球オンライン
-yahoo.co.jp##a[data-cl-params*="hbnippon"]
+yahoo.co.jp##a[data-cl-params*="-hbnippon"]
 
 !SPAIA
-yahoo.co.jp##a[data-cl-params*="spaia"]
+!https://article.yahoo.co.jp/media/spaia (SPAIA)をターゲットとしていたもの
+!https://news.yahoo.co.jp/media/spaia (SPAIA AI競馬)と同時に消す
+yahoo.co.jp##a[data-cl-params*="-spaia"]
 
 !webスポルティーバ
-yahoo.co.jp##a[data-cl-params*="sportiva"]
+yahoo.co.jp##a[data-cl-params*="-sportiva"]
 
 !THE DIGEST
-yahoo.co.jp##a[data-cl-params*="thedigest"]
+yahoo.co.jp##a[data-cl-params*="-thedigest"]
 
 !Number Web
-yahoo.co.jp##a[data-cl-params*="number"]
+yahoo.co.jp##a[data-cl-params*="-number"]
 
 !baseball Geeks
-yahoo.co.jp##a[data-cl-params*="geeksv"]
+yahoo.co.jp##a[data-cl-params*="-geeksv"]
 
 !4years
-yahoo.co.jp##a[data-cl-params*="fyears"]
+yahoo.co.jp##a[data-cl-params*="-fyears"]
 
 !センバツLIVE
 !亜種ありすぎ
-yahoo.co.jp##a[data-cl-params*="senbatsu"]
-!yahoo.co.jp##a[data-cl-params*="senbatsuv"]
-!yahoo.co.jp##a[data-cl-params*="senbatsuf"]
-!yahoo.co.jp##a[data-cl-params*="senbatsul"]
+yahoo.co.jp##a[data-cl-params*="-senbatsu"]
+!yahoo.co.jp##a[data-cl-params*="-senbatsuv"]
+!yahoo.co.jp##a[data-cl-params*="-senbatsuf"]
+!yahoo.co.jp##a[data-cl-params*="-senbatsul"]
 
 !FULLCOUNT
-yahoo.co.jp##a[data-cl-params*="fullcount"]
+yahoo.co.jp##a[data-cl-params*="-fullcount"]
 
 !AERA dot
-yahoo.co.jp##a[data-cl-params*="sasahi"]
+yahoo.co.jp##a[data-cl-params*="-sasahi"]
 
 !MLB.com
 yahoo.co.jp##a[data-cl-params*="-mlb"]
@@ -1510,25 +1507,25 @@ yahoo.co.jp##a[data-cl-params*="-mlb"]
 !バスケット
 
 !BASKET COUNT
-yahoo.co.jp##a[data-cl-params*="basket"]
+yahoo.co.jp##a[data-cl-params*="-basket"]
 
 !バスケットボールキング
-yahoo.co.jp##a[data-cl-params*="bballk"]
+yahoo.co.jp##a[data-cl-params*="-bballk"]
 
 !バスケットボールスピリッツ
-yahoo.co.jp##a[data-cl-params*="bbspirits"]
+yahoo.co.jp##a[data-cl-params*="-bbspirits"]
 
 !月刊バスケットボール
-yahoo.co.jp##a[data-cl-params*="nbpvbball"]
+yahoo.co.jp##a[data-cl-params*="-nbpvbball"]
 
 !THE PLAYERS TRIBUNE
-yahoo.co.jp##a[data-cl-params*="tptj"]
+yahoo.co.jp##a[data-cl-params*="-tptj"]
 
 !NBA Rakuten
-yahoo.co.jp##a[data-cl-params*="nrakuten"]
+yahoo.co.jp##a[data-cl-params*="-nrakuten"]
 
 !Basketball News 2for1
-yahoo.co.jp##a[data-cl-params*="bballntfo"]
+yahoo.co.jp##a[data-cl-params*="-bballntfo"]
 
 
 !*******************************************
@@ -1536,82 +1533,84 @@ yahoo.co.jp##a[data-cl-params*="bballntfo"]
 !ゴルフ
 
 !ゴルフダイジェストオンライン
-yahoo.co.jp##a[data-cl-params*="gdo"]
+yahoo.co.jp##a[data-cl-params*="-gdo"]
 
 !みんなのゴルフダイジェスト
-yahoo.co.jp##a[data-cl-params*="minnagolf"]
+yahoo.co.jp##a[data-cl-params*="-minnagolf"]
 
 !ゴルフ情報ALBA.net
-yahoo.co.jp##a[data-cl-params*="alba"]
+yahoo.co.jp##a[data-cl-params*="-alba"]
 
 !ALBATV GOLF
-yahoo.co.jp##a[data-cl-params*="golfnettv"]
+yahoo.co.jp##a[data-cl-params*="-golfnettv"]
 
 !eGOLF
-yahoo.co.jp##a[data-cl-params*="egolf"]
+yahoo.co.jp##a[data-cl-params*="-egolf"]
 
 !mycaddie
 yahoo.co.jp##a[data-cl-params*="-ism"]
 
 !ゴルフネットワーク
-yahoo.co.jp##a[data-cl-params*="golfnw"]
+yahoo.co.jp##a[data-cl-params*="-golfnw"]
 
 !*******************************************
 
 !つり
 
 !TSURINEWS
-yahoo.co.jp##a[data-cl-params*="tsurinews"]
+yahoo.co.jp##a[data-cl-params*="-tsurinews"]
 
 !ルアマガ
-yahoo.co.jp##a[data-cl-params*="tsuriplus"]
+yahoo.co.jp##a[data-cl-params*="-tsuriplus"]
 
 !釣りビジョンマガジン
-yahoo.co.jp##a[data-cl-params*="fvision"]
+yahoo.co.jp##a[data-cl-params*="-fvision"]
 
 !*******************************************
 
 !テニス
 
 !テニスマガジン
-yahoo.co.jp##a[data-cl-params*="tennismagv"]
+yahoo.co.jp##a[data-cl-params*="-tennismagv"]
 
 !Tennis Classic
-yahoo.co.jp##a[data-cl-params*="tennisc"]
+yahoo.co.jp##a[data-cl-params*="-tennisc"]
 
 !tennis365.net
-yahoo.co.jp##a[data-cl-params*="tennisnet"]
+yahoo.co.jp##a[data-cl-params*="-tennisnet"]
 
 !*******************************************
 
 !公営ギャンブル
 
 !馬トク報知
-yahoo.co.jp##a[data-cl-params*="umatokuh"]
+yahoo.co.jp##a[data-cl-params*="-umatokuh"]
 
 !東スポ競馬
-yahoo.co.jp##a[data-cl-params*="tspkeiba"]
+yahoo.co.jp##a[data-cl-params*="-tspkeiba"]
 
 !netkeiba
-yahoo.co.jp##a[data-cl-params*="kiba"]
+yahoo.co.jp##a[data-cl-params*="-kiba"]
 
 !競馬のおはなし
-yahoo.co.jp##a[data-cl-params*="keibana"]
+yahoo.co.jp##a[data-cl-params*="-keibana"]
 
 !優馬
-yahoo.co.jp##a[data-cl-params*="umakeiba"]
+yahoo.co.jp##a[data-cl-params*="-umakeiba"]
 
-!SPAIA
-yahoo.co.jp##a[data-cl-params*="spaia"]
+!SPAIA AI競馬
+!https://news.yahoo.co.jp/media/spaia (SPAIA AI競馬)をターゲットとしていたもの
+!https://article.yahoo.co.jp/media/spaiaと (SPAIA)同一ルールで除去可能なためコメントアウト
+!yahoo.co.jp##a[data-cl-params*="-spaia"]
 
 !netkeirin
-yahoo.co.jp##a[data-cl-params*="nkeirin"]
+yahoo.co.jp##a[data-cl-params*="-nkeirin"]
 
 !BOATRACE
-yahoo.co.jp##a[data-cl-params*="spnaviow"]
+yahoo.co.jp##a[data-cl-params*="-spnaviow"]
 
 !マクール(ボートレース）
-yahoo.co.jp##a[data-cl-params*="macour"]
+yahoo.co.jp##a[data-cl-params*="-macour"]
 
 !競馬ラボ
 yahoo.co.jp##a[data-cl-params*="-keibalab"]
@@ -1621,19 +1620,19 @@ yahoo.co.jp##a[data-cl-params*="-keibalab"]
 !暴力
 
 !RONSPO
-yahoo.co.jp##a[data-cl-params*="ronspo"]
+yahoo.co.jp##a[data-cl-params*="-ronspo"]
 
 !イーファイト
-yahoo.co.jp##a[data-cl-params*="gbr"]
+yahoo.co.jp##a[data-cl-params*="-gbr"]
 
 !バトル・ニュース
-yahoo.co.jp##a[data-cl-params*="battlen"]
+yahoo.co.jp##a[data-cl-params*="-battlen"]
 
 !ゴング格闘技
-yahoo.co.jp##a[data-cl-params*="gkakutogi"]
+yahoo.co.jp##a[data-cl-params*="-gkakutogi"]
 
 !BBM Sports
-yahoo.co.jp##a[data-cl-params*="bbmv"]
+yahoo.co.jp##a[data-cl-params*="-bbmv"]
 
 !プロレスTODAY
 yahoo.co.jp##a[data-cl-params*="-proresut"]
@@ -1643,76 +1642,76 @@ yahoo.co.jp##a[data-cl-params*="-proresut"]
 !その他
 
 !月刊バレーボール
-yahoo.co.jp##a[data-cl-params*="getsuv"]
+yahoo.co.jp##a[data-cl-params*="-getsuv"]
 
 !バレーボールNEXt
-yahoo.co.jp##a[data-cl-params*="vbnext"]
+yahoo.co.jp##a[data-cl-params*="-vbnext"]
 
 !バレーボールマガジン
-yahoo.co.jp##a[data-cl-params*="vbm"]
+yahoo.co.jp##a[data-cl-params*="-vbm"]
 
 !ラグビーリパブリック(ラグビーマガジン）
-yahoo.co.jp##a[data-cl-params*="rugbyrp"]
+yahoo.co.jp##a[data-cl-params*="-rugbyrp"]
 
 !mmotorsport.com
-yahoo.co.jp##a[data-cl-params*="msportcom"]
+yahoo.co.jp##a[data-cl-params*="-msportcom"]
 
 !月刊陸上競技
-yahoo.co.jp##a[data-cl-params*="getsuriku"]
+yahoo.co.jp##a[data-cl-params*="-getsuriku"]
 
 !FINEPLAY
-yahoo.co.jp##a[data-cl-params*="fineplayv"]
+yahoo.co.jp##a[data-cl-params*="-fineplayv"]
 
 !Rallys
-yahoo.co.jp##a[data-cl-params*="rallysv"]
+yahoo.co.jp##a[data-cl-params*="-rallysv"]
 
 !VICTORY
-yahoo.co.jp##a[data-cl-params*="victory"]
+yahoo.co.jp##a[data-cl-params*="-victory"]
 
 !卓球王国
-yahoo.co.jp##a[data-cl-params*="worldtt"]
+yahoo.co.jp##a[data-cl-params*="-worldtt"]
 
 !バドスピ バトミントン・マガジン
-yahoo.co.jp##a[data-cl-params*="badspi"]
+yahoo.co.jp##a[data-cl-params*="-badspi"]
 
 !ワールドジェットスポーツマガジン
-yahoo.co.jp##a[data-cl-params*="wjsm"]
+yahoo.co.jp##a[data-cl-params*="-wjsm"]
 
 !スポーツナビ
-yahoo.co.jp##a[data-cl-params*="spnavido"]
+yahoo.co.jp##a[data-cl-params*="-spnavido"]
 
 !DAZN News
 yahoo.co.jp##a[data-cl-params*="-dazn"]
 
 !カンパラプレス
-yahoo.co.jp##a[data-cl-params*="kanpara"]
+yahoo.co.jp##a[data-cl-params*="-kanpara"]
 
 !スポチュニティコラム
-yahoo.co.jp##a[data-cl-params*="spport"]
+yahoo.co.jp##a[data-cl-params*="-spport"]
 
 !スポーティングニュース
-yahoo.co.jp##a[data-cl-params*="sporting"]
+yahoo.co.jp##a[data-cl-params*="-sporting"]
 
 !イージースポーツ(旧イレブンスポーツ)
-yahoo.co.jp##a[data-cl-params*="elevenspo"]
+yahoo.co.jp##a[data-cl-params*="-elevenspo"]
 
 !ラブすぽ
 yahoo.co.jp##a[data-cl-params*="-tl-love-spo"]
 
 !CoCoKARA NEXT
-yahoo.co.jp##a[data-cl-params*="cocokara"]
+yahoo.co.jp##a[data-cl-params*="-cocokara"]
 
 !アスリートマガジンWEB
-yahoo.co.jp##a[data-cl-params*="hathlete"]
+yahoo.co.jp##a[data-cl-params*="-hathlete"]
 
 !NFL公式公式サイト日本語版
-yahoo.co.jp##a[data-cl-params*="nfljapan"]
+yahoo.co.jp##a[data-cl-params*="-nfljapan"]
 
 !テレビ東京スポーツ
-yahoo.co.jp##a[data-cl-params*="tvtokyos"]
+yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
 
 !報道写真ギャラリーBEHIND
-yahoo.co.jp##a[data-cl-params*="behindn"]
+yahoo.co.jp##a[data-cl-params*="-behindn"]
 
 !-------------------------------------------
 
@@ -1721,58 +1720,58 @@ yahoo.co.jp##a[data-cl-params*="behindn"]
 !-------------------------------------------
 
 !ねとらぼ
-yahoo.co.jp##a[data-cl-params*="nlab"]
+yahoo.co.jp##a[data-cl-params*="-it_nlab"]
 
 !MANTANWEB
-yahoo.co.jp##a[data-cl-params*="mantan"]
+yahoo.co.jp##a[data-cl-params*="-mantan"]
 
 !ふたまん
-yahoo.co.jp##a[data-cl-params*="futaman"]
+yahoo.co.jp##a[data-cl-params*="-futaman"]
 
 !マグミクス
-yahoo.co.jp##a[data-cl-params*="magmix"]
+yahoo.co.jp##a[data-cl-params*="-magmix"]
 
 !攻略大百科
-yahoo.co.jp##a[data-cl-params*="gamepedia"]
+yahoo.co.jp##a[data-cl-params*="-gamepedia"]
 
 !おたくま経済新聞
-yahoo.co.jp##a[data-cl-params*="otakuma"]
+yahoo.co.jp##a[data-cl-params*="-otakuma"]
 
 !デビュー
-yahoo.co.jp##a[data-cl-params*="devi"]
+yahoo.co.jp##a[data-cl-params*="-devi"]
 
 !SPICE
-yahoo.co.jp##a[data-cl-params*="spice"]
+yahoo.co.jp##a[data-cl-params*="-spice"]
 
 !KAI-YOU.net
-yahoo.co.jp##a[data-cl-params*="kaiyou"]
+yahoo.co.jp##a[data-cl-params*="-kaiyou"]
 
 !アニメージュ
-yahoo.co.jp##a[data-cl-params*="animage"]
+yahoo.co.jp##a[data-cl-params*="-animage"]
 
 !超アニメディア
-yahoo.co.jp##a[data-cl-params*="choani"]
+yahoo.co.jp##a[data-cl-params*="-choani"]
 
 !電ファミニコゲーマー
-yahoo.co.jp##a[data-cl-params*="denfami"]
+yahoo.co.jp##a[data-cl-params*="-denfami"]
 
 !ファミ通.com
-yahoo.co.jp##a[data-cl-params*="famitsu"]
+yahoo.co.jp##a[data-cl-params*="-famitsu"]
 
 !アニメアニメ
-yahoo.co.jp##a[data-cl-params*="anmanmv"]
+yahoo.co.jp##a[data-cl-params*="-anmanmv"]
 
 !コミックナタリー
-yahoo.co.jp##a[data-cl-params*="nataliec"]
+yahoo.co.jp##a[data-cl-params*="-nataliec"]
 
 !IGN JAPAN
-yahoo.co.jp##a[data-cl-params*="ignjapan"]
+yahoo.co.jp##a[data-cl-params*="-ignjapan"]
 
 !YahooテレビGガイド(アニメ)
-yahoo.co.jp##a[data-cl-params*="animeanime"]
+yahoo.co.jp##a[data-cl-params*="-animeanime"]
 
 !Game Spark
-yahoo.co.jp##a[data-cl-params*="gamespav"]
+yahoo.co.jp##a[data-cl-params*="-gamespav"]
 
 !Febri
 yahoo.co.jp##a[data-cl-params*="-tl-febri"]
@@ -1794,7 +1793,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-pashplus"]
 !IT系
 
 !Impress watch
-yahoo.co.jp##a[data-cl-params*="impress"]
+yahoo.co.jp##a[data-cl-params*="-impress"]
 
 !PCWatch
 yahoo.co.jp##a[data-cl-params*="-imppcw"]
@@ -1823,38 +1822,36 @@ yahoo.co.jp##a[data-cl-params*="-impdcw"]
 !こどもとIT（インプレス）
 yahoo.co.jp##a[data-cl-params*="-impkitw"]
 
-!ITmedia ビジネスオンライン
-yahoo.co.jp##a[data-cl-params*="zdn_mkt"]
-
-!ITmedia Mobile
-yahoo.co.jp##a[data-cl-params*="zdn_m"]
-
-!ITmedia NEWS
-yahoo.co.jp##a[data-cl-params*="zdn_n"]
-
-!ITmedia PC USER
-yahoo.co.jp##a[data-cl-params*="zdn_pc"]
-
-!ITmedia エンタープライズ
-yahoo.co.jp##a[data-cl-params*="zdn_ep"]
+!ITmedia系列
+yahoo.co.jp##a[data-cl-params*="-zdn_"]
 
 !ITmedia マーケティング
-yahoo.co.jp##a[data-cl-params*="biz_it_mk"]
+yahoo.co.jp##a[data-cl-params*="-biz_it_mk"]
 
+!ITmedia個別ルール（-zdn_）で消せるが、個別に消したい場合用
+!ITmedia ビジネスオンライン
+!yahoo.co.jp##a[data-cl-params*="-zdn_mkt"]
+!ITmedia Mobile
+!yahoo.co.jp##a[data-cl-params*="-zdn_m"]
+!ITmedia NEWS
+!yahoo.co.jp##a[data-cl-params*="-zdn_n"]
+!ITmedia PC USER
+!yahoo.co.jp##a[data-cl-params*="-zdn_pc"]
+!ITmedia エンタープライズ
+!yahoo.co.jp##a[data-cl-params*="-zdn_ep"]
 !TechTarget Japan
-yahoo.co.jp##a[data-cl-params*="zdn_tt"]
+!yahoo.co.jp##a[data-cl-params*="-zdn_tt"]
+!ZDNET Japan
+yahoo.co.jp##a[data-cl-params*="-zdnet"]
 
 !EE Times Japan
 yahoo.co.jp##a[data-cl-params*="-it_eetimes"]
 
 !WIRED デヴァイスって書き方が嫌い
-yahoo.co.jp##a[data-cl-params*="wired"]
-
-!ZDNET Japan
-yahoo.co.jp##a[data-cl-params*="zdnet"]
+yahoo.co.jp##a[data-cl-params*="-wired"]
 
 !CNET Japan
-yahoo.co.jp##a[data-cl-params*="cnetj"]
+yahoo.co.jp##a[data-cl-params*="-cnetj"]
 
 !エンジニアType
 yahoo.co.jp##a[data-cl-params*="-tl-e-type"]
@@ -1876,46 +1873,46 @@ yahoo.co.jp##a[data-cl-params*="-scan"]
 !女性週刊誌
 
 !ananweb
-yahoo.co.jp##a[data-cl-params*="ananweb"]
+yahoo.co.jp##a[data-cl-params*="-ananweb"]
 
 !週刊女性PRIME
-yahoo.co.jp##a[data-cl-params*="jprime"]
+yahoo.co.jp##a[data-cl-params*="-jprime"]
 
 !女性自身
-yahoo.co.jp##a[data-cl-params*="jisin"]
+yahoo.co.jp##a[data-cl-params*="-jisin"]
 
 !ViVi
-yahoo.co.jp##a[data-cl-params*="netvivi"]
+yahoo.co.jp##a[data-cl-params*="-netvivi"]
 
 !ESSEonline
 yahoo.co.jp##a[data-cl-params*="-esse"]
 
 !CanCam.jp
-yahoo.co.jp##a[data-cl-params*="cancam"]
+yahoo.co.jp##a[data-cl-params*="-cancam"]
 
 !女子SPA
-yahoo.co.jp##a[data-cl-params*="jspa"]
+yahoo.co.jp##a[data-cl-params*="-jspa"]
 
 !婦人画報
-yahoo.co.jp##a[data-cl-params*="fujingaho"]
+yahoo.co.jp##a[data-cl-params*="-fujingaho"]
 
 !婦人公論.jp
-yahoo.co.jp##a[data-cl-params*="fujinjp"]
+yahoo.co.jp##a[data-cl-params*="-fujinjp"]
 
 !レタスクラブ
-yahoo.co.jp##a[data-cl-params*="lettucec"]
+yahoo.co.jp##a[data-cl-params*="-lettucec"]
 
 !Pretty Online
-yahoo.co.jp##a[data-cl-params*="lm-prettyonline"]
+yahoo.co.jp##a[data-cl-params*="-lm-prettyonline"]
 
 !MAQUIA ONLINE
-yahoo.co.jp##a[data-cl-params*="maquia"]
+yahoo.co.jp##a[data-cl-params*="-maquia"]
 
 !CREA WEB
-yahoo.co.jp##a[data-cl-params*="creaweb"]
+yahoo.co.jp##a[data-cl-params*="-creaweb"]
 
 !クロワッサンONLINE
-yahoo.co.jp##a[data-cl-params*="crssntv"]
+yahoo.co.jp##a[data-cl-params*="-crssntv"]
 
 !ミキハウス
 yahoo.co.jp##a[data-cl-params*="-mikihouse"]
@@ -1939,52 +1936,49 @@ yahoo.co.jp##a[data-cl-params*="-yoi"]
 !週刊誌・ゴシップ誌
 
 !日刊ゲンダイ
-yahoo.co.jp##a[data-cl-params*="nkgendai"]
+yahoo.co.jp##a[data-cl-params*="-nkgendai"]
 
 !日刊ゲンダイDIGITAL
-yahoo.co.jp##a[data-cl-params*="a_aaac"]
+yahoo.co.jp##a[data-cl-params*="-a_aaac"]
 
 !現代ビジネス
-yahoo.co.jp##a[data-cl-params*="gendaibiz"]
-
-!ダイヤモンドオンライン
-yahoo.co.jp##a[data-cl-params*="diamond"]
+yahoo.co.jp##a[data-cl-params*="-gendaibiz"]
 
 !smartFLASH
-yahoo.co.jp##a[data-cl-params*="flash"]
+yahoo.co.jp##a[data-cl-params*="-flash"]
 
 !週刊SPA
-yahoo.co.jp##a[data-cl-params*="sspa"]
+yahoo.co.jp##a[data-cl-params*="-sspa"]
 
 !bizSPA
-yahoo.co.jp##a[data-cl-params*="bizspa"]
+yahoo.co.jp##a[data-cl-params*="-bizspa"]
 
 !週刊文春オンライン
-yahoo.co.jp##a[data-cl-params*="bunshun"]
+yahoo.co.jp##a[data-cl-params*="-bunshun"]
 
 !FRIDAY
-yahoo.co.jp##a[data-cl-params*="friday"]
+yahoo.co.jp##a[data-cl-params*="-friday"]
 
 !NEWSポストセブン・介護ポストセブン
-yahoo.co.jp##a[data-cl-params*="pseven"]
+yahoo.co.jp##a[data-cl-params*="-pseven"]
 
 !8760 by postseven
-yahoo.co.jp##a[data-cl-params*="hnrm"]
+yahoo.co.jp##a[data-cl-params*="-hnrm"]
 
 !デイリー新潮
-yahoo.co.jp##a[data-cl-params*="shincho"]
+yahoo.co.jp##a[data-cl-params*="-shincho"]
 
 !PHILE WEB
-yahoo.co.jp##a[data-cl-params*="phileweb"]
+yahoo.co.jp##a[data-cl-params*="-phileweb"]
 
 !夕刊フジ
 yahoo.co.jp##a[data-cl-params*="-ykf"]
 
 !週プレNEWS
-yahoo.co.jp##a[data-cl-params*="playboyz"]
+yahoo.co.jp##a[data-cl-params*="-playboyz"]
 
 !WEBザテレビジョン
-yahoo.co.jp##a[data-cl-params*="the_tv"]
+yahoo.co.jp##a[data-cl-params*="-the_tv"]
 
 !東洋経済オンライン
 yahoo.co.jp##a[data-cl-params*="-toyo"]
@@ -2003,60 +1997,63 @@ yahoo.co.jp##a[data-cl-params*="-forbes"]
 yahoo.co.jp##a[data-cl-params*="-sportal"]
 
 !中央公論
-yahoo.co.jp##a[data-cl-params*="chuokou"]
+yahoo.co.jp##a[data-cl-params*="-chuokou"]
 
 !中央公論
-yahoo.co.jp##a[data-cl-params*="onenews"]
+yahoo.co.jp##a[data-cl-params*="-onenews"]
 
 !*******************************************
 
 !株FX暗号通貨
 
 !MONEYPLUS
-yahoo.co.jp##a[data-cl-params*="moneyplus"]
+yahoo.co.jp##a[data-cl-params*="-moneyplus"]
 
 !株探ニュース
-yahoo.co.jp##a[data-cl-params*="stkms"]
+yahoo.co.jp##a[data-cl-params*="-stkms"]
 
 !みんかぶ
-yahoo.co.jp##a[data-cl-params*="minkabu"]
+yahoo.co.jp##a[data-cl-params*="-minkabu"]
 
 !ダイヤモンドZAI
-yahoo.co.jp##a[data-cl-params*="dzai"]
+yahoo.co.jp##a[data-cl-params*="-dzai"]
 
 !DAIAMOND SIGNAL
-yahoo.co.jp##a[data-cl-params*="dsignal"]
+yahoo.co.jp##a[data-cl-params*="-dsignal"]
 
 !ザイFX
-yahoo.co.jp##a[data-cl-params*="zaifxf"]
+yahoo.co.jp##a[data-cl-params*="-zaifxf"]
 
+
+!ダイヤモンドオンライン共通
+yahoo.co.jp##a[data-cl-params*="-diamond"]
 !ダイヤモンド不動産
-yahoo.co.jp##a[data-cl-params*="diamondf"]
+!yahoo.co.jp##a[data-cl-params*="-diamondf"]
 
 !DIAMOND ハーバード・ビジネス・レビュー
 yahoo.co.jp##a[data-cl-params*="-dhbrn"]
 
 !マネーの達人
-yahoo.co.jp##a[data-cl-params*="manetatsun"]
+yahoo.co.jp##a[data-cl-params*="-manetatsun"]
 
 !マネーポストWEB
-yahoo.co.jp##a[data-cl-params*="moneypost"]
+yahoo.co.jp##a[data-cl-params*="-moneypost"]
 
 !CoinDesk JAPAN
-yahoo.co.jp##a[data-cl-params*="coindesk"]
+yahoo.co.jp##a[data-cl-params*="-coindesk"]
 
 !MORE
-yahoo.co.jp##a[data-cl-params*="dmore"]
+yahoo.co.jp##a[data-cl-params*="-dmore"]
 
 !あたらしい経済
-yahoo.co.jp##a[data-cl-params*="neweco"]
+yahoo.co.jp##a[data-cl-params*="-neweco"]
 
 !不動産投資の楽待
-yahoo.co.jp##a[data-cl-params*="rakumachi"]
+yahoo.co.jp##a[data-cl-params*="-rakumachi"]
 
 !サンデー毎日×週刊エコノミストOnline
-yahoo.co.jp##a[data-cl-params*="economist"]
-yahoo.co.jp##a[data-cl-params*="sundaym"]
+yahoo.co.jp##a[data-cl-params*="-economist"]
+yahoo.co.jp##a[data-cl-params*="-sundaym"]
 
 !SUUMOジャーナル
 yahoo.co.jp##a[data-cl-params*="-suumoj"]
@@ -2075,25 +2072,25 @@ yahoo.co.jp##a[data-cl-params*="-yonnana"]
 yahoo.co.jp##a[data-cl-params*="-kinyobi"]
 
 !Wedge
-yahoo.co.jp##a[data-cl-params*="wedge"]
+yahoo.co.jp##a[data-cl-params*="-wedge"]
 
 !ニューズウィーク日本版
-yahoo.co.jp##a[data-cl-params*="newsweek"]
+yahoo.co.jp##a[data-cl-params*="-newsweek"]
 
 !PHPオンライン
-yahoo.co.jp##a[data-cl-params*="php_s"]
-yahoo.co.jp##a[data-cl-params*="php_t"]
-yahoo.co.jp##a[data-cl-params*="phpfamily"]
+yahoo.co.jp##a[data-cl-params*="-php_s"]
+yahoo.co.jp##a[data-cl-params*="-php_t"]
+yahoo.co.jp##a[data-cl-params*="-phpfamily"]
 yahoo.co.jp##a[data-cl-params*="-voice"]
 
 !集英社オンライン
-yahoo.co.jp##a[data-cl-params*="shueisha"]
+yahoo.co.jp##a[data-cl-params*="-shueisha"]
 
 !朝日新聞SDGs Action
-yahoo.co.jp##a[data-cl-params*="asahisdgs"]
+yahoo.co.jp##a[data-cl-params*="-asahisdgs"]
 
-!朝日新聞デジタルマガジン　& [and]
-yahoo.co.jp##a[data-cl-params*="asahiand"]
+!朝日新聞デジタルマガジン　yahoo.co.jp##a[data-cl-params*="- [and]
+yahoo.co.jp##a[data-cl-params*="-asahiand"]
 
 !選挙ドットコム
 yahoo.co.jp##a[data-cl-params*="-senkyocom"] 
@@ -2112,19 +2109,19 @@ yahoo.co.jp##a[data-cl-params*="-tl-shinchan"]
 !外国の新聞社など一部の人にしか関係ないもの
 
 !朝鮮日報
-yahoo.co.jp##a[data-cl-params*="chosun"]
+yahoo.co.jp##a[data-cl-params*="-chosun"]
 
 !中央日報
-yahoo.co.jp##a[data-cl-params*="cnippou"]
+yahoo.co.jp##a[data-cl-params*="-cnippou"]
 
 !聯合ニュース
-yahoo.co.jp##a[data-cl-params*="yonh"]
+yahoo.co.jp##a[data-cl-params*="-yonh"]
 
 !ハンギョレ新聞
-yahoo.co.jp##a[data-cl-params*="hankyoreh"]
+yahoo.co.jp##a[data-cl-params*="-hankyoreh"]
 
 !KOREAWAVE
-yahoo.co.jp##a[data-cl-params*="clc_korea"]
+yahoo.co.jp##a[data-cl-params*="-clc_korea"]
 
 !ブラジル日報
 yahoo.co.jp##a[data-cl-params*="-nikkey"]
@@ -2136,22 +2133,22 @@ yahoo.co.jp##a[data-cl-params*="-macau"]
 yahoo.co.jp##a[data-cl-params*="-ftaiwan"]
 
 !ネットショップ担当者フォーラム
-yahoo.co.jp##a[data-cl-params*="netshop"]
+yahoo.co.jp##a[data-cl-params*="-netshop"]
 
 !Web担当者フォーラム
-yahoo.co.jp##a[data-cl-params*="webtan"]
+yahoo.co.jp##a[data-cl-params*="-webtan"]
 
 !高校生新聞オンライン
 yahoo.co.jp##a[data-cl-params*="-koukousei"]
 
 !リクナビNEXTジャーナル
-yahoo.co.jp##a[data-cl-params*="rikunabin"]
+yahoo.co.jp##a[data-cl-params*="-rikunabin"]
 
 !日本の人事部
-yahoo.co.jp##a[data-cl-params*="biz_jinji"]
+yahoo.co.jp##a[data-cl-params*="-biz_jinji"]
 
 !就職ジャーナル
-yahoo.co.jp##a[data-cl-params*="sjournal"]
+yahoo.co.jp##a[data-cl-params*="-sjournal"]
 
 !エデュナビ
 yahoo.co.jp##a[data-cl-params*="-tl-edunavi"]
@@ -2188,10 +2185,10 @@ yahoo.co.jp##a[data-cl-params*="-medicald"]
 yahoo.co.jp##a[data-cl-params*="-sakae"]
 
 !読売新聞(ヨミドクター）
-yahoo.co.jp##a[data-cl-params*="yomidr"]
+yahoo.co.jp##a[data-cl-params*="-yomidr"]
 
 !「みんなの介護」ニュース
-yahoo.co.jp##a[data-cl-params*="minnanokaigo"]
+yahoo.co.jp##a[data-cl-params*="-minnanokaigo"]
 
 !医療介護CBニュース
 yahoo.co.jp##a[data-cl-params*="-cbn"]
@@ -2206,31 +2203,31 @@ yahoo.co.jp##a[data-cl-params*="-tl-medipalette"]
 !-------------------------------------------
 
 !東スポ
-yahoo.co.jp##a[data-cl-params*="tospoweb"]
+yahoo.co.jp##a[data-cl-params*="-tospoweb"]
 
 !中日スポーツ
-yahoo.co.jp##a[data-cl-params*="chuspo"]
+yahoo.co.jp##a[data-cl-params*="-chuspo"]
 
 !スポニチアネックス
-yahoo.co.jp##a[data-cl-params*="spnannex"]
+yahoo.co.jp##a[data-cl-params*="-spnannex"]
 
 !スポーツ報知
-yahoo.co.jp##a[data-cl-params*="sph"]
+yahoo.co.jp##a[data-cl-params*="-sph"]
 
 !デイリースポーツ
-yahoo.co.jp##a[data-cl-params*="dal"]
+yahoo.co.jp##a[data-cl-params*="-dal"]
 
 !日刊スポーツ
-yahoo.co.jp##a[data-cl-params*="nksports"]
+yahoo.co.jp##a[data-cl-params*="-nksports"]
 
 !サンケイスポーツ
-yahoo.co.jp##a[data-cl-params*="sanspo"]
+yahoo.co.jp##a[data-cl-params*="-sanspo"]
 
 !西日本スポーツ　西スポWeb OTTO　西スポレースサイト
-yahoo.co.jp##a[data-cl-params*="nishispo"]
+yahoo.co.jp##a[data-cl-params*="-nishispo"]
 
 !道新スポーツ
-yahoo.co.jp##a[data-cl-params*="dospo"]
+yahoo.co.jp##a[data-cl-params*="-dospo"]
 
 !-------------------------------------------
 
