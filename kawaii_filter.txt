@@ -224,7 +224,7 @@ yahoo.co.jp##a[data-cl-params*="-halmek"]
 yahoo.co.jp##a[data-cl-params*="-toushin"]
 
 !ライフハッカー・ジャパン
-yahoo.co.jp##a[data-cl-params*="-lifeh"]
+yahoo.co.jp##a[data-cl-params*="-biz_lifeh"]
 
 !anna
 yahoo.co.jp##a[data-cl-params*="-anna"]
@@ -428,7 +428,7 @@ yahoo.co.jp##a[data-cl-params*="-hanako"]
 yahoo.co.jp##a[data-cl-params*="-colocal"]
 
 !特選街web
-yahoo.co.jp##a[data-cl-params*="-tokusengai"]
+yahoo.co.jp##a[data-cl-params*="-tl_tokusengai"]
 
 !リブタイムズ
 yahoo.co.jp##a[data-cl-params*="-tl-libwork"]
@@ -830,7 +830,7 @@ yahoo.co.jp##a[data-cl-params*="-fashiontn"]
 yahoo.co.jp##a[data-cl-params*="-gisele"]
 
 !NONNO
-yahoo.co.jp##a[data-cl-params*="-nonno"]
+yahoo.co.jp##a[data-cl-params*="nonno"]
 !MENS NONNO
 !yahoo.co.jp##a[data-cl-params*="-mensnonno"]
 
@@ -956,7 +956,7 @@ yahoo.co.jp##a[data-cl-params*="-panmegu"]
 yahoo.co.jp##a[data-cl-params*="-otoriyose"]
 
 !ａｓａｔａｎ
-yahoo.co.jp##a[data-cl-params*="-asatan"]
+yahoo.co.jp##a[data-cl-params*="-tl_asatan"]
 
 !Vegewel
 yahoo.co.jp##a[data-cl-params*="-vegewel"]
@@ -997,8 +997,8 @@ yahoo.co.jp##a[data-cl-params*="-tl-tsplus"]
 
 !株式会社ユニークワンの運営する地方メディアを全てブロックする
 !除去ターゲット:https://unique1.co.jp/service/media/
-yahoo.co.jp##a[data-cl-params*="-2shin"]
-yahoo.co.jp##a[data-cl-params*="-days"]
+yahoo.co.jp##a[data-cl-params*="2shin"]
+!yahoo.co.jp##a[data-cl-params*="days"]
 
 !北海道Likers
 yahoo.co.jp##a[data-cl-params*="-hokkaidolikers"]
@@ -1029,6 +1029,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-cjnavi"]
 
 !所沢なび
 yahoo.co.jp##a[data-cl-params*="-tokorozawanavi"]
+
+!NEWSつくば
+yahoo.co.jp##a[data-cl-params*="-newstkb"]
 
 !WeLove群馬
 yahoo.co.jp##a[data-cl-params*="-tl-welovegunma"]
@@ -1090,8 +1093,11 @@ yahoo.co.jp##a[data-cl-params*="-joetsutj"]
 !北陸新幹線で行こう　北陸・信越観光ナビ
 yahoo.co.jp##a[data-cl-params*="-hokuriku"]
 
-!富山デイズ(ユニークワン集約)
-!yahoo.co.jp##a[data-cl-params*="-toyamadays"]
+!富山デイズ
+yahoo.co.jp##a[data-cl-params*="-toyamadays"]
+
+!nan-nan富山
+!yahoo.co.jp##a[data-cl-params*="-tl-nannan"]
 
 !金沢デイズ(ユニークワン集約)
 !yahoo.co.jp##a[data-cl-params*="-kanazawa2shin"]
@@ -1930,7 +1936,6 @@ yahoo.co.jp##a[data-cl-params*="-eltha"]
 yahoo.co.jp##a[data-cl-params*="-yoi"]
 
 
-
 !*******************************************
 
 !週刊誌・ゴシップ誌
@@ -1960,7 +1965,7 @@ yahoo.co.jp##a[data-cl-params*="-bunshun"]
 yahoo.co.jp##a[data-cl-params*="-friday"]
 
 !NEWSポストセブン・介護ポストセブン
-yahoo.co.jp##a[data-cl-params*="-pseven"]
+yahoo.co.jp##a[data-cl-params*="pseven"]
 
 !8760 by postseven
 yahoo.co.jp##a[data-cl-params*="-hnrm"]
