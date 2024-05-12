@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240427
+! Version: 20240512
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -14,6 +14,9 @@
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
 !おおまかな更新履歴
+
+!2024.5
+!漏れ追加
 
 !2024.4
 !first-all-digest修正、フォロー中除去
@@ -2229,7 +2232,8 @@ yahoo.co.jp##a[data-cl-params*="-nksports"]
 yahoo.co.jp##a[data-cl-params*="-sanspo"]
 
 !西日本スポーツ　西スポWeb OTTO　西スポレースサイト
-yahoo.co.jp##a[data-cl-params*="-nishispo"]
+!西スポ系の一括除去のため"-"をつけていない
+yahoo.co.jp##a[data-cl-params*="nishispo"]
 
 !道新スポーツ
 yahoo.co.jp##a[data-cl-params*="-dospo"]
