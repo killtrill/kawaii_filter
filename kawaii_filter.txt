@@ -1725,6 +1725,9 @@ yahoo.co.jp##a[data-cl-params*="-tvtokyos"]
 !報道写真ギャラリーBEHIND
 yahoo.co.jp##a[data-cl-params*="-behindn"]
 
+!RUNNET
+yahoo.co.jp##a[data-cl-params*="-runnetjp"]
+
 !-------------------------------------------
 
 !アニメ系サイト
