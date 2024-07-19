@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20240607
+! Version: 20240719
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -453,7 +453,7 @@ yahoo.co.jp##a[data-cl-params*="-mdpr"]
 yahoo.co.jp##a[data-cl-params*="-tvdogatch"]
 !Yahoo!テレビGガイド+韓国テレビドラマガイド
 yahoo.co.jp##a[data-cl-params*="-tvguide"]
-!yahoo.co.jp##a[data-cl-params*="-ktvguide"]
+yahoo.co.jp##a[data-cl-params*="-ktvguide"]
 
 !ウォーカープラス
 yahoo.co.jp##a[data-cl-params*="-tkwalk"]
@@ -1055,7 +1055,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-urayasu"]
 yahoo.co.jp##a[data-cl-params*="-urbanlifemetro"]
 
 !タイムアウト東京
-yahoo.co.jp##a[data-cl-params*="-timeouttokyo"]
+yahoo.co.jp##a[data-cl-params*="-tl_timeouttokyo"]
 
 !中央区民マガジン
 yahoo.co.jp##a[data-cl-params*="-tl-chuo"]
@@ -1153,6 +1153,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-taihei-dskyoto"]
 !KYOTO LIFE
 yahoo.co.jp##a[data-cl-params*="-tl-kyotolife"]
 
+!京都速報
+yahoo.co.jp##a[data-cl-params*="-tl-kyosoku"]
+
 !M KYOTO by leaf
 yahoo.co.jp##a[data-cl-params*="-tl-mkyotobyleaf"]
 
@@ -1176,6 +1179,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-par-ple"]
 
 !Narakko 奈良っ子
 yahoo.co.jp##a[data-cl-params*="-narakko"]
+
+!Kiss PRESS
+yahoo.co.jp##a[data-cl-params*="-tl-kisspress"]
 
 !神戸ジャーナル
 yahoo.co.jp##a[data-cl-params*="-kobe_journal"]
@@ -1204,8 +1210,14 @@ yahoo.co.jp##a[data-cl-params*="-kuratoco"]
 !備後とことこ
 yahoo.co.jp##a[data-cl-params*="-bintoco"]
 
+!愛媛こまち
+yahoo.co.jp##a[data-cl-params*="-tl-ekomachi"]
+
 !ひろしまリード
 yahoo.co.jp##a[data-cl-params*="-hiroshimaread"]
+
+!旅やか広島
+yahoo.co.jp##a[data-cl-params*="-tl-tabiyaka"]
 
 !日刊新周南
 yahoo.co.jp##a[data-cl-params*="-sshunan"]
