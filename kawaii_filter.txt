@@ -77,7 +77,7 @@ yahoo.co.jp##a[data-cl-params*="promo"]
 yahoo.co.jp##div[class^="FollowCarousel_FollowCarousel__3auIV"]
 
 !Yahooトップ「ニュース」タブ　エンタメ記事全除去
-yahoo.co.jp##div[class^="uamods-ytopnewstablist-entertainment"]
+yahoo.co.jp##div[id^="uamods-ytopnewstablist-entertainment"]
 
 !news.yahoo.co.jp 「エンタメ」タブ記事全除去
 news.yahoo.co.jp##section[id*="tab-panel-entertainment"]
