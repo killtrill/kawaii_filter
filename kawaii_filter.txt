@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20250322
+! Version: 20250504
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -14,6 +14,9 @@
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
 !おおまかな更新履歴
+
+!2025.05
+!漏れ発見
 
 !2025.03
 !おとく、エンタメ
@@ -687,6 +690,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-tbsradio"]
 !草の実堂
 yahoo.co.jp##a[data-cl-params*="-tl-kusanomido"]
 
+!article.yahoo.co.jp encore
+yahoo.co.jp##a[data-cl-params*="-tl-encore"]
+
 !*******************************************
 
 !自動車・バイク
@@ -922,6 +928,10 @@ yahoo.co.jp##a[data-cl-params*="-tl-therakejapan"]
 
 !THE NIKKEI MAGAGZINE
 yahoo.co.jp##a[data-cl-params*="-nikkeisty"]
+
+!Dig-it
+yahoo.co.jp##a[data-cl-params*="-dig-it"]
+
 
 !*******************************************
 
