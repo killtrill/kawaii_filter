@@ -456,6 +456,9 @@ yahoo.co.jp##a[data-cl-params*="-yomitere"]
 !LASISA
 yahoo.co.jp##a[data-cl-params*="-lasisa"]
 
+!シニアカレンダー
+yahoo.co.jp##a[data-cl-params*="-tl-kaigo"]
+
 !*******************************************
 
 !芸能
@@ -1096,6 +1099,9 @@ yahoo.co.jp##a[data-cl-params*="-btecho"]
 !Tokyo Art Beat
 yahoo.co.jp##a[data-cl-params*="-tartbeat"]
 
+!湘南人
+yahoo.co.jp##a[data-cl-params*="-tl-shonanjin"]
+
 !歌舞伎町文化新聞
 yahoo.co.jp##a[data-cl-params*="-tl-kbs"]
 
@@ -1245,6 +1251,9 @@ yahoo.co.jp##a[data-cl-params*="-hiroshimaread"]
 
 !旅やか広島
 yahoo.co.jp##a[data-cl-params*="-tl-tabiyaka"]
+
+!山口さん
+yahoo.co.jp##a[data-cl-params*="-tl-yamaguchisan"]
 
 !日刊新周南
 yahoo.co.jp##a[data-cl-params*="-sshunan"]
