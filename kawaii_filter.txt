@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20250629
+! Version: 20250726
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -82,6 +82,9 @@ yahoo.co.jp##div[class^="FollowCarousel_FollowCarousel__3auIV"]
 !Yahooトップ「ニュース」タブ　エンタメ記事全除去
 yahoo.co.jp##ul[id^="uamods-ytopnewstablist-entertainment"]
 yahoo.co.jp##section[id^="tabpanelTopics3"]
+
+!Yahooトップ「ニュース」タブ　あなたが見逃したヤフトピ除去
+yahoo.co.jp##section[class^="sc-y9ahl5-0jTCbkM"]
 
 !news.yahoo.co.jp 「エンタメ」タブ記事全除去
 news.yahoo.co.jp##section[id*="tab-panel-entertainment"]
@@ -306,6 +309,9 @@ yahoo.co.jp##a[data-cl-params*="-elleonline"]
 !リセマム
 yahoo.co.jp##a[data-cl-params*="-resemom"]
 
+!弁護士JPニュース
+yahoo.co.jp##a[data-cl-params*="-bengojp"]
+
 !弁護士ドットコムニュース
 yahoo.co.jp##a[data-cl-params*="-bengocom"]
 
@@ -458,6 +464,9 @@ yahoo.co.jp##a[data-cl-params*="-lasisa"]
 
 !シニアカレンダー
 yahoo.co.jp##a[data-cl-params*="-tl-kaigo"]
+
+!メンズレシピ
+yahoo.co.jp##a[data-cl-params*="-tl-mensrecipe"]
 
 !*******************************************
 
@@ -1114,6 +1123,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-irohameguri"]
 !でろかる
 yahoo.co.jp##a[data-cl-params*="-tl-de-lokal"]
 
+!ゼロニィゴ新潟
+yahoo.co.jp##a[data-cl-params*="-tl-zeroniigo"]
+
 !日刊にいがたWEBタウン情報
 yahoo.co.jp##a[data-cl-params*="-tjniigata"]
 
@@ -1194,6 +1206,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-mkyotobyleaf"]
 
 !京都観光Naviぷらす
 yahoo.co.jp##a[data-cl-params*="-tl-kyotonaviplus"]
+
+!京都くらす
+yahoo.co.jp##a[data-cl-params*="-tl-kyotokurasu"]
 
 !大阪つーしん
 yahoo.co.jp##a[data-cl-params*="-tl-osk2"]
@@ -1438,6 +1453,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-rhobidas"]
 
 !あとなびマガジン
 yahoo.co.jp##a[data-cl-params*="-tl-atnavi"]
+
+!地球の歩き方ウェブ
+yahoo.co.jp##a[data-cl-params*="-tl-arukikata"]
 
 
 !*******************************************
@@ -1712,6 +1730,9 @@ yahoo.co.jp##a[data-cl-params*="-vbnext"]
 
 !バレーボールマガジン
 yahoo.co.jp##a[data-cl-params*="-vbm"]
+
+!バレーボールキング
+yahoo.co.jp##a[data-cl-params*="-vballk"]
 
 !ラグビーリパブリック(ラグビーマガジン）
 yahoo.co.jp##a[data-cl-params*="-rugbyrp"]
