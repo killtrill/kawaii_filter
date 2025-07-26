@@ -1893,7 +1893,7 @@ yahoo.co.jp##a[data-cl-params*="-tl-pashplus"]
 yahoo.co.jp##a[data-cl-params*="-tl-nijimen"]
 
 !アニメイトタイムズ
-yahoo.co.jp##a[data-cl-params*="-tl-animateh"]
+yahoo.co.jp##a[data-cl-params*="-tl-animate"]
 
 
 !-------------------------------------------
