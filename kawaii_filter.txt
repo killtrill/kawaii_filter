@@ -15,6 +15,9 @@
 
 !おおまかな更新履歴
 
+!2025.07
+!AIなど
+
 !2025.05-06
 !漏れ発見
 
@@ -75,6 +78,16 @@ yahoo.co.jp##a[href*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="takarabako"]
 yahoo.co.jp##a[data-cl-params*="pctop_serv_pc"]
 yahoo.co.jp##a[data-cl-params*="promo"]
+
+!yahooトップ　AIチャット
+yahoo.co.jp##a[class^="riff-Link__root riff-flex riff-justify-center riff-items-center riff-relative riff-w-10 riff-h-10 riff-text-link riff-bg-content riff-rounded-tl-full riff-rounded-tr-full riff-rounded-bl-full riff-rounded-br-full"]
+
+!Yahooトップ　上の
+yahoo.co.jp##div[id^="log-psnl-toplink"]
+
+!Yahooトップ　当たるかな（ズバトク？）
+yahoo.co.jp##a[data-cl-params*="toku_123"]
+
 
 !Yahooトップ　フォロー中　全除去
 yahoo.co.jp##div[class^="FollowCarousel_FollowCarousel__3auIV"]
