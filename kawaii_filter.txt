@@ -158,6 +158,7 @@ yahoo.co.jp##aside[class^="ArticleBox_ArticleBox__Z3L_F Timeline_Timeline__O_4dZ
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
+yahoo.co.jp##div[class^="ArticleBox_ArticleBox__J9urw Comic ArticleBox_ArticleBoxHasBorder__bpWOB"]
 
 !-------------------------------------------
 
