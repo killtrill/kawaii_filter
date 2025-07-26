@@ -84,7 +84,7 @@ yahoo.co.jp##ul[id^="uamods-ytopnewstablist-entertainment"]
 yahoo.co.jp##section[id^="tabpanelTopics3"]
 
 !Yahooトップ「ニュース」タブ　あなたが見逃したヤフトピ除去
-yahoo.co.jp##section[class^="sc-y9ahl5-0jTCbkM"]
+yahoo.co.jp##section[class^="sc-y9ahl5-0 jTCbkM"]
 
 !news.yahoo.co.jp 「エンタメ」タブ記事全除去
 news.yahoo.co.jp##section[id*="tab-panel-entertainment"]
