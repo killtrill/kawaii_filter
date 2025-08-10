@@ -156,7 +156,7 @@ yahoo.co.jp##aside[class^="ArticleBox_ArticleBox__Z3L_F Timeline_Timeline__O_4dZ
 !yahoo.co.jp##a[data-cl-params*="ytop_tl_sptarget_sp_"]
 
 !Yahoo検索クイズ
-!yahoo.co.jp##a[href*="prm_ytop_starge_kquiz"]
+yahoo.co.jp##a[href*="prm_ytop_starge_kquiz"]
 
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
