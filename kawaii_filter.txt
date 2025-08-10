@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20250726
+! Version: 20250810
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -154,6 +154,9 @@ yahoo.co.jp##aside[class^="ArticleBox_ArticleBox__Z3L_F Timeline_Timeline__O_4dZ
 
 !LINE VOOM(再登場するまで待ち）
 !yahoo.co.jp##a[data-cl-params*="ytop_tl_sptarget_sp_"]
+
+!Yahoo検索クイズ
+!yahoo.co.jp##a[href*="prm_ytop_starge_kquiz"]
 
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
@@ -481,6 +484,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-kaigo"]
 
 !メンズレシピ
 yahoo.co.jp##a[data-cl-params*="-tl-mensrecipe"]
+
+!LIFE LISTh
+yahoo.co.jp##a[data-cl-params*="-tl-lifelist"]
 
 !*******************************************
 
@@ -1181,6 +1187,10 @@ yahoo.co.jp##a[data-cl-params*="-tl-numa2"]
 
 !テレしずwasabee
 yahoo.co.jp##a[data-cl-params*="-tl-wasabee"]
+
+!SHIZUOKA Life
+yahoo.co.jp##a[data-cl-params*="-tl-shizuokalife"]
+
 
 !アットエス
 yahoo.co.jp##a[data-cl-params*="-tl-ates"]
