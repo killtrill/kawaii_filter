@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20251206
+! Version: 20251221
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -1490,6 +1490,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-atnavi"]
 !地球の歩き方ウェブ
 yahoo.co.jp##a[data-cl-params*="-tl-arukikata"]
 
+!イロハニアート
+yahoo.co.jp##a[data-cl-params*="-tl-irohani_art"]
+
 
 !*******************************************
 
@@ -2199,6 +2202,10 @@ yahoo.co.jp##a[data-cl-params*="-biz_mos"]
 
 !47NEWS
 yahoo.co.jp##a[data-cl-params*="-yonnana"]
+
+!@Press
+yahoo.co.jp##a[data-cl-params*="-atpress"]
+
 
 !週刊金曜日
 yahoo.co.jp##a[data-cl-params*="-kinyobi"]
