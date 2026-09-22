@@ -2221,6 +2221,10 @@ yahoo.co.jp##a[data-cl-params*="-rikon"]
 !交通事故の羅針盤(朝日新聞系)
 yahoo.co.jp##a[data-cl-params*="-kotsujiko"]
 
+!債務整理のとびら(朝日新聞系)
+yahoo.co.jp##a[data-cl-params*="-saimu"]
+
+
 
 
 !週刊金曜日
