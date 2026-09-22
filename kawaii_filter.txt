@@ -1,5 +1,5 @@
 ! Title: kawaii filter
-! Version: 20251221
+! Version: 20260922
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルター
@@ -14,6 +14,9 @@
 ! https://adguard.com/ja/blog/adguard-4-3-for-ios.html
 
 !おおまかな更新履歴
+
+!2026.09
+!漏れ追加
 
 !2025.12
 !漏れ
@@ -790,7 +793,7 @@ yahoo.co.jp##a[data-cl-params*="-bikeno"]
 !webCG
 yahoo.co.jp##a[data-cl-params*="-webcg"]
 
-!andGP
+!andGP(GoodPress Web)
 yahoo.co.jp##a[data-cl-params*="-andgp"]
 
 !webオートバイ
@@ -2053,7 +2056,7 @@ yahoo.co.jp##a[data-cl-params*="-crssntv"]
 !ミキハウス
 yahoo.co.jp##a[data-cl-params*="-mikihouse"]
 
-!講談社 JOSEISHI.NET
+!講談社 JOSEISHI.NET(FRaU)
 yahoo.co.jp##a[data-cl-params*="-kjn"]
 
 !Oggi.jp
@@ -2196,6 +2199,9 @@ yahoo.co.jp##a[data-cl-params*="-suumoj"]
 !ウエルスアドバイザー(ウェルスアドバイザー)
 yahoo.co.jp##a[data-cl-params*="-biz_mos"]
 
+!finasee
+yahoo.co.jp##a[data-cl-params*="-finasee"]
+
 !*******************************************
 
 !未分類
@@ -2205,6 +2211,13 @@ yahoo.co.jp##a[data-cl-params*="-yonnana"]
 
 !@Press
 yahoo.co.jp##a[data-cl-params*="-atpress"]
+
+!離婚のカタチ(朝日新聞系)
+yahoo.co.jp##a[data-cl-params*="-rikon"]
+
+!交通事故の羅針盤(朝日新聞系)
+yahoo.co.jp##a[data-cl-params*="-kotsujiko"]
+
 
 
 !週刊金曜日
